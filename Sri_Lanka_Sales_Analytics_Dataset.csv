@@ -1,0 +1,1001 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,Product Name,Category,Sub-Category,Region,City,Customer Segment,Quantity,Unit Price,Sales,Cost,Profit,Payment Method
+ORD-0001,2025-05-21,CUST-140,Kavindu Wijesinghe,Smartphone,Technology,Phones,Western,Colombo,Consumer,1,89520.98,89520.98,57888.63,31632.35,Cash
+ORD-0002,2025-04-30,CUST-167,Dilshan Jayasinghe,Smartphone,Technology,Phones,Central,Kandy,Corporate,2,87803.35,175606.7,117954.63,57652.07,Bank Transfer
+ORD-0003,2025-03-23,CUST-087,Sachini Fernando,Laptop,Technology,Computers,North Central,Anuradhapura,Corporate,3,175399.21,526197.63,347513.9,178683.73,Cash
+ORD-0004,2025-06-26,CUST-138,Sachini Wijesinghe,Storage Cabinet,Furniture,Storage,Uva,Badulla,Consumer,3,39867.34,119602.02,96845.38,22756.64,Bank Transfer
+ORD-0005,2025-07-05,CUST-059,Dinuka Fernando,Monitor,Technology,Computers,Sabaragamuwa,Ratnapura,Consumer,3,70225.74,210677.22,133129.96,77547.26,Cash
+ORD-0006,2025-08-21,CUST-054,Kasun Fernando,Notebook,Office Supplies,Paper,Central,Matale,Home Office,3,635.94,1907.82,1366.47,541.35,Card
+ORD-0007,2025-05-06,CUST-164,Ishara Karunaratne,Binder,Office Supplies,Binders,North Western,Kurunegala,Consumer,1,1176.86,1176.86,1032.43,144.43,Card
+ORD-0008,2025-06-11,CUST-146,Ayesha Jayasinghe,Laptop,Technology,Computers,North Central,Anuradhapura,Home Office,2,167506.23,335012.46,287244.84,47767.62,Online
+ORD-0009,2025-11-26,CUST-144,Kasun Wijesinghe,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Home Office,2,625.55,1251.1,855.91,395.19,Online
+ORD-0010,2025-03-12,CUST-029,Ravindu Silva,Storage Cabinet,Furniture,Storage,Central,Kandy,Home Office,2,35512.73,71025.46,44905.87,26119.59,Online
+ORD-0011,2025-07-17,CUST-142,Amal Fernando,Monitor,Technology,Computers,Western,Gampaha,Home Office,2,73397.8,146795.6,111207.9,35587.7,Bank Transfer
+ORD-0012,2025-05-31,CUST-068,Tharushi Fernando,Storage Cabinet,Furniture,Storage,Western,Gampaha,Home Office,2,37718.64,75437.28,65478.97,9958.31,Bank Transfer
+ORD-0013,2025-04-12,CUST-136,Amal Karunaratne,Binder,Office Supplies,Binders,Northern,Jaffna,Corporate,1,1250.4,1250.4,950.6,299.8,Cash
+ORD-0014,2025-07-05,CUST-015,Ishara Fernando,Smartphone,Technology,Phones,Sabaragamuwa,Ratnapura,Consumer,5,100041.32,500206.6,350121.45,150085.15,Online
+ORD-0015,2025-09-30,CUST-141,Tharushi Bandara,Smartphone,Technology,Phones,North Central,Anuradhapura,Home Office,4,89351.55,357406.2,265757.75,91648.45,Online
+ORD-0016,2025-10-04,CUST-103,Sahan Gunasekara,Office Chair,Furniture,Chairs,Sabaragamuwa,Ratnapura,Home Office,4,28850.61,115402.44,92941.29,22461.15,Online
+ORD-0017,2025-04-26,CUST-151,Ishara Perera,Smartphone,Technology,Phones,Central,Kandy,Consumer,1,87719.72,87719.72,67019.59,20700.13,Cash
+ORD-0018,2025-01-17,CUST-172,Rashmi Jayasinghe,Office Chair,Furniture,Chairs,Western,Gampaha,Home Office,5,26077.44,130387.2,88908.58,41478.62,Card
+ORD-0019,2025-08-31,CUST-025,Sachini Wijesinghe,Monitor,Technology,Computers,Northern,Jaffna,Corporate,1,67705.95,67705.95,49143.39,18562.56,Online
+ORD-0020,2025-01-28,CUST-104,Ayesha Fernando,Notebook,Office Supplies,Paper,Southern,Matara,Consumer,3,700.35,2101.05,1356.41,744.64,Card
+ORD-0021,2025-08-18,CUST-020,Hasini Fernando,Office Chair,Furniture,Chairs,Southern,Hambantota,Consumer,1,26582.03,26582.03,19678.23,6903.8,Cash
+ORD-0022,2025-05-02,CUST-103,Nimali Silva,Smartphone,Technology,Phones,Sabaragamuwa,Ratnapura,Corporate,1,94781.75,94781.75,64032.11,30749.64,Cash
+ORD-0023,2025-08-21,CUST-143,Rashmi Silva,Notebook,Office Supplies,Paper,Central,Matale,Consumer,1,670.45,670.45,543.02,127.43,Bank Transfer
+ORD-0024,2025-10-24,CUST-013,Rashmi Silva,Office Chair,Furniture,Chairs,Western,Colombo,Consumer,4,26033.09,104132.36,73052.73,31079.63,Cash
+ORD-0025,2025-11-01,CUST-146,Ishara Perera,Printer,Technology,Accessories,Western,Gampaha,Home Office,1,55010.34,55010.34,39881.49,15128.85,Cash
+ORD-0026,2025-10-26,CUST-172,Ayesha Jayasinghe,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Corporate,3,630.9,1892.7,1301.8,590.9,Online
+ORD-0027,2025-11-27,CUST-019,Amal Gunasekara,Printer,Technology,Accessories,Eastern,Batticaloa,Home Office,1,50470.59,50470.59,41158.0,9312.59,Cash
+ORD-0028,2025-04-20,CUST-018,Ishara Karunaratne,Smartphone,Technology,Phones,Southern,Hambantota,Corporate,2,89413.34,178826.68,127099.69,51726.99,Card
+ORD-0029,2025-10-06,CUST-168,Amal Bandara,Pen Set,Office Supplies,Writing,Uva,Badulla,Home Office,3,916.08,2748.24,2409.33,338.91,Cash
+ORD-0030,2025-03-01,CUST-073,Nuwan Karunaratne,Printer,Technology,Accessories,Central,Matale,Consumer,5,54016.91,270084.55,178368.28,91716.27,Bank Transfer
+ORD-0031,2025-05-09,CUST-109,Kasun Perera,Binder,Office Supplies,Binders,Southern,Matara,Consumer,6,1266.45,7598.7,4893.54,2705.16,Bank Transfer
+ORD-0032,2025-05-15,CUST-144,Amal Fernando,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,1,51516.07,51516.07,41391.8,10124.27,Card
+ORD-0033,2025-07-09,CUST-079,Sahan Perera,Binder,Office Supplies,Binders,Western,Colombo,Corporate,3,1132.43,3397.29,2218.89,1178.4,Card
+ORD-0034,2025-02-22,CUST-159,Ravindu Jayasinghe,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Consumer,2,28268.28,56536.56,47910.51,8626.05,Card
+ORD-0035,2025-04-02,CUST-172,Ishara Bandara,Notebook,Office Supplies,Paper,Western,Colombo,Consumer,4,632.55,2530.2,2181.06,349.14,Cash
+ORD-0036,2025-01-20,CUST-118,Sahan Bandara,Notebook,Office Supplies,Paper,Uva,Badulla,Consumer,5,621.13,3105.65,2584.87,520.78,Card
+ORD-0037,2025-04-09,CUST-072,Sahan Wijesinghe,Laptop,Technology,Computers,Eastern,Batticaloa,Home Office,2,173623.77,347247.54,221561.08,125686.46,Bank Transfer
+ORD-0038,2025-05-14,CUST-028,Dilshan Karunaratne,Laptop,Technology,Computers,Western,Gampaha,Home Office,1,193320.99,193320.99,133202.27,60118.72,Bank Transfer
+ORD-0039,2025-09-19,CUST-012,Dilshan Perera,Notebook,Office Supplies,Paper,Northern,Jaffna,Home Office,1,691.55,691.55,462.94,228.61,Card
+ORD-0040,2025-02-05,CUST-170,Sachini Bandara,Storage Cabinet,Furniture,Storage,Southern,Galle,Home Office,8,40558.29,324466.32,253739.28,70727.04,Bank Transfer
+ORD-0041,2025-07-26,CUST-171,Chamari Silva,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Home Office,3,655.66,1966.98,1317.64,649.34,Bank Transfer
+ORD-0042,2025-01-01,CUST-156,Ayesha Gunasekara,Notebook,Office Supplies,Paper,Southern,Hambantota,Corporate,2,619.86,1239.72,1021.9,217.82,Online
+ORD-0043,2025-08-31,CUST-169,Kavindu Bandara,Office Chair,Furniture,Chairs,Southern,Hambantota,Home Office,4,30060.05,120240.2,97556.88,22683.32,Bank Transfer
+ORD-0044,2025-05-01,CUST-007,Nimali Jayasinghe,Smartphone,Technology,Phones,Uva,Badulla,Corporate,3,90814.54,272443.62,183020.48,89423.14,Cash
+ORD-0045,2025-11-19,CUST-103,Ishara Silva,Pen Set,Office Supplies,Writing,Southern,Galle,Home Office,3,931.44,2794.32,2011.45,782.87,Cash
+ORD-0046,2025-08-06,CUST-119,Nimali Jayasinghe,Smartphone,Technology,Phones,North Central,Anuradhapura,Consumer,1,99622.47,99622.47,79791.33,19831.14,Online
+ORD-0047,2025-08-26,CUST-114,Dilshan Gunasekara,Printer,Technology,Accessories,North Central,Anuradhapura,Consumer,3,56059.27,168177.81,130307.13,37870.68,Online
+ORD-0048,2025-05-07,CUST-125,Ishara Bandara,Pen Set,Office Supplies,Writing,Central,Matale,Corporate,5,867.93,4339.65,3568.04,771.61,Cash
+ORD-0049,2025-05-20,CUST-039,Ishara Wijesinghe,Desk,Furniture,Tables,Central,Kandy,Home Office,2,47829.79,95659.58,61313.03,34346.55,Card
+ORD-0050,2025-08-01,CUST-053,Dilshan Wijesinghe,Office Chair,Furniture,Chairs,Western,Gampaha,Home Office,2,28190.9,56381.8,41051.66,15330.14,Cash
+ORD-0051,2025-09-02,CUST-108,Ishara Gunasekara,Monitor,Technology,Computers,Southern,Galle,Consumer,1,66387.14,66387.14,54165.5,12221.64,Bank Transfer
+ORD-0052,2025-01-15,CUST-043,Hasini Silva,Notebook,Office Supplies,Paper,Southern,Matara,Home Office,2,667.56,1335.12,1104.83,230.29,Cash
+ORD-0053,2025-10-16,CUST-119,Tharushi Perera,Notebook,Office Supplies,Paper,Northern,Jaffna,Corporate,3,606.73,1820.19,1331.36,488.83,Online
+ORD-0054,2025-08-21,CUST-108,Kasun Fernando,Storage Cabinet,Furniture,Storage,Central,Kandy,Corporate,2,39588.28,79176.56,56894.12,22282.44,Cash
+ORD-0055,2025-06-29,CUST-011,Amal Jayasinghe,Binder,Office Supplies,Binders,Western,Colombo,Consumer,1,1117.17,1117.17,970.7,146.47,Cash
+ORD-0056,2025-05-03,CUST-056,Hasini Bandara,Monitor,Technology,Computers,Western,Kalutara,Corporate,1,69843.71,69843.71,53544.43,16299.28,Card
+ORD-0057,2025-02-28,CUST-149,Amal Bandara,Monitor,Technology,Computers,Northern,Jaffna,Home Office,4,64341.77,257367.08,180380.9,76986.18,Online
+ORD-0058,2025-04-12,CUST-027,Dinuka Fernando,Notebook,Office Supplies,Paper,North Western,Kurunegala,Home Office,1,669.82,669.82,524.52,145.3,Cash
+ORD-0059,2025-08-08,CUST-004,Dilshan Gunasekara,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Consumer,3,35379.26,106137.78,83674.91,22462.87,Online
+ORD-0060,2025-08-24,CUST-167,Kasun Gunasekara,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Corporate,3,37607.76,112823.28,91475.62,21347.66,Online
+ORD-0061,2025-06-15,CUST-116,Ishara Gunasekara,Monitor,Technology,Computers,Central,Matale,Home Office,5,71598.35,357991.75,230021.28,127970.47,Online
+ORD-0062,2025-09-11,CUST-067,Ayesha Bandara,Storage Cabinet,Furniture,Storage,Western,Colombo,Home Office,5,36065.59,180327.95,121748.62,58579.33,Bank Transfer
+ORD-0063,2025-09-22,CUST-126,Ishara Gunasekara,Binder,Office Supplies,Binders,Western,Colombo,Home Office,8,1120.44,8963.52,7235.53,1727.99,Online
+ORD-0064,2025-01-09,CUST-079,Sahan Gunasekara,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Home Office,1,859.91,859.91,687.81,172.1,Bank Transfer
+ORD-0065,2025-10-09,CUST-065,Ishara Fernando,Notebook,Office Supplies,Paper,North Western,Kurunegala,Home Office,2,671.1,1342.2,926.71,415.49,Card
+ORD-0066,2025-10-02,CUST-124,Kasun Bandara,Storage Cabinet,Furniture,Storage,Western,Gampaha,Consumer,8,39156.19,313249.52,209814.73,103434.79,Card
+ORD-0067,2025-07-04,CUST-071,Nimali Perera,Desk,Furniture,Tables,Central,Kandy,Home Office,1,41501.87,41501.87,31494.74,10007.13,Bank Transfer
+ORD-0068,2025-09-09,CUST-123,Hasini Karunaratne,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,1,47942.05,47942.05,33268.34,14673.71,Cash
+ORD-0069,2025-09-02,CUST-148,Nimali Silva,Desk,Furniture,Tables,Uva,Badulla,Consumer,1,41870.47,41870.47,31313.0,10557.47,Bank Transfer
+ORD-0070,2025-03-02,CUST-159,Ishara Wijesinghe,Smartphone,Technology,Phones,Central,Kandy,Corporate,3,93725.85,281177.55,217910.63,63266.92,Online
+ORD-0071,2025-10-29,CUST-157,Sachini Jayasinghe,Desk,Furniture,Tables,Uva,Badulla,Home Office,10,43598.74,435987.4,340709.81,95277.59,Card
+ORD-0072,2025-02-11,CUST-001,Dilshan Gunasekara,Desk,Furniture,Tables,Eastern,Batticaloa,Home Office,1,42651.46,42651.46,27276.33,15375.13,Online
+ORD-0073,2025-04-29,CUST-019,Ishara Bandara,Desk,Furniture,Tables,Western,Colombo,Home Office,1,43435.57,43435.57,36637.81,6797.76,Card
+ORD-0074,2025-10-06,CUST-037,Kavindu Perera,Notebook,Office Supplies,Paper,Western,Gampaha,Consumer,1,613.49,613.49,422.73,190.76,Bank Transfer
+ORD-0075,2025-10-19,CUST-078,Chamari Bandara,Monitor,Technology,Computers,North Western,Kurunegala,Home Office,6,67337.99,404027.94,299732.76,104295.18,Online
+ORD-0076,2025-11-03,CUST-065,Amal Fernando,Pen Set,Office Supplies,Writing,Western,Gampaha,Consumer,1,890.21,890.21,626.53,263.68,Cash
+ORD-0077,2025-01-21,CUST-114,Kasun Silva,Desk,Furniture,Tables,Northern,Jaffna,Home Office,4,42661.37,170645.48,128825.49,41819.99,Online
+ORD-0078,2025-08-29,CUST-042,Ayesha Wijesinghe,Pen Set,Office Supplies,Writing,Western,Gampaha,Home Office,2,876.0,1752.0,1391.5,360.5,Online
+ORD-0079,2025-07-25,CUST-081,Kasun Karunaratne,Desk,Furniture,Tables,Eastern,Batticaloa,Consumer,5,45360.7,226803.5,167438.76,59364.74,Online
+ORD-0080,2025-01-01,CUST-049,Sahan Gunasekara,Binder,Office Supplies,Binders,Uva,Badulla,Home Office,3,1208.18,3624.54,2636.65,987.89,Online
+ORD-0081,2025-05-17,CUST-179,Rashmi Fernando,Laptop,Technology,Computers,Central,Kandy,Consumer,2,192316.98,384633.96,282286.78,102347.18,Card
+ORD-0082,2025-10-10,CUST-030,Hasini Fernando,Printer,Technology,Accessories,Central,Matale,Home Office,1,51234.48,51234.48,34758.61,16475.87,Card
+ORD-0083,2025-05-30,CUST-121,Ishara Gunasekara,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Home Office,2,867.37,1734.74,1452.03,282.71,Card
+ORD-0084,2025-11-03,CUST-071,Dilshan Karunaratne,Notebook,Office Supplies,Paper,Central,Kandy,Home Office,2,689.45,1378.9,1164.68,214.22,Bank Transfer
+ORD-0085,2025-06-02,CUST-039,Hasini Gunasekara,Laptop,Technology,Computers,Central,Matale,Corporate,5,182301.79,911508.95,721536.44,189972.51,Bank Transfer
+ORD-0086,2025-10-06,CUST-179,Ishara Wijesinghe,Binder,Office Supplies,Binders,North Central,Anuradhapura,Consumer,2,1283.11,2566.22,2171.27,394.95,Online
+ORD-0087,2025-08-31,CUST-170,Ravindu Gunasekara,Laptop,Technology,Computers,Central,Nuwara Eliya,Consumer,3,188968.58,566905.74,408387.83,158517.91,Card
+ORD-0088,2025-06-19,CUST-135,Hasini Perera,Binder,Office Supplies,Binders,Northern,Jaffna,Home Office,5,1271.84,6359.2,4670.7,1688.5,Card
+ORD-0089,2025-12-02,CUST-068,Ayesha Wijesinghe,Notebook,Office Supplies,Paper,Uva,Badulla,Home Office,8,605.78,4846.24,3989.41,856.83,Cash
+ORD-0090,2025-12-12,CUST-125,Nimali Fernando,Storage Cabinet,Furniture,Storage,Uva,Badulla,Consumer,5,37270.46,186352.3,130881.16,55471.14,Bank Transfer
+ORD-0091,2025-02-16,CUST-026,Hasini Silva,Office Chair,Furniture,Chairs,North Western,Kurunegala,Home Office,2,26201.03,52402.06,41123.8,11278.26,Bank Transfer
+ORD-0092,2025-06-16,CUST-038,Ishara Wijesinghe,Laptop,Technology,Computers,Western,Colombo,Home Office,4,174048.99,696195.96,499491.84,196704.12,Card
+ORD-0093,2025-02-10,CUST-128,Ravindu Jayasinghe,Printer,Technology,Accessories,Western,Kalutara,Corporate,3,51022.77,153068.31,122089.58,30978.73,Bank Transfer
+ORD-0094,2025-12-08,CUST-174,Tharushi Fernando,Pen Set,Office Supplies,Writing,Central,Matale,Corporate,1,943.87,943.87,806.36,137.51,Bank Transfer
+ORD-0095,2025-11-24,CUST-078,Nuwan Wijesinghe,Monitor,Technology,Computers,Central,Matale,Corporate,8,70070.61,560564.88,414132.61,146432.27,Cash
+ORD-0096,2025-10-20,CUST-006,Chamari Bandara,Office Chair,Furniture,Chairs,Southern,Galle,Consumer,2,27085.51,54171.02,43435.0,10736.02,Cash
+ORD-0097,2025-09-12,CUST-059,Sahan Jayasinghe,Monitor,Technology,Computers,North Western,Kurunegala,Home Office,5,72383.93,361919.65,297386.72,64532.93,Card
+ORD-0098,2025-12-14,CUST-036,Sachini Perera,Monitor,Technology,Computers,Central,Matale,Corporate,4,70910.08,283640.32,226067.67,57572.65,Online
+ORD-0099,2025-07-06,CUST-107,Tharushi Jayasinghe,Laptop,Technology,Computers,Northern,Jaffna,Consumer,4,168195.84,672783.36,468747.49,204035.87,Bank Transfer
+ORD-0100,2025-05-20,CUST-124,Dinuka Karunaratne,Binder,Office Supplies,Binders,Southern,Hambantota,Consumer,5,1153.34,5766.7,4811.85,954.85,Online
+ORD-0101,2025-04-26,CUST-143,Sahan Fernando,Smartphone,Technology,Phones,Western,Kalutara,Corporate,5,98408.09,492040.45,430429.6,61610.85,Cash
+ORD-0102,2025-03-05,CUST-150,Chamari Karunaratne,Desk,Furniture,Tables,Southern,Hambantota,Consumer,2,46244.36,92488.72,73510.83,18977.89,Card
+ORD-0103,2025-11-14,CUST-057,Kavindu Gunasekara,Pen Set,Office Supplies,Writing,Western,Colombo,Home Office,5,908.84,4544.2,3898.77,645.43,Bank Transfer
+ORD-0104,2025-03-13,CUST-030,Sachini Jayasinghe,Notebook,Office Supplies,Paper,Western,Gampaha,Home Office,1,601.87,601.87,529.01,72.86,Card
+ORD-0105,2025-07-09,CUST-108,Ravindu Wijesinghe,Notebook,Office Supplies,Paper,Southern,Matara,Home Office,3,675.29,2025.87,1754.31,271.56,Cash
+ORD-0106,2025-07-28,CUST-056,Hasini Gunasekara,Pen Set,Office Supplies,Writing,Northern,Jaffna,Consumer,6,868.28,5209.68,4165.0,1044.68,Bank Transfer
+ORD-0107,2025-07-08,CUST-102,Kasun Jayasinghe,Smartphone,Technology,Phones,Eastern,Batticaloa,Consumer,2,102263.21,204526.42,145879.53,58646.89,Online
+ORD-0108,2025-04-19,CUST-086,Ishara Silva,Smartphone,Technology,Phones,Eastern,Batticaloa,Home Office,3,96476.62,289429.86,181053.7,108376.16,Card
+ORD-0109,2025-10-11,CUST-085,Ravindu Perera,Smartphone,Technology,Phones,Uva,Badulla,Corporate,1,90682.46,90682.46,76728.32,13954.14,Card
+ORD-0110,2025-05-09,CUST-034,Amal Karunaratne,Printer,Technology,Accessories,Southern,Hambantota,Consumer,4,48754.59,195018.36,164844.43,30173.93,Bank Transfer
+ORD-0111,2025-05-16,CUST-017,Rashmi Gunasekara,Laptop,Technology,Computers,Western,Kalutara,Corporate,1,186961.48,186961.48,141489.13,45472.35,Cash
+ORD-0112,2025-04-24,CUST-169,Dinuka Gunasekara,Pen Set,Office Supplies,Writing,Southern,Hambantota,Home Office,8,834.24,6673.92,5496.9,1177.02,Cash
+ORD-0113,2025-07-25,CUST-114,Kavindu Fernando,Laptop,Technology,Computers,Southern,Matara,Corporate,2,168709.3,337418.6,271697.67,65720.93,Card
+ORD-0114,2025-05-21,CUST-098,Dinuka Gunasekara,Smartphone,Technology,Phones,Western,Kalutara,Home Office,3,96297.54,288892.62,232604.7,56287.92,Online
+ORD-0115,2025-12-26,CUST-142,Nuwan Wijesinghe,Smartphone,Technology,Phones,North Central,Anuradhapura,Corporate,1,97351.64,97351.64,82574.01,14777.63,Card
+ORD-0116,2025-08-21,CUST-081,Kasun Karunaratne,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Consumer,2,673.88,1347.76,945.13,402.63,Online
+ORD-0117,2025-02-13,CUST-034,Nimali Karunaratne,Smartphone,Technology,Phones,Western,Gampaha,Home Office,1,88867.78,88867.78,72168.37,16699.41,Cash
+ORD-0118,2025-12-07,CUST-014,Dinuka Bandara,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Corporate,8,641.99,5135.92,4407.23,728.69,Cash
+ORD-0119,2025-04-19,CUST-090,Sahan Fernando,Monitor,Technology,Computers,Southern,Hambantota,Corporate,1,67806.22,67806.22,56976.99,10829.23,Card
+ORD-0120,2025-10-15,CUST-165,Amal Bandara,Notebook,Office Supplies,Paper,Uva,Badulla,Consumer,8,683.12,5464.96,4260.1,1204.86,Card
+ORD-0121,2025-06-08,CUST-037,Chamari Fernando,Desk,Furniture,Tables,North Western,Kurunegala,Consumer,6,43927.37,263564.22,175840.94,87723.28,Cash
+ORD-0122,2025-09-29,CUST-095,Dinuka Karunaratne,Smartphone,Technology,Phones,North Western,Kurunegala,Home Office,1,93781.45,93781.45,66456.63,27324.82,Cash
+ORD-0123,2025-03-22,CUST-114,Dilshan Gunasekara,Laptop,Technology,Computers,Western,Kalutara,Home Office,4,167033.16,668132.64,428414.13,239718.51,Online
+ORD-0124,2025-04-21,CUST-073,Rashmi Bandara,Notebook,Office Supplies,Paper,Central,Matale,Consumer,4,609.84,2439.36,1785.07,654.29,Card
+ORD-0125,2025-01-29,CUST-036,Kasun Bandara,Notebook,Office Supplies,Paper,Northern,Jaffna,Corporate,1,629.35,629.35,424.76,204.59,Cash
+ORD-0126,2025-08-09,CUST-129,Sahan Fernando,Laptop,Technology,Computers,Southern,Matara,Corporate,1,176549.97,176549.97,141761.6,34788.37,Cash
+ORD-0127,2025-08-24,CUST-147,Chamari Wijesinghe,Notebook,Office Supplies,Paper,Western,Colombo,Corporate,6,687.66,4125.96,3175.74,950.22,Cash
+ORD-0128,2025-06-16,CUST-177,Sahan Fernando,Notebook,Office Supplies,Paper,Western,Colombo,Corporate,1,696.55,696.55,515.19,181.36,Cash
+ORD-0129,2025-10-29,CUST-087,Ishara Karunaratne,Office Chair,Furniture,Chairs,Southern,Galle,Consumer,2,26112.34,52224.68,44199.64,8025.04,Cash
+ORD-0130,2025-02-28,CUST-090,Ravindu Jayasinghe,Binder,Office Supplies,Binders,Eastern,Batticaloa,Consumer,2,1141.23,2282.46,1875.77,406.69,Card
+ORD-0131,2025-03-30,CUST-046,Rashmi Gunasekara,Desk,Furniture,Tables,Central,Kandy,Home Office,3,46873.55,140620.65,111151.11,29469.54,Online
+ORD-0132,2025-11-22,CUST-081,Ravindu Gunasekara,Monitor,Technology,Computers,Eastern,Batticaloa,Consumer,10,66076.51,660765.1,576486.49,84278.61,Online
+ORD-0133,2025-06-05,CUST-019,Dinuka Gunasekara,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Corporate,4,913.16,3652.64,2598.87,1053.77,Cash
+ORD-0134,2025-05-27,CUST-158,Chamari Gunasekara,Laptop,Technology,Computers,Central,Nuwara Eliya,Home Office,1,190490.4,190490.4,160464.59,30025.81,Cash
+ORD-0135,2025-10-20,CUST-039,Nimali Gunasekara,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Consumer,3,874.3,2622.9,1950.56,672.34,Bank Transfer
+ORD-0136,2025-11-27,CUST-113,Tharushi Karunaratne,Smartphone,Technology,Phones,Southern,Hambantota,Corporate,1,91165.7,91165.7,66898.95,24266.75,Bank Transfer
+ORD-0137,2025-06-23,CUST-086,Kavindu Karunaratne,Notebook,Office Supplies,Paper,Southern,Galle,Consumer,3,603.45,1810.35,1419.37,390.98,Online
+ORD-0138,2025-12-03,CUST-021,Ravindu Karunaratne,Desk,Furniture,Tables,Central,Matale,Corporate,8,45739.45,365915.6,241173.9,124741.7,Online
+ORD-0139,2025-12-29,CUST-085,Ravindu Fernando,Printer,Technology,Accessories,Northern,Jaffna,Home Office,6,50415.72,302494.32,217171.75,85322.57,Online
+ORD-0140,2025-01-10,CUST-125,Nuwan Jayasinghe,Binder,Office Supplies,Binders,Central,Nuwara Eliya,Consumer,2,1138.61,2277.22,1538.69,738.53,Card
+ORD-0141,2025-02-21,CUST-135,Nimali Karunaratne,Smartphone,Technology,Phones,Central,Matale,Home Office,2,95604.52,191209.04,155270.81,35938.23,Card
+ORD-0142,2025-03-20,CUST-043,Hasini Perera,Monitor,Technology,Computers,Southern,Galle,Corporate,1,71605.03,71605.03,58750.88,12854.15,Bank Transfer
+ORD-0143,2025-11-09,CUST-137,Ishara Bandara,Office Chair,Furniture,Chairs,Southern,Matara,Corporate,1,29113.44,29113.44,21448.49,7664.95,Card
+ORD-0144,2025-10-20,CUST-098,Dilshan Silva,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Consumer,10,37767.01,377670.1,261823.82,115846.28,Card
+ORD-0145,2025-11-25,CUST-133,Sachini Bandara,Desk,Furniture,Tables,Western,Colombo,Consumer,2,44072.73,88145.46,76062.16,12083.3,Card
+ORD-0146,2025-09-20,CUST-057,Hasini Karunaratne,Desk,Furniture,Tables,Southern,Matara,Consumer,1,44549.8,44549.8,38583.13,5966.67,Online
+ORD-0147,2025-09-15,CUST-058,Amal Karunaratne,Laptop,Technology,Computers,Southern,Galle,Consumer,2,176721.58,353443.16,226633.91,126809.25,Bank Transfer
+ORD-0148,2025-01-20,CUST-036,Rashmi Gunasekara,Printer,Technology,Accessories,Western,Kalutara,Home Office,1,54743.62,54743.62,43848.47,10895.15,Cash
+ORD-0149,2025-05-12,CUST-156,Dilshan Fernando,Smartphone,Technology,Phones,Western,Colombo,Corporate,1,89672.7,89672.7,77518.35,12154.35,Card
+ORD-0150,2025-01-25,CUST-017,Sachini Gunasekara,Desk,Furniture,Tables,Western,Gampaha,Home Office,1,46000.45,46000.45,35969.17,10031.28,Cash
+ORD-0151,2025-05-04,CUST-091,Ishara Wijesinghe,Binder,Office Supplies,Binders,Northern,Jaffna,Consumer,4,1159.92,4639.68,2878.49,1761.19,Cash
+ORD-0152,2025-02-04,CUST-130,Amal Wijesinghe,Binder,Office Supplies,Binders,Central,Nuwara Eliya,Corporate,8,1208.46,9667.68,7970.69,1696.99,Cash
+ORD-0153,2025-05-10,CUST-062,Sachini Karunaratne,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Consumer,4,635.14,2540.56,1619.77,920.79,Cash
+ORD-0154,2025-06-23,CUST-119,Rashmi Silva,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Consumer,5,36024.54,180122.7,148164.8,31957.9,Cash
+ORD-0155,2025-05-31,CUST-081,Dinuka Wijesinghe,Pen Set,Office Supplies,Writing,Western,Colombo,Home Office,1,941.92,941.92,800.92,141.0,Online
+ORD-0156,2025-11-28,CUST-168,Ayesha Bandara,Desk,Furniture,Tables,Western,Colombo,Consumer,1,43970.21,43970.21,36188.31,7781.9,Bank Transfer
+ORD-0157,2025-07-24,CUST-048,Rashmi Gunasekara,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Corporate,4,691.04,2764.16,1991.65,772.51,Bank Transfer
+ORD-0158,2025-08-06,CUST-140,Dinuka Karunaratne,Smartphone,Technology,Phones,North Western,Kurunegala,Consumer,1,96557.29,96557.29,80510.31,16046.98,Cash
+ORD-0159,2025-06-01,CUST-177,Hasini Karunaratne,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Corporate,2,38623.94,77247.88,56451.99,20795.89,Cash
+ORD-0160,2025-08-11,CUST-020,Chamari Karunaratne,Storage Cabinet,Furniture,Storage,Northern,Jaffna,Home Office,1,40918.57,40918.57,35454.11,5464.46,Card
+ORD-0161,2025-11-08,CUST-061,Sahan Karunaratne,Laptop,Technology,Computers,Western,Kalutara,Corporate,3,178219.38,534658.14,349035.42,185622.72,Cash
+ORD-0162,2025-12-14,CUST-020,Ravindu Karunaratne,Monitor,Technology,Computers,Western,Kalutara,Corporate,2,66596.09,133192.18,97952.75,35239.43,Bank Transfer
+ORD-0163,2025-02-28,CUST-144,Sachini Bandara,Desk,Furniture,Tables,Central,Kandy,Corporate,1,42739.55,42739.55,32251.85,10487.7,Online
+ORD-0164,2025-05-27,CUST-035,Kavindu Gunasekara,Office Chair,Furniture,Chairs,Northern,Jaffna,Consumer,3,30233.86,90701.58,60955.67,29745.91,Online
+ORD-0165,2025-12-16,CUST-017,Dinuka Bandara,Smartphone,Technology,Phones,North Central,Anuradhapura,Consumer,8,102395.93,819167.44,650122.69,169044.75,Card
+ORD-0166,2025-04-25,CUST-127,Amal Karunaratne,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Home Office,1,36181.96,36181.96,23739.27,12442.69,Bank Transfer
+ORD-0167,2025-10-10,CUST-102,Rashmi Wijesinghe,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Corporate,1,955.33,955.33,608.64,346.69,Cash
+ORD-0168,2025-11-25,CUST-033,Tharushi Silva,Printer,Technology,Accessories,Central,Nuwara Eliya,Corporate,1,51715.73,51715.73,39020.22,12695.51,Cash
+ORD-0169,2025-03-20,CUST-058,Sahan Bandara,Smartphone,Technology,Phones,Southern,Hambantota,Consumer,2,89861.9,179723.8,155107.36,24616.44,Bank Transfer
+ORD-0170,2025-10-10,CUST-024,Tharushi Silva,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Consumer,1,28560.1,28560.1,22269.78,6290.32,Bank Transfer
+ORD-0171,2025-01-15,CUST-068,Nuwan Wijesinghe,Monitor,Technology,Computers,Western,Colombo,Home Office,1,72880.19,72880.19,59795.7,13084.49,Cash
+ORD-0172,2025-11-18,CUST-063,Chamari Bandara,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Corporate,2,920.43,1840.86,1285.92,554.94,Cash
+ORD-0173,2025-08-14,CUST-037,Ayesha Karunaratne,Laptop,Technology,Computers,Western,Kalutara,Home Office,2,178975.93,357951.86,253591.02,104360.84,Bank Transfer
+ORD-0174,2025-07-09,CUST-032,Kasun Gunasekara,Notebook,Office Supplies,Paper,Western,Kalutara,Consumer,2,609.04,1218.08,831.77,386.31,Card
+ORD-0175,2025-05-29,CUST-041,Ayesha Karunaratne,Smartphone,Technology,Phones,Western,Colombo,Consumer,8,100535.29,804282.32,586092.62,218189.7,Card
+ORD-0176,2025-08-28,CUST-101,Hasini Jayasinghe,Pen Set,Office Supplies,Writing,Southern,Hambantota,Consumer,2,872.43,1744.86,1092.33,652.53,Bank Transfer
+ORD-0177,2025-05-25,CUST-121,Dinuka Perera,Laptop,Technology,Computers,Western,Colombo,Consumer,2,191011.38,382022.76,301839.09,80183.67,Online
+ORD-0178,2025-05-16,CUST-103,Nimali Jayasinghe,Printer,Technology,Accessories,Sabaragamuwa,Ratnapura,Corporate,4,54195.29,216781.16,155029.68,61751.48,Bank Transfer
+ORD-0179,2025-09-16,CUST-160,Sachini Silva,Smartphone,Technology,Phones,Southern,Galle,Consumer,2,95757.83,191515.66,159835.32,31680.34,Online
+ORD-0180,2025-06-23,CUST-155,Chamari Perera,Storage Cabinet,Furniture,Storage,North Central,Anuradhapura,Consumer,3,37182.89,111548.67,73344.31,38204.36,Cash
+ORD-0181,2025-06-20,CUST-132,Ravindu Karunaratne,Printer,Technology,Accessories,North Western,Kurunegala,Home Office,4,52160.85,208643.4,137438.53,71204.87,Bank Transfer
+ORD-0182,2025-11-12,CUST-131,Rashmi Bandara,Printer,Technology,Accessories,Southern,Galle,Corporate,4,50329.63,201318.52,142424.22,58894.3,Cash
+ORD-0183,2025-12-11,CUST-177,Amal Gunasekara,Storage Cabinet,Furniture,Storage,Central,Nuwara Eliya,Corporate,1,37492.56,37492.56,26244.65,11247.91,Card
+ORD-0184,2025-09-03,CUST-098,Ravindu Jayasinghe,Laptop,Technology,Computers,Northern,Jaffna,Consumer,1,183715.93,183715.93,143506.26,40209.67,Cash
+ORD-0185,2025-08-14,CUST-106,Rashmi Perera,Office Chair,Furniture,Chairs,Western,Colombo,Home Office,2,26438.41,52876.82,42276.61,10600.21,Card
+ORD-0186,2025-10-15,CUST-081,Tharushi Gunasekara,Binder,Office Supplies,Binders,Central,Kandy,Home Office,2,1231.15,2462.3,1863.04,599.26,Bank Transfer
+ORD-0187,2025-12-13,CUST-178,Kasun Gunasekara,Binder,Office Supplies,Binders,Central,Nuwara Eliya,Consumer,4,1242.42,4969.68,3912.43,1057.25,Card
+ORD-0188,2025-06-02,CUST-074,Nuwan Gunasekara,Desk,Furniture,Tables,Southern,Hambantota,Corporate,1,48404.96,48404.96,33756.64,14648.32,Online
+ORD-0189,2025-05-21,CUST-102,Sahan Silva,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Corporate,1,38446.74,38446.74,29266.8,9179.94,Cash
+ORD-0190,2025-02-10,CUST-123,Nuwan Jayasinghe,Desk,Furniture,Tables,North Western,Kurunegala,Home Office,2,44585.11,89170.22,61231.0,27939.22,Bank Transfer
+ORD-0191,2025-05-20,CUST-063,Nimali Jayasinghe,Binder,Office Supplies,Binders,North Western,Kurunegala,Home Office,1,1222.21,1222.21,944.25,277.96,Card
+ORD-0192,2025-07-31,CUST-036,Amal Silva,Laptop,Technology,Computers,Western,Gampaha,Corporate,2,179205.23,358410.46,285692.53,72717.93,Online
+ORD-0193,2025-04-13,CUST-016,Kavindu Jayasinghe,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Home Office,4,869.36,3477.44,2414.07,1063.37,Cash
+ORD-0194,2025-04-01,CUST-127,Tharushi Bandara,Printer,Technology,Accessories,Southern,Galle,Consumer,6,48142.35,288854.1,241890.13,46963.97,Cash
+ORD-0195,2025-11-05,CUST-165,Rashmi Silva,Desk,Furniture,Tables,Northern,Jaffna,Home Office,1,48477.56,48477.56,33642.75,14834.81,Online
+ORD-0196,2025-02-27,CUST-048,Amal Karunaratne,Desk,Furniture,Tables,Central,Kandy,Corporate,2,46664.06,93328.12,73594.28,19733.84,Card
+ORD-0197,2025-11-24,CUST-023,Chamari Fernando,Printer,Technology,Accessories,Northern,Jaffna,Consumer,6,54720.56,328323.36,247546.94,80776.42,Card
+ORD-0198,2025-05-08,CUST-069,Ayesha Bandara,Pen Set,Office Supplies,Writing,Central,Nuwara Eliya,Home Office,1,883.23,883.23,650.19,233.04,Cash
+ORD-0199,2025-07-04,CUST-079,Tharushi Wijesinghe,Desk,Furniture,Tables,Eastern,Batticaloa,Home Office,3,41847.3,125541.9,81694.94,43846.96,Bank Transfer
+ORD-0200,2025-06-01,CUST-123,Ravindu Gunasekara,Smartphone,Technology,Phones,Eastern,Batticaloa,Home Office,2,90756.91,181513.82,157719.85,23793.97,Bank Transfer
+ORD-0201,2025-10-09,CUST-056,Ishara Fernando,Notebook,Office Supplies,Paper,North Western,Kurunegala,Home Office,6,676.76,4060.56,3364.25,696.31,Online
+ORD-0202,2025-07-05,CUST-141,Nuwan Silva,Binder,Office Supplies,Binders,North Western,Kurunegala,Consumer,1,1212.32,1212.32,771.1,441.22,Bank Transfer
+ORD-0203,2025-03-01,CUST-131,Hasini Perera,Binder,Office Supplies,Binders,Southern,Matara,Corporate,3,1241.65,3724.95,2782.89,942.06,Card
+ORD-0204,2025-08-22,CUST-079,Amal Wijesinghe,Binder,Office Supplies,Binders,Southern,Galle,Corporate,3,1211.29,3633.87,2888.63,745.24,Cash
+ORD-0205,2025-02-07,CUST-016,Kavindu Gunasekara,Office Chair,Furniture,Chairs,Northern,Jaffna,Consumer,1,27303.49,27303.49,17380.79,9922.7,Bank Transfer
+ORD-0206,2025-03-11,CUST-108,Sahan Wijesinghe,Notebook,Office Supplies,Paper,Western,Kalutara,Corporate,4,699.75,2799.0,2205.41,593.59,Online
+ORD-0207,2025-12-16,CUST-090,Sachini Silva,Notebook,Office Supplies,Paper,Western,Gampaha,Home Office,8,688.95,5511.6,3607.77,1903.83,Online
+ORD-0208,2025-04-25,CUST-119,Dilshan Wijesinghe,Binder,Office Supplies,Binders,Western,Kalutara,Consumer,5,1249.19,6245.95,5461.51,784.44,Card
+ORD-0209,2025-03-21,CUST-029,Nimali Wijesinghe,Pen Set,Office Supplies,Writing,Central,Nuwara Eliya,Home Office,1,962.99,962.99,778.58,184.41,Cash
+ORD-0210,2025-02-04,CUST-013,Ishara Perera,Office Chair,Furniture,Chairs,Central,Kandy,Corporate,1,25910.42,25910.42,20091.56,5818.86,Online
+ORD-0211,2025-04-22,CUST-075,Ishara Karunaratne,Office Chair,Furniture,Chairs,Southern,Hambantota,Home Office,4,29236.77,116947.08,76768.19,40178.89,Bank Transfer
+ORD-0212,2025-03-15,CUST-071,Nimali Silva,Office Chair,Furniture,Chairs,Central,Matale,Home Office,10,28095.2,280952.0,204399.79,76552.21,Online
+ORD-0213,2025-01-25,CUST-135,Ayesha Wijesinghe,Binder,Office Supplies,Binders,Southern,Matara,Corporate,8,1284.78,10278.24,8166.57,2111.67,Card
+ORD-0214,2025-04-05,CUST-077,Ravindu Gunasekara,Desk,Furniture,Tables,Southern,Galle,Consumer,4,44809.34,179237.36,150707.91,28529.45,Online
+ORD-0215,2025-09-29,CUST-166,Kavindu Gunasekara,Notebook,Office Supplies,Paper,Southern,Hambantota,Corporate,1,623.26,623.26,419.37,203.89,Cash
+ORD-0216,2025-04-08,CUST-011,Kavindu Jayasinghe,Binder,Office Supplies,Binders,North Western,Kurunegala,Home Office,1,1176.42,1176.42,914.42,262.0,Card
+ORD-0217,2025-06-20,CUST-049,Sachini Gunasekara,Pen Set,Office Supplies,Writing,Central,Kandy,Consumer,2,958.9,1917.8,1294.65,623.15,Card
+ORD-0218,2025-05-03,CUST-137,Sahan Bandara,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Corporate,3,678.65,2035.95,1463.79,572.16,Bank Transfer
+ORD-0219,2025-09-12,CUST-082,Nuwan Karunaratne,Binder,Office Supplies,Binders,Sabaragamuwa,Ratnapura,Corporate,2,1258.14,2516.28,2032.72,483.56,Online
+ORD-0220,2025-04-24,CUST-150,Dilshan Bandara,Laptop,Technology,Computers,Northern,Jaffna,Consumer,4,166067.13,664268.52,507408.82,156859.7,Card
+ORD-0221,2025-07-14,CUST-176,Ayesha Bandara,Storage Cabinet,Furniture,Storage,Central,Kandy,Corporate,3,36454.04,109362.12,83461.57,25900.55,Online
+ORD-0222,2025-06-30,CUST-139,Nimali Perera,Pen Set,Office Supplies,Writing,Western,Kalutara,Consumer,1,931.73,931.73,695.97,235.76,Cash
+ORD-0223,2025-03-12,CUST-003,Nuwan Gunasekara,Laptop,Technology,Computers,Southern,Galle,Corporate,5,172265.28,861326.4,692389.36,168937.04,Cash
+ORD-0224,2025-12-08,CUST-005,Amal Wijesinghe,Monitor,Technology,Computers,Eastern,Batticaloa,Consumer,6,72490.74,434944.44,344221.09,90723.35,Cash
+ORD-0225,2025-05-21,CUST-179,Dilshan Silva,Binder,Office Supplies,Binders,North Western,Kurunegala,Consumer,2,1159.04,2318.08,1739.9,578.18,Cash
+ORD-0226,2025-05-04,CUST-069,Chamari Fernando,Binder,Office Supplies,Binders,Western,Kalutara,Corporate,1,1205.08,1205.08,1002.57,202.51,Online
+ORD-0227,2025-05-05,CUST-021,Nimali Fernando,Pen Set,Office Supplies,Writing,Northern,Jaffna,Corporate,10,860.52,8605.2,6865.67,1739.53,Online
+ORD-0228,2025-09-01,CUST-128,Dilshan Karunaratne,Notebook,Office Supplies,Paper,Southern,Hambantota,Home Office,1,598.98,598.98,398.06,200.92,Cash
+ORD-0229,2025-01-22,CUST-146,Rashmi Bandara,Binder,Office Supplies,Binders,Sabaragamuwa,Ratnapura,Consumer,1,1277.04,1277.04,1021.63,255.41,Cash
+ORD-0230,2025-10-06,CUST-081,Amal Jayasinghe,Desk,Furniture,Tables,Sabaragamuwa,Ratnapura,Home Office,3,41636.89,124910.67,107607.95,17302.72,Card
+ORD-0231,2025-02-09,CUST-100,Ayesha Wijesinghe,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Home Office,1,656.65,656.65,503.87,152.78,Card
+ORD-0232,2025-06-27,CUST-088,Chamari Karunaratne,Smartphone,Technology,Phones,Southern,Hambantota,Consumer,1,94043.74,94043.74,78813.87,15229.87,Bank Transfer
+ORD-0233,2025-04-27,CUST-175,Chamari Fernando,Pen Set,Office Supplies,Writing,Southern,Matara,Home Office,2,963.52,1927.04,1411.13,515.91,Bank Transfer
+ORD-0234,2025-02-07,CUST-163,Ravindu Wijesinghe,Office Chair,Furniture,Chairs,North Western,Kurunegala,Corporate,1,26450.91,26450.91,21293.94,5156.97,Bank Transfer
+ORD-0235,2025-01-03,CUST-027,Ravindu Fernando,Smartphone,Technology,Phones,Western,Gampaha,Consumer,8,94159.99,753279.92,616145.38,137134.54,Online
+ORD-0236,2025-10-12,CUST-142,Kavindu Karunaratne,Pen Set,Office Supplies,Writing,Southern,Hambantota,Corporate,2,842.87,1685.74,1084.44,601.3,Cash
+ORD-0237,2025-07-18,CUST-063,Tharushi Wijesinghe,Desk,Furniture,Tables,Southern,Galle,Consumer,4,46618.88,186475.52,142743.19,43732.33,Card
+ORD-0238,2025-05-18,CUST-108,Dinuka Gunasekara,Desk,Furniture,Tables,Central,Matale,Consumer,2,41855.52,83711.04,61361.52,22349.52,Bank Transfer
+ORD-0239,2025-11-17,CUST-035,Dinuka Perera,Desk,Furniture,Tables,Central,Kandy,Corporate,2,45840.02,91680.04,67755.59,23924.45,Bank Transfer
+ORD-0240,2025-06-18,CUST-167,Ravindu Bandara,Monitor,Technology,Computers,Southern,Galle,Corporate,2,67245.1,134490.2,112180.85,22309.35,Card
+ORD-0241,2025-04-01,CUST-178,Rashmi Jayasinghe,Pen Set,Office Supplies,Writing,Central,Nuwara Eliya,Corporate,8,967.5,7740.0,5385.31,2354.69,Online
+ORD-0242,2025-07-21,CUST-140,Tharushi Perera,Desk,Furniture,Tables,Uva,Badulla,Home Office,2,48110.88,96221.76,64656.02,31565.74,Online
+ORD-0243,2025-05-30,CUST-105,Rashmi Silva,Office Chair,Furniture,Chairs,Southern,Matara,Home Office,5,26069.83,130349.15,109548.67,20800.48,Bank Transfer
+ORD-0244,2025-12-04,CUST-115,Rashmi Wijesinghe,Office Chair,Furniture,Chairs,Central,Matale,Home Office,1,27655.61,27655.61,19857.22,7798.39,Online
+ORD-0245,2025-07-04,CUST-022,Sachini Jayasinghe,Binder,Office Supplies,Binders,Western,Colombo,Home Office,3,1259.96,3779.88,2927.11,852.77,Bank Transfer
+ORD-0246,2025-11-10,CUST-103,Ayesha Wijesinghe,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,1,56023.62,56023.62,44602.8,11420.82,Cash
+ORD-0247,2025-04-24,CUST-148,Ishara Gunasekara,Smartphone,Technology,Phones,Central,Matale,Corporate,2,95285.73,190571.46,146918.16,43653.3,Online
+ORD-0248,2025-12-14,CUST-007,Rashmi Fernando,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Corporate,3,900.07,2700.21,1916.32,783.89,Online
+ORD-0249,2025-03-14,CUST-134,Rashmi Karunaratne,Smartphone,Technology,Phones,Western,Gampaha,Corporate,2,92614.61,185229.22,152612.24,32616.98,Cash
+ORD-0250,2025-12-23,CUST-030,Amal Karunaratne,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Home Office,2,837.67,1675.34,1058.17,617.17,Cash
+ORD-0251,2025-05-05,CUST-110,Hasini Jayasinghe,Printer,Technology,Accessories,Sabaragamuwa,Ratnapura,Corporate,2,52431.89,104863.78,74039.84,30823.94,Card
+ORD-0252,2025-12-03,CUST-051,Hasini Wijesinghe,Printer,Technology,Accessories,Eastern,Batticaloa,Corporate,2,48082.88,96165.76,74977.35,21188.41,Cash
+ORD-0253,2025-05-23,CUST-027,Tharushi Karunaratne,Office Chair,Furniture,Chairs,Central,Kandy,Corporate,4,29383.11,117532.44,74781.96,42750.48,Card
+ORD-0254,2025-05-15,CUST-081,Chamari Wijesinghe,Pen Set,Office Supplies,Writing,Western,Gampaha,Home Office,3,898.49,2695.47,2348.13,347.34,Cash
+ORD-0255,2025-08-23,CUST-077,Kavindu Silva,Storage Cabinet,Furniture,Storage,Central,Nuwara Eliya,Corporate,3,39907.53,119722.59,96203.92,23518.67,Cash
+ORD-0256,2025-03-01,CUST-108,Ravindu Wijesinghe,Office Chair,Furniture,Chairs,Central,Matale,Corporate,1,28866.6,28866.6,21731.19,7135.41,Card
+ORD-0257,2025-10-03,CUST-143,Tharushi Gunasekara,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Corporate,3,920.92,2762.76,2431.16,331.6,Card
+ORD-0258,2025-08-19,CUST-125,Ravindu Jayasinghe,Printer,Technology,Accessories,Central,Nuwara Eliya,Corporate,3,55041.14,165123.42,143241.08,21882.34,Online
+ORD-0259,2025-09-09,CUST-022,Amal Jayasinghe,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Corporate,2,685.35,1370.7,1024.0,346.7,Cash
+ORD-0260,2025-10-03,CUST-127,Sachini Fernando,Desk,Furniture,Tables,Central,Kandy,Corporate,1,47021.33,47021.33,36068.61,10952.72,Bank Transfer
+ORD-0261,2025-01-22,CUST-109,Sachini Jayasinghe,Binder,Office Supplies,Binders,Uva,Badulla,Corporate,4,1188.74,4754.96,3218.26,1536.7,Cash
+ORD-0262,2025-06-28,CUST-031,Ishara Jayasinghe,Pen Set,Office Supplies,Writing,Central,Matale,Home Office,5,840.53,4202.65,3551.14,651.51,Bank Transfer
+ORD-0263,2025-08-08,CUST-053,Nimali Karunaratne,Monitor,Technology,Computers,Eastern,Batticaloa,Home Office,1,64074.88,64074.88,43168.6,20906.28,Bank Transfer
+ORD-0264,2025-03-28,CUST-069,Sachini Silva,Monitor,Technology,Computers,Southern,Hambantota,Corporate,2,70220.1,140440.2,97637.77,42802.43,Cash
+ORD-0265,2025-12-02,CUST-083,Ishara Wijesinghe,Desk,Furniture,Tables,Uva,Badulla,Corporate,1,47635.77,47635.77,32626.5,15009.27,Card
+ORD-0266,2025-05-18,CUST-024,Chamari Bandara,Monitor,Technology,Computers,Eastern,Batticaloa,Home Office,3,66641.87,199925.61,127879.26,72046.35,Bank Transfer
+ORD-0267,2025-06-17,CUST-024,Hasini Karunaratne,Pen Set,Office Supplies,Writing,Southern,Matara,Consumer,3,953.12,2859.36,2402.62,456.74,Online
+ORD-0268,2025-04-19,CUST-141,Ravindu Gunasekara,Office Chair,Furniture,Chairs,Southern,Galle,Corporate,2,27206.44,54412.88,37748.08,16664.8,Cash
+ORD-0269,2025-11-17,CUST-041,Hasini Gunasekara,Laptop,Technology,Computers,Western,Gampaha,Consumer,4,178835.95,715343.8,466619.95,248723.85,Online
+ORD-0270,2025-03-09,CUST-071,Kavindu Karunaratne,Office Chair,Furniture,Chairs,North Western,Kurunegala,Corporate,5,27112.36,135561.8,114868.3,20693.5,Cash
+ORD-0271,2025-11-29,CUST-180,Ishara Wijesinghe,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Home Office,1,37369.76,37369.76,26137.62,11232.14,Cash
+ORD-0272,2025-04-20,CUST-175,Hasini Perera,Smartphone,Technology,Phones,Western,Colombo,Consumer,2,89417.04,178834.08,121394.29,57439.79,Bank Transfer
+ORD-0273,2025-08-05,CUST-023,Sachini Fernando,Smartphone,Technology,Phones,Uva,Badulla,Corporate,3,94661.04,283983.12,192973.97,91009.15,Bank Transfer
+ORD-0274,2025-07-15,CUST-174,Ravindu Fernando,Desk,Furniture,Tables,Western,Kalutara,Home Office,4,46822.74,187290.96,122604.04,64686.92,Cash
+ORD-0275,2025-03-26,CUST-039,Dilshan Gunasekara,Monitor,Technology,Computers,Eastern,Batticaloa,Consumer,2,70420.06,140840.12,110320.18,30519.94,Cash
+ORD-0276,2025-03-05,CUST-081,Ravindu Jayasinghe,Smartphone,Technology,Phones,Western,Kalutara,Corporate,3,93237.29,279711.87,243473.7,36238.17,Cash
+ORD-0277,2025-11-04,CUST-177,Amal Bandara,Office Chair,Furniture,Chairs,Southern,Hambantota,Consumer,3,28482.02,85446.06,70282.13,15163.93,Card
+ORD-0278,2025-11-27,CUST-127,Chamari Fernando,Notebook,Office Supplies,Paper,Central,Matale,Consumer,1,691.38,691.38,600.27,91.11,Online
+ORD-0279,2025-09-28,CUST-082,Ravindu Wijesinghe,Monitor,Technology,Computers,Western,Gampaha,Home Office,5,62691.29,313456.45,223772.03,89684.42,Online
+ORD-0280,2025-12-16,CUST-019,Amal Fernando,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Consumer,1,37823.77,37823.77,33160.68,4663.09,Bank Transfer
+ORD-0281,2025-01-31,CUST-129,Dilshan Wijesinghe,Office Chair,Furniture,Chairs,Western,Colombo,Home Office,8,27542.93,220343.44,153025.62,67317.82,Online
+ORD-0282,2025-10-02,CUST-021,Nuwan Silva,Smartphone,Technology,Phones,Eastern,Batticaloa,Home Office,2,89720.74,179441.48,115153.92,64287.56,Bank Transfer
+ORD-0283,2025-11-21,CUST-080,Dilshan Jayasinghe,Notebook,Office Supplies,Paper,Northern,Jaffna,Consumer,4,665.58,2662.32,2095.83,566.49,Card
+ORD-0284,2025-08-11,CUST-171,Tharushi Fernando,Smartphone,Technology,Phones,Sabaragamuwa,Ratnapura,Consumer,1,96706.91,96706.91,61341.91,35365.0,Card
+ORD-0285,2025-09-12,CUST-067,Tharushi Karunaratne,Laptop,Technology,Computers,Western,Kalutara,Consumer,8,180662.55,1445300.4,1190315.66,254984.74,Bank Transfer
+ORD-0286,2025-01-16,CUST-068,Kavindu Gunasekara,Smartphone,Technology,Phones,North Central,Anuradhapura,Corporate,2,93925.73,187851.46,142053.67,45797.79,Bank Transfer
+ORD-0287,2025-10-18,CUST-147,Sachini Jayasinghe,Laptop,Technology,Computers,Southern,Matara,Home Office,1,170130.53,170130.53,139688.31,30442.22,Cash
+ORD-0288,2025-01-07,CUST-039,Tharushi Perera,Laptop,Technology,Computers,Uva,Badulla,Home Office,1,179186.82,179186.82,128938.3,50248.52,Online
+ORD-0289,2025-05-08,CUST-020,Sahan Fernando,Office Chair,Furniture,Chairs,Central,Nuwara Eliya,Home Office,2,28986.89,57973.78,40032.46,17941.32,Cash
+ORD-0290,2025-09-22,CUST-120,Dinuka Bandara,Printer,Technology,Accessories,Central,Kandy,Corporate,10,55777.94,557779.4,355819.12,201960.28,Cash
+ORD-0291,2025-01-05,CUST-160,Ishara Gunasekara,Binder,Office Supplies,Binders,Southern,Matara,Corporate,2,1159.99,2319.98,1911.6,408.38,Online
+ORD-0292,2025-10-07,CUST-105,Amal Jayasinghe,Office Chair,Furniture,Chairs,North Western,Kurunegala,Home Office,4,26858.17,107432.68,66786.41,40646.27,Bank Transfer
+ORD-0293,2025-01-01,CUST-079,Sachini Jayasinghe,Laptop,Technology,Computers,Central,Nuwara Eliya,Home Office,4,176436.72,705746.88,572996.94,132749.94,Card
+ORD-0294,2025-01-31,CUST-012,Ishara Wijesinghe,Notebook,Office Supplies,Paper,Southern,Matara,Home Office,8,612.81,4902.48,3396.22,1506.26,Bank Transfer
+ORD-0295,2025-02-13,CUST-101,Kavindu Perera,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Corporate,3,900.78,2702.34,2123.16,579.18,Card
+ORD-0296,2025-05-14,CUST-084,Ayesha Gunasekara,Office Chair,Furniture,Chairs,Central,Matale,Corporate,5,29908.67,149543.35,107995.38,41547.97,Card
+ORD-0297,2025-03-11,CUST-043,Hasini Gunasekara,Smartphone,Technology,Phones,Central,Kandy,Corporate,4,96287.56,385150.24,254355.82,130794.42,Online
+ORD-0298,2025-07-03,CUST-068,Sachini Fernando,Smartphone,Technology,Phones,Southern,Hambantota,Consumer,8,90556.07,724448.56,507229.91,217218.65,Bank Transfer
+ORD-0299,2025-04-21,CUST-064,Sahan Wijesinghe,Monitor,Technology,Computers,Western,Colombo,Home Office,5,66126.4,330632.0,212832.9,117799.1,Cash
+ORD-0300,2025-03-31,CUST-141,Ishara Fernando,Desk,Furniture,Tables,Central,Matale,Corporate,1,44311.62,44311.62,32683.02,11628.6,Cash
+ORD-0301,2025-01-07,CUST-051,Chamari Karunaratne,Printer,Technology,Accessories,Western,Gampaha,Home Office,1,54337.59,54337.59,36829.74,17507.85,Cash
+ORD-0302,2025-05-13,CUST-051,Hasini Silva,Monitor,Technology,Computers,Northern,Jaffna,Consumer,6,63375.86,380255.16,334343.9,45911.26,Bank Transfer
+ORD-0303,2025-08-25,CUST-102,Rashmi Perera,Smartphone,Technology,Phones,Western,Colombo,Corporate,1,101446.8,101446.8,74322.02,27124.78,Online
+ORD-0304,2025-04-20,CUST-039,Nimali Jayasinghe,Printer,Technology,Accessories,Central,Nuwara Eliya,Home Office,6,50127.85,300767.1,221353.45,79413.65,Bank Transfer
+ORD-0305,2025-10-09,CUST-108,Nuwan Jayasinghe,Pen Set,Office Supplies,Writing,Southern,Galle,Home Office,2,840.63,1681.26,1209.81,471.45,Cash
+ORD-0306,2025-07-03,CUST-145,Ayesha Wijesinghe,Notebook,Office Supplies,Paper,North Central,Anuradhapura,Corporate,2,679.27,1358.54,963.81,394.73,Card
+ORD-0307,2025-11-02,CUST-015,Rashmi Karunaratne,Laptop,Technology,Computers,Central,Nuwara Eliya,Home Office,1,191398.03,191398.03,157409.56,33988.47,Card
+ORD-0308,2025-05-07,CUST-015,Ishara Wijesinghe,Printer,Technology,Accessories,Western,Gampaha,Corporate,3,50057.5,150172.5,124978.68,25193.82,Card
+ORD-0309,2025-10-31,CUST-152,Amal Karunaratne,Printer,Technology,Accessories,Central,Kandy,Home Office,2,53981.03,107962.06,77007.57,30954.49,Card
+ORD-0310,2025-09-10,CUST-015,Ishara Jayasinghe,Monitor,Technology,Computers,Central,Kandy,Consumer,2,64470.06,128940.12,81215.59,47724.53,Online
+ORD-0311,2025-11-11,CUST-083,Nimali Perera,Laptop,Technology,Computers,Central,Nuwara Eliya,Consumer,1,169358.1,169358.1,136571.01,32787.09,Card
+ORD-0312,2025-09-27,CUST-170,Chamari Fernando,Smartphone,Technology,Phones,Uva,Badulla,Corporate,5,102000.49,510002.45,365739.89,144262.56,Bank Transfer
+ORD-0313,2025-03-22,CUST-125,Ayesha Silva,Storage Cabinet,Furniture,Storage,Western,Kalutara,Home Office,4,37616.16,150464.64,118296.68,32167.96,Bank Transfer
+ORD-0314,2025-10-29,CUST-076,Ravindu Silva,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Home Office,5,27455.16,137275.8,111308.53,25967.27,Cash
+ORD-0315,2025-10-18,CUST-157,Ishara Fernando,Monitor,Technology,Computers,Southern,Galle,Corporate,1,69113.99,69113.99,59401.4,9712.59,Card
+ORD-0316,2025-02-09,CUST-023,Ayesha Gunasekara,Storage Cabinet,Furniture,Storage,North Western,Kurunegala,Consumer,1,40932.87,40932.87,27165.13,13767.74,Bank Transfer
+ORD-0317,2025-12-21,CUST-001,Nimali Wijesinghe,Office Chair,Furniture,Chairs,Central,Kandy,Corporate,1,26909.83,26909.83,17439.96,9469.87,Online
+ORD-0318,2025-07-31,CUST-026,Rashmi Jayasinghe,Printer,Technology,Accessories,Sabaragamuwa,Ratnapura,Consumer,2,50990.89,101981.78,77706.67,24275.11,Online
+ORD-0319,2025-01-18,CUST-019,Ayesha Silva,Smartphone,Technology,Phones,North Central,Anuradhapura,Corporate,1,92244.5,92244.5,80015.85,12228.65,Card
+ORD-0320,2025-02-17,CUST-008,Dilshan Silva,Smartphone,Technology,Phones,Southern,Hambantota,Home Office,2,102376.2,204752.4,174497.94,30254.46,Online
+ORD-0321,2025-02-21,CUST-142,Kasun Bandara,Printer,Technology,Accessories,Western,Colombo,Corporate,2,55946.99,111893.98,81281.22,30612.76,Card
+ORD-0322,2025-07-21,CUST-093,Amal Wijesinghe,Smartphone,Technology,Phones,Western,Colombo,Consumer,3,100165.79,300497.37,198308.25,102189.12,Bank Transfer
+ORD-0323,2025-04-13,CUST-021,Rashmi Fernando,Monitor,Technology,Computers,Southern,Matara,Corporate,1,64811.65,64811.65,50937.39,13874.26,Online
+ORD-0324,2025-12-05,CUST-095,Chamari Karunaratne,Pen Set,Office Supplies,Writing,Southern,Matara,Consumer,1,920.43,920.43,663.41,257.02,Online
+ORD-0325,2025-08-14,CUST-016,Ravindu Fernando,Laptop,Technology,Computers,Central,Matale,Consumer,2,172115.78,344231.56,237459.92,106771.64,Bank Transfer
+ORD-0326,2025-10-29,CUST-134,Dilshan Gunasekara,Binder,Office Supplies,Binders,Southern,Galle,Home Office,1,1115.71,1115.71,804.03,311.68,Card
+ORD-0327,2025-02-10,CUST-147,Ravindu Fernando,Pen Set,Office Supplies,Writing,Central,Matale,Corporate,2,950.97,1901.94,1196.38,705.56,Card
+ORD-0328,2025-04-09,CUST-112,Nuwan Silva,Printer,Technology,Accessories,Central,Kandy,Home Office,1,51362.48,51362.48,45042.47,6320.01,Bank Transfer
+ORD-0329,2025-02-04,CUST-071,Hasini Perera,Storage Cabinet,Furniture,Storage,Sabaragamuwa,Ratnapura,Home Office,1,38342.69,38342.69,29275.95,9066.74,Online
+ORD-0330,2025-03-18,CUST-026,Sachini Fernando,Smartphone,Technology,Phones,Southern,Galle,Corporate,1,96336.6,96336.6,78724.16,17612.44,Bank Transfer
+ORD-0331,2025-07-16,CUST-045,Kasun Wijesinghe,Notebook,Office Supplies,Paper,Central,Matale,Consumer,3,657.49,1972.47,1465.53,506.94,Online
+ORD-0332,2025-06-19,CUST-069,Sahan Perera,Laptop,Technology,Computers,Southern,Galle,Corporate,3,167019.58,501058.74,372565.6,128493.14,Bank Transfer
+ORD-0333,2025-09-09,CUST-059,Ravindu Bandara,Desk,Furniture,Tables,Central,Matale,Home Office,5,46330.93,231654.65,202199.56,29455.09,Online
+ORD-0334,2025-08-02,CUST-105,Rashmi Karunaratne,Storage Cabinet,Furniture,Storage,Central,Matale,Consumer,3,35502.86,106508.58,78267.44,28241.14,Card
+ORD-0335,2025-12-30,CUST-146,Amal Silva,Smartphone,Technology,Phones,Central,Matale,Consumer,2,89461.88,178923.76,150535.14,28388.62,Card
+ORD-0336,2025-01-17,CUST-071,Sahan Gunasekara,Laptop,Technology,Computers,Central,Kandy,Home Office,2,192039.29,384078.58,308493.77,75584.81,Online
+ORD-0337,2025-01-16,CUST-122,Sahan Karunaratne,Smartphone,Technology,Phones,Eastern,Batticaloa,Consumer,1,94829.56,94829.56,69793.31,25036.25,Bank Transfer
+ORD-0338,2025-01-15,CUST-055,Ishara Jayasinghe,Smartphone,Technology,Phones,Central,Matale,Home Office,2,89876.19,179752.38,138191.31,41561.07,Card
+ORD-0339,2025-07-29,CUST-175,Amal Gunasekara,Desk,Furniture,Tables,Eastern,Batticaloa,Consumer,2,47625.34,95250.68,83006.77,12243.91,Card
+ORD-0340,2025-01-05,CUST-165,Kasun Wijesinghe,Monitor,Technology,Computers,North Central,Anuradhapura,Corporate,1,69178.78,69178.78,59852.19,9326.59,Bank Transfer
+ORD-0341,2025-04-22,CUST-102,Sachini Perera,Pen Set,Office Supplies,Writing,Central,Matale,Home Office,2,925.52,1851.04,1544.36,306.68,Bank Transfer
+ORD-0342,2025-11-01,CUST-017,Ayesha Bandara,Binder,Office Supplies,Binders,Eastern,Batticaloa,Home Office,3,1161.31,3483.93,2257.96,1225.97,Bank Transfer
+ORD-0343,2025-12-02,CUST-039,Ishara Perera,Desk,Furniture,Tables,Central,Matale,Home Office,4,47825.09,191300.36,133467.52,57832.84,Online
+ORD-0344,2025-03-13,CUST-067,Dilshan Wijesinghe,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Corporate,4,38944.84,155779.36,136983.33,18796.03,Cash
+ORD-0345,2025-10-20,CUST-176,Rashmi Karunaratne,Monitor,Technology,Computers,North Western,Kurunegala,Home Office,5,66293.66,331468.3,266989.77,64478.53,Bank Transfer
+ORD-0346,2025-12-03,CUST-033,Kasun Silva,Printer,Technology,Accessories,Uva,Badulla,Home Office,5,49347.05,246735.25,159237.21,87498.04,Bank Transfer
+ORD-0347,2025-07-01,CUST-085,Sahan Bandara,Smartphone,Technology,Phones,Central,Kandy,Home Office,1,100645.77,100645.77,73403.26,27242.51,Bank Transfer
+ORD-0348,2025-03-02,CUST-159,Kavindu Gunasekara,Pen Set,Office Supplies,Writing,Uva,Badulla,Consumer,2,952.76,1905.52,1470.55,434.97,Cash
+ORD-0349,2025-06-02,CUST-052,Ayesha Wijesinghe,Notebook,Office Supplies,Paper,Southern,Hambantota,Home Office,2,688.57,1377.14,907.81,469.33,Online
+ORD-0350,2025-04-03,CUST-046,Ayesha Perera,Printer,Technology,Accessories,Central,Nuwara Eliya,Consumer,4,51896.67,207586.68,162762.18,44824.5,Online
+ORD-0351,2025-03-28,CUST-023,Ravindu Wijesinghe,Desk,Furniture,Tables,Central,Kandy,Home Office,3,42540.73,127622.19,105180.45,22441.74,Online
+ORD-0352,2025-09-02,CUST-096,Amal Karunaratne,Notebook,Office Supplies,Paper,Southern,Galle,Home Office,2,601.92,1203.84,808.8,395.04,Card
+ORD-0353,2025-01-03,CUST-089,Dinuka Silva,Laptop,Technology,Computers,Eastern,Batticaloa,Consumer,3,172766.11,518298.33,414802.67,103495.66,Online
+ORD-0354,2025-06-06,CUST-075,Hasini Karunaratne,Binder,Office Supplies,Binders,Northern,Jaffna,Corporate,1,1262.18,1262.18,880.41,381.77,Card
+ORD-0355,2025-09-08,CUST-104,Amal Jayasinghe,Storage Cabinet,Furniture,Storage,Sabaragamuwa,Ratnapura,Consumer,2,36105.63,72211.26,62571.2,9640.06,Card
+ORD-0356,2025-01-12,CUST-167,Nimali Wijesinghe,Office Chair,Furniture,Chairs,North Western,Kurunegala,Home Office,3,26517.05,79551.15,56904.03,22647.12,Bank Transfer
+ORD-0357,2025-01-25,CUST-006,Nimali Fernando,Binder,Office Supplies,Binders,Northern,Jaffna,Corporate,3,1113.21,3339.63,2164.45,1175.18,Online
+ORD-0358,2025-10-08,CUST-176,Amal Bandara,Notebook,Office Supplies,Paper,Western,Gampaha,Corporate,1,670.99,670.99,451.86,219.13,Cash
+ORD-0359,2025-11-15,CUST-027,Sachini Bandara,Binder,Office Supplies,Binders,Central,Matale,Consumer,3,1130.34,3391.02,2834.79,556.23,Cash
+ORD-0360,2025-11-08,CUST-052,Sahan Wijesinghe,Pen Set,Office Supplies,Writing,Central,Kandy,Corporate,1,865.87,865.87,654.61,211.26,Card
+ORD-0361,2025-09-12,CUST-061,Amal Perera,Laptop,Technology,Computers,Southern,Hambantota,Home Office,6,185420.27,1112521.62,828798.15,283723.47,Cash
+ORD-0362,2025-10-21,CUST-131,Kavindu Fernando,Smartphone,Technology,Phones,Uva,Badulla,Corporate,3,89667.0,269001.0,173081.03,95919.97,Card
+ORD-0363,2025-05-16,CUST-011,Dinuka Karunaratne,Pen Set,Office Supplies,Writing,Central,Matale,Home Office,2,842.37,1684.74,1121.06,563.68,Bank Transfer
+ORD-0364,2025-03-01,CUST-036,Tharushi Karunaratne,Notebook,Office Supplies,Paper,North Western,Kurunegala,Corporate,1,676.85,676.85,427.72,249.13,Online
+ORD-0365,2025-02-17,CUST-103,Hasini Bandara,Monitor,Technology,Computers,Central,Matale,Corporate,2,66288.82,132577.64,86121.95,46455.69,Online
+ORD-0366,2025-03-27,CUST-041,Sachini Wijesinghe,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Home Office,1,670.4,670.4,425.87,244.53,Online
+ORD-0367,2025-08-13,CUST-008,Ravindu Gunasekara,Monitor,Technology,Computers,Eastern,Batticaloa,Corporate,1,66691.69,66691.69,47566.9,19124.79,Cash
+ORD-0368,2025-01-24,CUST-174,Ishara Karunaratne,Notebook,Office Supplies,Paper,Southern,Matara,Home Office,1,666.12,666.12,415.14,250.98,Cash
+ORD-0369,2025-05-08,CUST-039,Nimali Perera,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Home Office,2,667.03,1334.06,1049.59,284.47,Card
+ORD-0370,2025-08-29,CUST-126,Ayesha Jayasinghe,Binder,Office Supplies,Binders,Uva,Badulla,Corporate,5,1270.93,6354.65,4063.58,2291.07,Bank Transfer
+ORD-0371,2025-04-25,CUST-021,Hasini Gunasekara,Laptop,Technology,Computers,Southern,Hambantota,Home Office,3,176504.76,529514.28,440792.5,88721.78,Online
+ORD-0372,2025-09-13,CUST-168,Amal Fernando,Smartphone,Technology,Phones,Uva,Badulla,Corporate,2,89204.34,178408.68,133684.67,44724.01,Online
+ORD-0373,2025-10-09,CUST-159,Dinuka Jayasinghe,Laptop,Technology,Computers,Southern,Hambantota,Home Office,1,168217.79,168217.79,130720.84,37496.95,Online
+ORD-0374,2025-01-28,CUST-159,Rashmi Karunaratne,Storage Cabinet,Furniture,Storage,Central,Nuwara Eliya,Home Office,5,40093.45,200467.25,141592.6,58874.65,Online
+ORD-0375,2025-12-04,CUST-075,Sahan Fernando,Smartphone,Technology,Phones,Western,Gampaha,Consumer,1,92588.63,92588.63,77382.78,15205.85,Card
+ORD-0376,2025-07-29,CUST-101,Nuwan Gunasekara,Pen Set,Office Supplies,Writing,Western,Kalutara,Consumer,1,915.96,915.96,612.56,303.4,Bank Transfer
+ORD-0377,2025-08-01,CUST-032,Hasini Gunasekara,Smartphone,Technology,Phones,North Central,Anuradhapura,Home Office,1,97025.26,97025.26,77111.49,19913.77,Card
+ORD-0378,2025-09-29,CUST-150,Rashmi Silva,Pen Set,Office Supplies,Writing,Western,Colombo,Home Office,4,907.66,3630.64,2659.56,971.08,Card
+ORD-0379,2025-07-18,CUST-099,Dilshan Jayasinghe,Printer,Technology,Accessories,Western,Gampaha,Corporate,3,52883.26,158649.78,111638.58,47011.2,Online
+ORD-0380,2025-08-20,CUST-132,Dinuka Karunaratne,Storage Cabinet,Furniture,Storage,Central,Matale,Home Office,4,35800.13,143200.52,111217.59,31982.93,Card
+ORD-0381,2025-11-16,CUST-034,Tharushi Karunaratne,Office Chair,Furniture,Chairs,Central,Kandy,Home Office,4,28836.02,115344.08,99139.37,16204.71,Cash
+ORD-0382,2025-09-03,CUST-173,Dinuka Wijesinghe,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Consumer,3,40691.46,122074.38,98224.97,23849.41,Cash
+ORD-0383,2025-03-16,CUST-042,Dinuka Bandara,Laptop,Technology,Computers,Southern,Galle,Consumer,1,167230.22,167230.22,115290.91,51939.31,Cash
+ORD-0384,2025-10-05,CUST-173,Ishara Wijesinghe,Desk,Furniture,Tables,Central,Kandy,Consumer,1,47260.99,47260.99,30561.07,16699.92,Bank Transfer
+ORD-0385,2025-07-15,CUST-081,Nimali Perera,Laptop,Technology,Computers,Sabaragamuwa,Ratnapura,Home Office,2,193153.02,386306.04,337520.96,48785.08,Bank Transfer
+ORD-0386,2025-08-15,CUST-166,Sahan Jayasinghe,Office Chair,Furniture,Chairs,Northern,Jaffna,Home Office,5,29843.46,149217.3,119851.87,29365.43,Card
+ORD-0387,2025-04-01,CUST-132,Sachini Wijesinghe,Desk,Furniture,Tables,Southern,Matara,Consumer,10,41936.18,419361.8,364946.91,54414.89,Online
+ORD-0388,2025-05-16,CUST-085,Hasini Silva,Desk,Furniture,Tables,Southern,Hambantota,Consumer,1,45604.7,45604.7,31298.7,14306.0,Card
+ORD-0389,2025-01-27,CUST-078,Rashmi Karunaratne,Storage Cabinet,Furniture,Storage,Northern,Jaffna,Consumer,4,38762.23,155048.92,130119.6,24929.32,Bank Transfer
+ORD-0390,2025-04-05,CUST-140,Chamari Fernando,Binder,Office Supplies,Binders,Central,Kandy,Corporate,2,1254.96,2509.92,1660.15,849.77,Card
+ORD-0391,2025-06-19,CUST-159,Rashmi Perera,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Consumer,2,27075.21,54150.42,46952.75,7197.67,Bank Transfer
+ORD-0392,2025-11-25,CUST-175,Ayesha Wijesinghe,Pen Set,Office Supplies,Writing,Central,Kandy,Consumer,3,917.44,2752.32,2392.63,359.69,Online
+ORD-0393,2025-05-25,CUST-132,Hasini Gunasekara,Desk,Furniture,Tables,Southern,Hambantota,Consumer,1,45121.45,45121.45,37014.41,8107.04,Bank Transfer
+ORD-0394,2025-09-21,CUST-138,Amal Fernando,Office Chair,Furniture,Chairs,Central,Nuwara Eliya,Consumer,1,26189.88,26189.88,22853.9,3335.98,Card
+ORD-0395,2025-02-23,CUST-112,Kavindu Silva,Notebook,Office Supplies,Paper,Uva,Badulla,Consumer,1,684.19,684.19,580.5,103.69,Online
+ORD-0396,2025-02-14,CUST-019,Ishara Bandara,Storage Cabinet,Furniture,Storage,Western,Colombo,Corporate,1,36042.19,36042.19,24706.78,11335.41,Online
+ORD-0397,2025-07-27,CUST-137,Amal Fernando,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Home Office,2,830.43,1660.86,1320.48,340.38,Cash
+ORD-0398,2025-09-15,CUST-023,Dinuka Gunasekara,Smartphone,Technology,Phones,Central,Nuwara Eliya,Corporate,1,99360.76,99360.76,69388.7,29972.06,Online
+ORD-0399,2025-03-22,CUST-140,Dinuka Silva,Laptop,Technology,Computers,Southern,Matara,Corporate,2,169527.79,339055.58,244682.19,94373.39,Bank Transfer
+ORD-0400,2025-10-12,CUST-101,Kavindu Bandara,Laptop,Technology,Computers,Southern,Hambantota,Consumer,1,166803.07,166803.07,128256.02,38547.05,Bank Transfer
+ORD-0401,2025-11-27,CUST-158,Kasun Jayasinghe,Office Chair,Furniture,Chairs,Southern,Galle,Consumer,5,26398.2,131991.0,88148.62,43842.38,Card
+ORD-0402,2025-01-28,CUST-119,Kavindu Bandara,Monitor,Technology,Computers,Uva,Badulla,Home Office,5,72704.18,363520.9,319360.89,44160.01,Cash
+ORD-0403,2025-04-12,CUST-033,Ishara Fernando,Desk,Furniture,Tables,Western,Gampaha,Corporate,4,44907.77,179631.08,126823.36,52807.72,Cash
+ORD-0404,2025-09-06,CUST-150,Ravindu Karunaratne,Office Chair,Furniture,Chairs,Central,Nuwara Eliya,Corporate,2,28521.21,57042.42,39899.78,17142.64,Online
+ORD-0405,2025-06-10,CUST-112,Kasun Karunaratne,Printer,Technology,Accessories,Western,Colombo,Consumer,1,49683.09,49683.09,40360.17,9322.92,Bank Transfer
+ORD-0406,2025-08-17,CUST-045,Kavindu Bandara,Pen Set,Office Supplies,Writing,Southern,Matara,Consumer,2,871.99,1743.98,1331.41,412.57,Card
+ORD-0407,2025-11-17,CUST-130,Amal Wijesinghe,Desk,Furniture,Tables,North Western,Kurunegala,Home Office,1,41942.88,41942.88,26207.75,15735.13,Card
+ORD-0408,2025-05-14,CUST-039,Sahan Wijesinghe,Laptop,Technology,Computers,Southern,Hambantota,Consumer,2,194363.37,388726.74,288725.63,100001.11,Bank Transfer
+ORD-0409,2025-09-14,CUST-170,Ishara Silva,Printer,Technology,Accessories,Southern,Matara,Home Office,2,51141.25,102282.5,76769.51,25512.99,Card
+ORD-0410,2025-04-02,CUST-038,Rashmi Karunaratne,Pen Set,Office Supplies,Writing,Western,Kalutara,Consumer,3,909.48,2728.44,2310.36,418.08,Card
+ORD-0411,2025-02-02,CUST-133,Sahan Wijesinghe,Pen Set,Office Supplies,Writing,Central,Kandy,Corporate,1,861.7,861.7,684.05,177.65,Online
+ORD-0412,2025-11-29,CUST-071,Kasun Silva,Laptop,Technology,Computers,Western,Colombo,Corporate,2,185867.6,371735.2,280867.12,90868.08,Online
+ORD-0413,2025-12-01,CUST-058,Chamari Karunaratne,Storage Cabinet,Furniture,Storage,Northern,Jaffna,Corporate,6,35433.25,212599.5,145718.35,66881.15,Online
+ORD-0414,2025-11-06,CUST-059,Kavindu Bandara,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Consumer,1,955.01,955.01,701.33,253.68,Card
+ORD-0415,2025-07-05,CUST-107,Ayesha Fernando,Printer,Technology,Accessories,Western,Kalutara,Corporate,3,54637.07,163911.21,129799.4,34111.81,Online
+ORD-0416,2025-10-30,CUST-012,Ravindu Silva,Pen Set,Office Supplies,Writing,Central,Kandy,Consumer,1,948.0,948.0,593.29,354.71,Cash
+ORD-0417,2025-01-29,CUST-104,Amal Bandara,Monitor,Technology,Computers,Western,Kalutara,Consumer,1,72596.22,72596.22,54761.26,17834.96,Card
+ORD-0418,2025-08-30,CUST-154,Ravindu Silva,Pen Set,Office Supplies,Writing,Northern,Jaffna,Home Office,5,852.56,4262.8,3563.25,699.55,Bank Transfer
+ORD-0419,2025-12-18,CUST-059,Chamari Wijesinghe,Printer,Technology,Accessories,North Western,Kurunegala,Consumer,2,51612.87,103225.74,79850.78,23374.96,Cash
+ORD-0420,2025-09-25,CUST-039,Sachini Silva,Laptop,Technology,Computers,Central,Kandy,Corporate,5,180125.55,900627.75,656689.75,243938.0,Cash
+ORD-0421,2025-03-02,CUST-139,Amal Wijesinghe,Binder,Office Supplies,Binders,Southern,Hambantota,Home Office,1,1230.6,1230.6,1051.57,179.03,Online
+ORD-0422,2025-01-23,CUST-124,Chamari Karunaratne,Storage Cabinet,Furniture,Storage,Uva,Badulla,Home Office,3,37568.05,112704.15,97375.22,15328.93,Cash
+ORD-0423,2025-05-11,CUST-073,Dilshan Bandara,Notebook,Office Supplies,Paper,Western,Kalutara,Consumer,2,622.18,1244.36,1049.44,194.92,Cash
+ORD-0424,2025-09-25,CUST-177,Ayesha Wijesinghe,Laptop,Technology,Computers,Northern,Jaffna,Corporate,1,165807.19,165807.19,131017.86,34789.33,Cash
+ORD-0425,2025-11-30,CUST-145,Sahan Bandara,Printer,Technology,Accessories,Southern,Galle,Home Office,3,50014.04,150042.12,113940.08,36102.04,Online
+ORD-0426,2025-10-10,CUST-143,Rashmi Bandara,Office Chair,Furniture,Chairs,Southern,Galle,Corporate,4,27921.46,111685.84,79995.58,31690.26,Bank Transfer
+ORD-0427,2025-03-12,CUST-115,Tharushi Fernando,Notebook,Office Supplies,Paper,North Western,Kurunegala,Consumer,5,666.57,3332.85,2714.38,618.47,Online
+ORD-0428,2025-10-09,CUST-100,Amal Fernando,Storage Cabinet,Furniture,Storage,North Central,Anuradhapura,Consumer,3,39122.15,117366.45,74355.6,43010.85,Online
+ORD-0429,2025-02-15,CUST-010,Chamari Wijesinghe,Monitor,Technology,Computers,Southern,Galle,Home Office,1,64972.86,64972.86,41635.28,23337.58,Bank Transfer
+ORD-0430,2025-03-31,CUST-169,Dinuka Jayasinghe,Monitor,Technology,Computers,Western,Colombo,Consumer,3,67336.02,202008.06,135839.08,66168.98,Card
+ORD-0431,2025-12-12,CUST-041,Kavindu Bandara,Monitor,Technology,Computers,Western,Kalutara,Corporate,1,65163.11,65163.11,40406.0,24757.11,Bank Transfer
+ORD-0432,2025-10-28,CUST-024,Dinuka Karunaratne,Notebook,Office Supplies,Paper,Southern,Galle,Corporate,1,599.6,599.6,481.44,118.16,Bank Transfer
+ORD-0433,2025-04-10,CUST-045,Dilshan Fernando,Office Chair,Furniture,Chairs,Northern,Jaffna,Home Office,2,27569.72,55139.44,34253.14,20886.3,Cash
+ORD-0434,2025-06-24,CUST-138,Kasun Gunasekara,Binder,Office Supplies,Binders,Central,Matale,Corporate,8,1258.16,10065.28,8744.16,1321.12,Online
+ORD-0435,2025-06-23,CUST-151,Amal Gunasekara,Office Chair,Furniture,Chairs,North Central,Anuradhapura,Consumer,8,27815.64,222525.12,164621.26,57903.86,Bank Transfer
+ORD-0436,2025-11-21,CUST-081,Dilshan Karunaratne,Smartphone,Technology,Phones,Southern,Galle,Home Office,4,90749.81,362999.24,291236.39,71762.85,Cash
+ORD-0437,2025-05-28,CUST-020,Tharushi Gunasekara,Desk,Furniture,Tables,Central,Kandy,Corporate,1,46250.63,46250.63,38548.95,7701.68,Bank Transfer
+ORD-0438,2025-10-21,CUST-049,Rashmi Jayasinghe,Office Chair,Furniture,Chairs,Sabaragamuwa,Ratnapura,Consumer,1,30003.09,30003.09,23930.7,6072.39,Card
+ORD-0439,2025-04-28,CUST-040,Sachini Fernando,Desk,Furniture,Tables,Central,Kandy,Consumer,1,43197.81,43197.81,33730.37,9467.44,Online
+ORD-0440,2025-10-05,CUST-081,Rashmi Bandara,Monitor,Technology,Computers,Western,Colombo,Corporate,8,71786.36,574290.88,411485.79,162805.09,Card
+ORD-0441,2025-07-23,CUST-109,Rashmi Perera,Binder,Office Supplies,Binders,Central,Matale,Home Office,1,1214.72,1214.72,770.23,444.49,Bank Transfer
+ORD-0442,2025-12-18,CUST-133,Hasini Karunaratne,Notebook,Office Supplies,Paper,Uva,Badulla,Home Office,4,645.55,2582.2,1681.78,900.42,Cash
+ORD-0443,2025-04-18,CUST-067,Tharushi Bandara,Laptop,Technology,Computers,Eastern,Batticaloa,Consumer,2,168501.54,337003.08,240625.79,96377.29,Bank Transfer
+ORD-0444,2025-06-25,CUST-180,Sahan Karunaratne,Pen Set,Office Supplies,Writing,Northern,Jaffna,Corporate,2,899.82,1799.64,1214.29,585.35,Bank Transfer
+ORD-0445,2025-10-20,CUST-026,Kasun Jayasinghe,Pen Set,Office Supplies,Writing,Western,Kalutara,Home Office,1,910.93,910.93,618.91,292.02,Online
+ORD-0446,2025-03-16,CUST-003,Tharushi Wijesinghe,Notebook,Office Supplies,Paper,Central,Kandy,Corporate,4,674.81,2699.24,2005.47,693.77,Card
+ORD-0447,2025-06-11,CUST-146,Nimali Wijesinghe,Binder,Office Supplies,Binders,Southern,Hambantota,Consumer,4,1161.61,4646.44,3559.9,1086.54,Card
+ORD-0448,2025-05-11,CUST-086,Kasun Karunaratne,Laptop,Technology,Computers,Central,Kandy,Corporate,2,183740.03,367480.06,270818.93,96661.13,Bank Transfer
+ORD-0449,2025-07-30,CUST-051,Tharushi Bandara,Storage Cabinet,Furniture,Storage,Western,Colombo,Corporate,1,40233.6,40233.6,35019.74,5213.86,Bank Transfer
+ORD-0450,2025-08-17,CUST-162,Ravindu Silva,Binder,Office Supplies,Binders,Southern,Matara,Home Office,5,1177.17,5885.85,4087.7,1798.15,Bank Transfer
+ORD-0451,2025-11-10,CUST-042,Ayesha Jayasinghe,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Corporate,3,686.29,2058.87,1314.69,744.18,Bank Transfer
+ORD-0452,2025-05-17,CUST-093,Hasini Wijesinghe,Desk,Furniture,Tables,North Western,Kurunegala,Consumer,3,44247.28,132741.84,112936.74,19805.1,Card
+ORD-0453,2025-05-01,CUST-021,Nuwan Silva,Laptop,Technology,Computers,Western,Kalutara,Corporate,3,192684.6,578053.8,463703.89,114349.91,Cash
+ORD-0454,2025-08-31,CUST-022,Sachini Bandara,Smartphone,Technology,Phones,Western,Gampaha,Home Office,2,87800.75,175601.5,126999.09,48602.41,Card
+ORD-0455,2025-07-19,CUST-161,Ravindu Silva,Smartphone,Technology,Phones,Eastern,Batticaloa,Home Office,2,91160.43,182320.86,126509.81,55811.05,Card
+ORD-0456,2025-12-06,CUST-120,Kasun Gunasekara,Laptop,Technology,Computers,Western,Colombo,Consumer,2,191959.84,383919.68,324297.99,59621.69,Card
+ORD-0457,2025-08-22,CUST-135,Dinuka Karunaratne,Monitor,Technology,Computers,Northern,Jaffna,Corporate,3,69478.06,208434.18,159793.14,48641.04,Card
+ORD-0458,2025-06-07,CUST-001,Ravindu Karunaratne,Smartphone,Technology,Phones,Southern,Matara,Corporate,2,91349.07,182698.14,127693.02,55005.12,Online
+ORD-0459,2025-12-19,CUST-003,Dilshan Bandara,Binder,Office Supplies,Binders,Western,Colombo,Home Office,6,1285.82,7714.92,5740.19,1974.73,Card
+ORD-0460,2025-07-11,CUST-064,Tharushi Wijesinghe,Laptop,Technology,Computers,Southern,Hambantota,Corporate,1,191006.27,191006.27,140131.3,50874.97,Card
+ORD-0461,2025-08-05,CUST-157,Kasun Bandara,Desk,Furniture,Tables,Western,Gampaha,Home Office,3,45119.59,135358.77,112075.62,23283.15,Bank Transfer
+ORD-0462,2025-02-05,CUST-159,Hasini Bandara,Notebook,Office Supplies,Paper,Central,Kandy,Home Office,1,628.12,628.12,493.45,134.67,Online
+ORD-0463,2025-01-10,CUST-027,Dinuka Bandara,Office Chair,Furniture,Chairs,Central,Nuwara Eliya,Consumer,1,30104.33,30104.33,18837.91,11266.42,Online
+ORD-0464,2025-02-16,CUST-080,Rashmi Karunaratne,Laptop,Technology,Computers,Central,Kandy,Corporate,1,179815.09,179815.09,127470.44,52344.65,Cash
+ORD-0465,2025-03-16,CUST-121,Tharushi Jayasinghe,Storage Cabinet,Furniture,Storage,Western,Gampaha,Corporate,1,39675.97,39675.97,25335.49,14340.48,Online
+ORD-0466,2025-05-08,CUST-009,Nuwan Gunasekara,Laptop,Technology,Computers,Western,Gampaha,Home Office,2,193679.2,387358.4,265054.7,122303.7,Cash
+ORD-0467,2025-04-17,CUST-083,Tharushi Perera,Binder,Office Supplies,Binders,Eastern,Batticaloa,Home Office,2,1234.84,2469.68,1731.61,738.07,Cash
+ORD-0468,2025-11-23,CUST-171,Nuwan Fernando,Desk,Furniture,Tables,Southern,Matara,Consumer,1,43995.07,43995.07,27872.76,16122.31,Online
+ORD-0469,2025-03-27,CUST-063,Amal Perera,Storage Cabinet,Furniture,Storage,Western,Colombo,Home Office,4,38514.96,154059.84,111371.42,42688.42,Online
+ORD-0470,2025-07-10,CUST-176,Ayesha Perera,Monitor,Technology,Computers,Western,Kalutara,Consumer,4,65266.1,261064.4,195792.82,65271.58,Bank Transfer
+ORD-0471,2025-10-02,CUST-143,Sahan Gunasekara,Printer,Technology,Accessories,North Western,Kurunegala,Home Office,4,48886.88,195547.52,133069.19,62478.33,Card
+ORD-0472,2025-07-13,CUST-125,Hasini Bandara,Laptop,Technology,Computers,North Western,Kurunegala,Home Office,2,169480.29,338960.58,289354.51,49606.07,Online
+ORD-0473,2025-04-06,CUST-154,Tharushi Fernando,Office Chair,Furniture,Chairs,Northern,Jaffna,Home Office,2,27210.09,54420.18,40367.94,14052.24,Card
+ORD-0474,2025-05-15,CUST-130,Chamari Silva,Pen Set,Office Supplies,Writing,Central,Matale,Consumer,2,893.39,1786.78,1468.27,318.51,Bank Transfer
+ORD-0475,2025-06-14,CUST-100,Nuwan Gunasekara,Monitor,Technology,Computers,Central,Kandy,Home Office,4,69722.19,278888.76,211991.35,66897.41,Card
+ORD-0476,2025-06-15,CUST-169,Kavindu Perera,Monitor,Technology,Computers,Central,Matale,Consumer,2,66063.62,132127.24,85225.59,46901.65,Card
+ORD-0477,2025-02-24,CUST-100,Rashmi Bandara,Laptop,Technology,Computers,Central,Kandy,Consumer,2,168444.1,336888.2,258886.17,78002.03,Bank Transfer
+ORD-0478,2025-02-06,CUST-021,Hasini Perera,Office Chair,Furniture,Chairs,Northern,Jaffna,Corporate,1,29886.24,29886.24,23624.92,6261.32,Online
+ORD-0479,2025-12-29,CUST-019,Dinuka Fernando,Storage Cabinet,Furniture,Storage,North Central,Anuradhapura,Consumer,1,38710.95,38710.95,29325.3,9385.65,Cash
+ORD-0480,2025-04-29,CUST-064,Tharushi Wijesinghe,Smartphone,Technology,Phones,North Western,Kurunegala,Home Office,2,90279.8,180559.6,136649.3,43910.3,Cash
+ORD-0481,2025-12-12,CUST-043,Tharushi Wijesinghe,Monitor,Technology,Computers,Central,Nuwara Eliya,Home Office,2,69797.84,139595.68,118591.31,21004.37,Bank Transfer
+ORD-0482,2025-11-04,CUST-084,Sahan Wijesinghe,Printer,Technology,Accessories,Southern,Hambantota,Home Office,2,50771.34,101542.68,71276.9,30265.78,Online
+ORD-0483,2025-05-04,CUST-066,Sahan Gunasekara,Storage Cabinet,Furniture,Storage,Northern,Jaffna,Corporate,3,36260.68,108782.04,89101.64,19680.4,Online
+ORD-0484,2025-01-18,CUST-078,Amal Bandara,Laptop,Technology,Computers,North Western,Kurunegala,Consumer,10,182757.97,1827579.7,1379052.23,448527.47,Card
+ORD-0485,2025-12-20,CUST-147,Ravindu Fernando,Storage Cabinet,Furniture,Storage,Western,Colombo,Consumer,5,40548.2,202741.0,152649.9,50091.1,Online
+ORD-0486,2025-03-12,CUST-066,Dinuka Fernando,Storage Cabinet,Furniture,Storage,Western,Kalutara,Home Office,1,40368.92,40368.92,27651.21,12717.71,Online
+ORD-0487,2025-04-22,CUST-045,Rashmi Fernando,Monitor,Technology,Computers,Sabaragamuwa,Ratnapura,Home Office,4,70432.56,281730.24,232752.87,48977.37,Bank Transfer
+ORD-0488,2025-10-23,CUST-086,Sahan Wijesinghe,Laptop,Technology,Computers,North Western,Kurunegala,Corporate,2,188067.51,376135.02,323358.23,52776.79,Cash
+ORD-0489,2025-12-01,CUST-162,Chamari Perera,Office Chair,Furniture,Chairs,North Western,Kurunegala,Corporate,5,29920.37,149601.85,117409.12,32192.73,Cash
+ORD-0490,2025-10-17,CUST-013,Chamari Gunasekara,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Home Office,1,38014.6,38014.6,25751.37,12263.23,Cash
+ORD-0491,2025-05-29,CUST-122,Nimali Wijesinghe,Office Chair,Furniture,Chairs,Southern,Galle,Corporate,4,26423.1,105692.4,74767.2,30925.2,Cash
+ORD-0492,2025-08-11,CUST-144,Nuwan Gunasekara,Notebook,Office Supplies,Paper,Southern,Hambantota,Corporate,4,611.56,2446.24,1602.45,843.79,Card
+ORD-0493,2025-09-26,CUST-083,Kavindu Fernando,Binder,Office Supplies,Binders,Northern,Jaffna,Home Office,1,1117.76,1117.76,918.75,199.01,Online
+ORD-0494,2025-06-28,CUST-079,Tharushi Karunaratne,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Home Office,1,633.83,633.83,500.98,132.85,Online
+ORD-0495,2025-08-14,CUST-096,Ravindu Fernando,Monitor,Technology,Computers,Western,Kalutara,Consumer,1,71461.71,71461.71,48016.42,23445.29,Cash
+ORD-0496,2025-03-17,CUST-178,Sachini Bandara,Office Chair,Furniture,Chairs,Northern,Jaffna,Corporate,5,29434.2,147171.0,91771.52,55399.48,Online
+ORD-0497,2025-04-18,CUST-067,Rashmi Silva,Laptop,Technology,Computers,Central,Nuwara Eliya,Home Office,4,171702.01,686808.04,523396.01,163412.03,Cash
+ORD-0498,2025-12-06,CUST-052,Kasun Perera,Notebook,Office Supplies,Paper,Northern,Jaffna,Corporate,2,624.57,1249.14,793.99,455.15,Cash
+ORD-0499,2025-12-05,CUST-028,Amal Bandara,Smartphone,Technology,Phones,Southern,Galle,Home Office,1,100351.66,100351.66,79440.99,20910.67,Online
+ORD-0500,2025-09-18,CUST-153,Kavindu Silva,Office Chair,Furniture,Chairs,Southern,Galle,Consumer,8,26206.22,209649.76,147178.02,62471.74,Online
+ORD-0501,2025-12-31,CUST-086,Rashmi Wijesinghe,Binder,Office Supplies,Binders,Sabaragamuwa,Ratnapura,Home Office,1,1151.5,1151.5,872.43,279.07,Card
+ORD-0502,2025-12-17,CUST-129,Kasun Perera,Laptop,Technology,Computers,Central,Nuwara Eliya,Home Office,2,183606.65,367213.3,250224.0,116989.3,Bank Transfer
+ORD-0503,2025-01-16,CUST-088,Chamari Silva,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Consumer,8,696.71,5573.68,3782.59,1791.09,Online
+ORD-0504,2025-11-10,CUST-147,Ravindu Wijesinghe,Binder,Office Supplies,Binders,Eastern,Batticaloa,Corporate,5,1235.81,6179.05,4501.48,1677.57,Bank Transfer
+ORD-0505,2025-03-09,CUST-052,Ravindu Bandara,Pen Set,Office Supplies,Writing,Southern,Hambantota,Home Office,1,847.96,847.96,645.09,202.87,Card
+ORD-0506,2025-03-16,CUST-018,Sachini Silva,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Corporate,3,656.74,1970.22,1302.5,667.72,Card
+ORD-0507,2025-06-13,CUST-114,Kasun Silva,Laptop,Technology,Computers,North Central,Anuradhapura,Consumer,5,177524.36,887621.8,645234.88,242386.92,Cash
+ORD-0508,2025-01-14,CUST-146,Ishara Jayasinghe,Printer,Technology,Accessories,Western,Kalutara,Consumer,4,52931.69,211726.76,145961.1,65765.66,Cash
+ORD-0509,2025-12-19,CUST-121,Sahan Silva,Storage Cabinet,Furniture,Storage,Western,Gampaha,Corporate,4,35775.25,143101.0,120204.26,22896.74,Online
+ORD-0510,2025-03-25,CUST-004,Kasun Wijesinghe,Pen Set,Office Supplies,Writing,Western,Kalutara,Consumer,1,832.64,832.64,681.75,150.89,Card
+ORD-0511,2025-04-01,CUST-126,Ayesha Gunasekara,Office Chair,Furniture,Chairs,Western,Gampaha,Consumer,6,30175.61,181053.66,153072.46,27981.2,Online
+ORD-0512,2025-01-22,CUST-101,Nimali Fernando,Notebook,Office Supplies,Paper,North Central,Anuradhapura,Corporate,3,683.73,2051.19,1655.83,395.36,Online
+ORD-0513,2025-05-06,CUST-143,Chamari Perera,Laptop,Technology,Computers,Sabaragamuwa,Ratnapura,Consumer,2,176993.6,353987.2,287134.67,66852.53,Bank Transfer
+ORD-0514,2025-06-05,CUST-076,Nimali Silva,Pen Set,Office Supplies,Writing,Southern,Galle,Corporate,4,869.17,3476.68,2306.03,1170.65,Online
+ORD-0515,2025-09-14,CUST-179,Ravindu Wijesinghe,Smartphone,Technology,Phones,North Western,Kurunegala,Corporate,1,99236.71,99236.71,85724.54,13512.17,Bank Transfer
+ORD-0516,2025-04-02,CUST-117,Kavindu Bandara,Pen Set,Office Supplies,Writing,Western,Colombo,Corporate,2,957.11,1914.22,1632.65,281.57,Card
+ORD-0517,2025-02-28,CUST-099,Tharushi Wijesinghe,Smartphone,Technology,Phones,Western,Gampaha,Home Office,3,97037.9,291113.7,186947.31,104166.39,Online
+ORD-0518,2025-03-29,CUST-039,Tharushi Silva,Laptop,Technology,Computers,North Central,Anuradhapura,Consumer,6,181886.16,1091316.96,863753.24,227563.72,Cash
+ORD-0519,2025-06-08,CUST-047,Sachini Silva,Notebook,Office Supplies,Paper,Central,Matale,Consumer,4,697.94,2791.76,1940.5,851.26,Cash
+ORD-0520,2025-05-10,CUST-002,Rashmi Jayasinghe,Monitor,Technology,Computers,North Central,Anuradhapura,Consumer,1,67974.19,67974.19,50956.65,17017.54,Online
+ORD-0521,2025-08-15,CUST-141,Kasun Jayasinghe,Pen Set,Office Supplies,Writing,Southern,Galle,Consumer,1,914.41,914.41,625.11,289.3,Card
+ORD-0522,2025-12-01,CUST-148,Dinuka Karunaratne,Printer,Technology,Accessories,Western,Colombo,Consumer,2,49049.52,98099.04,61648.61,36450.43,Cash
+ORD-0523,2025-04-02,CUST-180,Tharushi Gunasekara,Smartphone,Technology,Phones,Southern,Galle,Home Office,1,91722.58,91722.58,72629.64,19092.94,Bank Transfer
+ORD-0524,2025-06-03,CUST-110,Kavindu Bandara,Laptop,Technology,Computers,Western,Gampaha,Corporate,2,191448.86,382897.72,319056.74,63840.98,Card
+ORD-0525,2025-05-21,CUST-054,Nimali Fernando,Smartphone,Technology,Phones,North Western,Kurunegala,Home Office,2,93689.12,187378.24,126397.83,60980.41,Cash
+ORD-0526,2025-12-19,CUST-110,Ayesha Bandara,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Home Office,3,941.5,2824.5,2270.25,554.25,Bank Transfer
+ORD-0527,2025-10-16,CUST-047,Ishara Bandara,Printer,Technology,Accessories,Northern,Jaffna,Consumer,2,53906.82,107813.64,80796.91,27016.73,Cash
+ORD-0528,2025-08-27,CUST-158,Dilshan Wijesinghe,Smartphone,Technology,Phones,Western,Colombo,Consumer,3,89192.47,267577.41,224898.32,42679.09,Bank Transfer
+ORD-0529,2025-11-23,CUST-066,Kavindu Bandara,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Corporate,1,38854.96,38854.96,31060.83,7794.13,Bank Transfer
+ORD-0530,2025-12-18,CUST-008,Tharushi Jayasinghe,Laptop,Technology,Computers,Western,Gampaha,Corporate,2,177006.22,354012.44,271853.09,82159.35,Bank Transfer
+ORD-0531,2025-08-31,CUST-161,Hasini Karunaratne,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Corporate,4,920.97,3683.88,2745.19,938.69,Online
+ORD-0532,2025-09-24,CUST-138,Amal Jayasinghe,Laptop,Technology,Computers,Uva,Badulla,Home Office,1,186478.97,186478.97,130913.97,55565.0,Bank Transfer
+ORD-0533,2025-03-18,CUST-161,Tharushi Wijesinghe,Storage Cabinet,Furniture,Storage,Western,Gampaha,Consumer,1,35149.53,35149.53,30781.88,4367.65,Cash
+ORD-0534,2025-06-11,CUST-061,Sahan Gunasekara,Desk,Furniture,Tables,North Western,Kurunegala,Corporate,3,43354.78,130064.34,83575.11,46489.23,Card
+ORD-0535,2025-03-31,CUST-024,Hasini Perera,Binder,Office Supplies,Binders,Central,Matale,Corporate,1,1254.71,1254.71,1031.65,223.06,Card
+ORD-0536,2025-09-05,CUST-037,Sachini Silva,Office Chair,Furniture,Chairs,Central,Nuwara Eliya,Consumer,4,28105.85,112423.4,92371.41,20051.99,Cash
+ORD-0537,2025-09-25,CUST-153,Kavindu Karunaratne,Pen Set,Office Supplies,Writing,Southern,Galle,Corporate,1,872.78,872.78,551.12,321.66,Cash
+ORD-0538,2025-12-04,CUST-164,Nuwan Karunaratne,Smartphone,Technology,Phones,Southern,Hambantota,Consumer,4,87741.7,350966.8,286813.01,64153.79,Card
+ORD-0539,2025-09-30,CUST-039,Tharushi Bandara,Desk,Furniture,Tables,Central,Matale,Consumer,2,44576.03,89152.06,58001.37,31150.69,Cash
+ORD-0540,2025-09-21,CUST-070,Ravindu Bandara,Monitor,Technology,Computers,Southern,Hambantota,Home Office,1,68462.71,68462.71,52225.76,16236.95,Card
+ORD-0541,2025-06-09,CUST-034,Amal Gunasekara,Printer,Technology,Accessories,Western,Gampaha,Home Office,3,50658.31,151974.93,111754.52,40220.41,Cash
+ORD-0542,2025-01-28,CUST-152,Hasini Karunaratne,Smartphone,Technology,Phones,Southern,Galle,Corporate,1,93357.13,93357.13,74985.96,18371.17,Bank Transfer
+ORD-0543,2025-12-10,CUST-120,Ravindu Fernando,Office Chair,Furniture,Chairs,North Western,Kurunegala,Home Office,4,26111.88,104447.52,89816.91,14630.61,Online
+ORD-0544,2025-06-08,CUST-060,Ishara Silva,Smartphone,Technology,Phones,Southern,Matara,Home Office,3,98195.28,294585.84,218289.02,76296.82,Bank Transfer
+ORD-0545,2025-04-04,CUST-084,Hasini Gunasekara,Storage Cabinet,Furniture,Storage,Southern,Galle,Consumer,3,39004.3,117012.9,96545.29,20467.61,Cash
+ORD-0546,2025-06-29,CUST-090,Ravindu Fernando,Pen Set,Office Supplies,Writing,Western,Gampaha,Corporate,2,949.79,1899.58,1317.14,582.44,Cash
+ORD-0547,2025-11-29,CUST-152,Dilshan Jayasinghe,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Home Office,1,36796.88,36796.88,27224.3,9572.58,Card
+ORD-0548,2025-09-04,CUST-152,Dilshan Wijesinghe,Binder,Office Supplies,Binders,Western,Kalutara,Home Office,2,1169.42,2338.84,1945.02,393.82,Bank Transfer
+ORD-0549,2025-05-01,CUST-147,Rashmi Fernando,Binder,Office Supplies,Binders,North Western,Kurunegala,Home Office,1,1232.56,1232.56,1001.13,231.43,Online
+ORD-0550,2025-02-19,CUST-018,Sachini Wijesinghe,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Corporate,5,36031.14,180155.7,156470.58,23685.12,Online
+ORD-0551,2025-04-22,CUST-163,Amal Silva,Laptop,Technology,Computers,Western,Gampaha,Home Office,5,191153.13,955765.65,817032.98,138732.67,Card
+ORD-0552,2025-05-30,CUST-175,Ayesha Bandara,Pen Set,Office Supplies,Writing,Southern,Hambantota,Home Office,2,911.22,1822.44,1222.63,599.81,Bank Transfer
+ORD-0553,2025-06-26,CUST-131,Chamari Silva,Notebook,Office Supplies,Paper,North Western,Kurunegala,Corporate,10,658.6,6586.0,5130.41,1455.59,Cash
+ORD-0554,2025-10-09,CUST-092,Sachini Bandara,Storage Cabinet,Furniture,Storage,Sabaragamuwa,Ratnapura,Consumer,8,34965.13,279721.04,214156.63,65564.41,Card
+ORD-0555,2025-10-30,CUST-098,Dilshan Jayasinghe,Notebook,Office Supplies,Paper,North Western,Kurunegala,Home Office,2,631.09,1262.18,908.17,354.01,Card
+ORD-0556,2025-04-07,CUST-107,Ravindu Bandara,Pen Set,Office Supplies,Writing,Western,Kalutara,Home Office,3,949.44,2848.32,2032.77,815.55,Card
+ORD-0557,2025-02-06,CUST-169,Dilshan Silva,Printer,Technology,Accessories,Western,Colombo,Consumer,3,49038.05,147114.15,125057.48,22056.67,Card
+ORD-0558,2025-08-22,CUST-160,Tharushi Gunasekara,Notebook,Office Supplies,Paper,Uva,Badulla,Home Office,6,670.32,4021.92,3466.42,555.5,Online
+ORD-0559,2025-08-19,CUST-002,Rashmi Jayasinghe,Binder,Office Supplies,Binders,Uva,Badulla,Home Office,2,1147.34,2294.68,1676.13,618.55,Bank Transfer
+ORD-0560,2025-10-07,CUST-124,Sahan Fernando,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Home Office,3,601.48,1804.44,1136.52,667.92,Online
+ORD-0561,2025-09-27,CUST-120,Kavindu Fernando,Smartphone,Technology,Phones,Western,Kalutara,Consumer,10,102351.76,1023517.6,841849.52,181668.08,Online
+ORD-0562,2025-11-21,CUST-088,Amal Gunasekara,Smartphone,Technology,Phones,Eastern,Batticaloa,Corporate,2,96210.35,192420.7,149970.8,42449.9,Online
+ORD-0563,2025-06-19,CUST-075,Tharushi Perera,Monitor,Technology,Computers,North Western,Kurunegala,Home Office,2,73011.12,146022.24,120838.96,25183.28,Bank Transfer
+ORD-0564,2025-02-01,CUST-169,Dinuka Perera,Monitor,Technology,Computers,Central,Matale,Corporate,3,68850.18,206550.54,158825.72,47724.82,Online
+ORD-0565,2025-09-16,CUST-158,Kasun Bandara,Smartphone,Technology,Phones,Western,Kalutara,Corporate,1,99313.19,99313.19,68082.49,31230.7,Cash
+ORD-0566,2025-03-31,CUST-095,Tharushi Bandara,Smartphone,Technology,Phones,Northern,Jaffna,Home Office,6,98632.3,591793.8,468334.05,123459.75,Card
+ORD-0567,2025-09-28,CUST-038,Ravindu Gunasekara,Pen Set,Office Supplies,Writing,Western,Kalutara,Corporate,5,877.37,4386.85,2816.11,1570.74,Online
+ORD-0568,2025-08-14,CUST-089,Nimali Bandara,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Consumer,4,26509.43,106037.72,81672.05,24365.67,Cash
+ORD-0569,2025-07-24,CUST-137,Ishara Wijesinghe,Printer,Technology,Accessories,Southern,Matara,Home Office,2,51802.54,103605.08,89778.51,13826.57,Online
+ORD-0570,2025-03-16,CUST-115,Chamari Karunaratne,Pen Set,Office Supplies,Writing,Central,Matale,Home Office,2,890.6,1781.2,1238.09,543.11,Cash
+ORD-0571,2025-09-30,CUST-167,Kasun Karunaratne,Smartphone,Technology,Phones,Sabaragamuwa,Ratnapura,Corporate,3,101933.99,305801.97,223927.87,81874.1,Bank Transfer
+ORD-0572,2025-12-02,CUST-062,Nuwan Karunaratne,Smartphone,Technology,Phones,Central,Matale,Home Office,3,94408.85,283226.55,225328.16,57898.39,Card
+ORD-0573,2025-01-06,CUST-026,Sachini Gunasekara,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Corporate,3,40016.67,120050.01,74804.36,45245.65,Card
+ORD-0574,2025-04-09,CUST-153,Nuwan Fernando,Desk,Furniture,Tables,Central,Matale,Home Office,1,45859.66,45859.66,29111.22,16748.44,Cash
+ORD-0575,2025-11-06,CUST-145,Tharushi Fernando,Smartphone,Technology,Phones,Uva,Badulla,Home Office,1,97377.2,97377.2,83157.53,14219.67,Card
+ORD-0576,2025-08-28,CUST-071,Dilshan Karunaratne,Desk,Furniture,Tables,Central,Matale,Corporate,3,41945.14,125835.42,92853.37,32982.05,Card
+ORD-0577,2025-02-01,CUST-068,Tharushi Gunasekara,Smartphone,Technology,Phones,Central,Matale,Consumer,2,92456.35,184912.7,117533.33,67379.37,Online
+ORD-0578,2025-07-21,CUST-111,Nuwan Fernando,Office Chair,Furniture,Chairs,Northern,Jaffna,Corporate,1,27964.42,27964.42,18384.0,9580.42,Bank Transfer
+ORD-0579,2025-02-07,CUST-005,Rashmi Silva,Smartphone,Technology,Phones,Western,Colombo,Home Office,1,98458.69,98458.69,80941.08,17517.61,Cash
+ORD-0580,2025-07-19,CUST-148,Amal Gunasekara,Laptop,Technology,Computers,Eastern,Batticaloa,Corporate,1,185761.59,185761.59,158863.42,26898.17,Online
+ORD-0581,2025-02-05,CUST-124,Sachini Karunaratne,Notebook,Office Supplies,Paper,Uva,Badulla,Corporate,2,598.34,1196.68,1038.81,157.87,Bank Transfer
+ORD-0582,2025-11-20,CUST-088,Kavindu Gunasekara,Notebook,Office Supplies,Paper,Western,Colombo,Corporate,10,665.3,6653.0,4756.84,1896.16,Card
+ORD-0583,2025-01-21,CUST-100,Sachini Karunaratne,Printer,Technology,Accessories,Southern,Hambantota,Corporate,8,53337.31,426698.48,297710.21,128988.27,Cash
+ORD-0584,2025-04-08,CUST-152,Ishara Gunasekara,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Corporate,1,855.81,855.81,690.75,165.06,Cash
+ORD-0585,2025-06-07,CUST-005,Nimali Karunaratne,Binder,Office Supplies,Binders,Eastern,Batticaloa,Consumer,2,1289.27,2578.54,2142.93,435.61,Bank Transfer
+ORD-0586,2025-03-02,CUST-174,Ravindu Jayasinghe,Laptop,Technology,Computers,Southern,Galle,Consumer,1,184430.88,184430.88,139431.79,44999.09,Cash
+ORD-0587,2025-12-01,CUST-063,Ravindu Perera,Printer,Technology,Accessories,Southern,Matara,Consumer,1,55387.73,55387.73,43245.45,12142.28,Cash
+ORD-0588,2025-02-19,CUST-028,Sachini Gunasekara,Desk,Furniture,Tables,Uva,Badulla,Home Office,2,42628.96,85257.92,65961.58,19296.34,Card
+ORD-0589,2025-04-14,CUST-174,Chamari Karunaratne,Smartphone,Technology,Phones,North Central,Anuradhapura,Consumer,2,99735.12,199470.24,174610.29,24859.95,Card
+ORD-0590,2025-04-20,CUST-031,Kasun Silva,Storage Cabinet,Furniture,Storage,Uva,Badulla,Corporate,4,38565.96,154263.84,109100.17,45163.67,Card
+ORD-0591,2025-03-26,CUST-026,Chamari Silva,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Consumer,2,40588.11,81176.22,51188.24,29987.98,Online
+ORD-0592,2025-01-04,CUST-073,Dilshan Gunasekara,Smartphone,Technology,Phones,Western,Colombo,Home Office,1,88754.95,88754.95,70068.17,18686.78,Card
+ORD-0593,2025-11-24,CUST-045,Nimali Silva,Office Chair,Furniture,Chairs,Western,Kalutara,Home Office,1,27777.88,27777.88,18950.24,8827.64,Online
+ORD-0594,2025-11-18,CUST-143,Ishara Jayasinghe,Monitor,Technology,Computers,Western,Gampaha,Consumer,5,65837.05,329185.25,239937.97,89247.28,Cash
+ORD-0595,2025-10-04,CUST-054,Kasun Perera,Monitor,Technology,Computers,Central,Nuwara Eliya,Consumer,2,67610.67,135221.34,105862.18,29359.16,Cash
+ORD-0596,2025-08-31,CUST-014,Sahan Bandara,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,2,49169.2,98338.4,84560.7,13777.7,Online
+ORD-0597,2025-11-12,CUST-014,Tharushi Silva,Desk,Furniture,Tables,Central,Nuwara Eliya,Consumer,4,46860.54,187442.16,118325.22,69116.94,Online
+ORD-0598,2025-02-06,CUST-084,Dilshan Jayasinghe,Binder,Office Supplies,Binders,Western,Gampaha,Home Office,6,1242.51,7455.06,5770.99,1684.07,Bank Transfer
+ORD-0599,2025-02-26,CUST-052,Chamari Jayasinghe,Office Chair,Furniture,Chairs,North Central,Anuradhapura,Consumer,2,26199.33,52398.66,42537.99,9860.67,Online
+ORD-0600,2025-01-28,CUST-117,Tharushi Wijesinghe,Monitor,Technology,Computers,Southern,Matara,Corporate,6,64136.96,384821.76,331427.99,53393.77,Card
+ORD-0601,2025-04-10,CUST-033,Nimali Perera,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Corporate,3,968.48,2905.44,1954.13,951.31,Card
+ORD-0602,2025-08-27,CUST-076,Tharushi Silva,Smartphone,Technology,Phones,Uva,Badulla,Home Office,2,90002.26,180004.52,127682.56,52321.96,Card
+ORD-0603,2025-09-25,CUST-119,Kasun Perera,Smartphone,Technology,Phones,Southern,Galle,Home Office,2,102534.1,205068.2,158684.03,46384.17,Online
+ORD-0604,2025-06-17,CUST-039,Amal Wijesinghe,Office Chair,Furniture,Chairs,Central,Kandy,Consumer,2,26756.38,53512.76,46082.23,7430.53,Cash
+ORD-0605,2025-09-16,CUST-179,Sachini Gunasekara,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Corporate,1,904.48,904.48,673.48,231.0,Card
+ORD-0606,2025-01-07,CUST-092,Dinuka Jayasinghe,Smartphone,Technology,Phones,Southern,Hambantota,Home Office,3,93580.59,280741.77,189972.81,90768.96,Cash
+ORD-0607,2025-12-09,CUST-150,Amal Gunasekara,Laptop,Technology,Computers,Southern,Matara,Corporate,2,185855.17,371710.34,313374.03,58336.31,Card
+ORD-0608,2025-07-09,CUST-161,Kavindu Wijesinghe,Notebook,Office Supplies,Paper,Western,Kalutara,Home Office,3,671.21,2013.63,1249.16,764.47,Bank Transfer
+ORD-0609,2025-06-01,CUST-139,Nuwan Fernando,Binder,Office Supplies,Binders,Western,Colombo,Home Office,2,1155.8,2311.6,2001.81,309.79,Bank Transfer
+ORD-0610,2025-12-12,CUST-120,Nimali Karunaratne,Laptop,Technology,Computers,Southern,Hambantota,Corporate,2,167085.0,334170.0,240458.14,93711.86,Card
+ORD-0611,2025-02-04,CUST-086,Ishara Fernando,Binder,Office Supplies,Binders,North Western,Kurunegala,Home Office,3,1252.53,3757.59,2464.92,1292.67,Online
+ORD-0612,2025-12-26,CUST-091,Kasun Wijesinghe,Monitor,Technology,Computers,Uva,Badulla,Corporate,1,70665.78,70665.78,47954.76,22711.02,Cash
+ORD-0613,2025-06-26,CUST-121,Dinuka Gunasekara,Smartphone,Technology,Phones,Central,Nuwara Eliya,Home Office,2,95022.04,190044.08,158817.09,31226.99,Bank Transfer
+ORD-0614,2025-08-23,CUST-020,Sachini Silva,Smartphone,Technology,Phones,Central,Kandy,Corporate,1,93338.37,93338.37,62209.19,31129.18,Cash
+ORD-0615,2025-03-19,CUST-076,Dilshan Silva,Printer,Technology,Accessories,Southern,Matara,Corporate,5,52172.12,260860.6,204277.8,56582.8,Bank Transfer
+ORD-0616,2025-11-27,CUST-060,Ayesha Wijesinghe,Notebook,Office Supplies,Paper,Southern,Matara,Home Office,1,617.66,617.66,386.49,231.17,Bank Transfer
+ORD-0617,2025-10-31,CUST-118,Dinuka Silva,Storage Cabinet,Furniture,Storage,Southern,Matara,Corporate,3,38183.41,114550.23,87356.22,27194.01,Card
+ORD-0618,2025-09-05,CUST-038,Sahan Bandara,Desk,Furniture,Tables,Central,Kandy,Corporate,2,43474.65,86949.3,73022.94,13926.36,Card
+ORD-0619,2025-03-24,CUST-178,Ravindu Silva,Monitor,Technology,Computers,Sabaragamuwa,Ratnapura,Consumer,4,65663.48,262653.92,229305.69,33348.23,Cash
+ORD-0620,2025-10-22,CUST-144,Nimali Karunaratne,Laptop,Technology,Computers,Central,Nuwara Eliya,Corporate,1,173099.73,173099.73,115625.27,57474.46,Card
+ORD-0621,2025-10-04,CUST-007,Chamari Gunasekara,Storage Cabinet,Furniture,Storage,Southern,Matara,Consumer,8,38204.55,305636.4,199148.83,106487.57,Online
+ORD-0622,2025-01-03,CUST-166,Dinuka Gunasekara,Storage Cabinet,Furniture,Storage,Western,Kalutara,Corporate,8,38280.57,306244.56,230273.35,75971.21,Card
+ORD-0623,2025-08-15,CUST-011,Ravindu Fernando,Monitor,Technology,Computers,North Western,Kurunegala,Corporate,2,63781.99,127563.98,94975.86,32588.12,Cash
+ORD-0624,2025-04-23,CUST-165,Nuwan Jayasinghe,Notebook,Office Supplies,Paper,Northern,Jaffna,Corporate,2,607.62,1215.24,770.84,444.4,Card
+ORD-0625,2025-10-03,CUST-132,Chamari Jayasinghe,Laptop,Technology,Computers,Western,Gampaha,Corporate,5,185099.43,925497.15,804240.51,121256.64,Bank Transfer
+ORD-0626,2025-09-19,CUST-038,Dilshan Karunaratne,Monitor,Technology,Computers,Northern,Jaffna,Corporate,8,72443.9,579551.2,413728.19,165823.01,Bank Transfer
+ORD-0627,2025-06-26,CUST-023,Nuwan Gunasekara,Laptop,Technology,Computers,Central,Matale,Home Office,2,193752.68,387505.36,328340.44,59164.92,Online
+ORD-0628,2025-03-25,CUST-107,Ravindu Fernando,Pen Set,Office Supplies,Writing,Central,Matale,Consumer,4,967.73,3870.92,2826.53,1044.39,Card
+ORD-0629,2025-09-26,CUST-097,Kavindu Perera,Desk,Furniture,Tables,Southern,Matara,Corporate,10,41876.03,418760.3,364164.33,54595.97,Bank Transfer
+ORD-0630,2025-10-12,CUST-052,Tharushi Wijesinghe,Notebook,Office Supplies,Paper,Western,Kalutara,Corporate,2,657.06,1314.12,1127.34,186.78,Online
+ORD-0631,2025-06-04,CUST-119,Ishara Perera,Laptop,Technology,Computers,Uva,Badulla,Consumer,5,174352.73,871763.65,667259.3,204504.35,Card
+ORD-0632,2025-11-24,CUST-074,Dilshan Silva,Desk,Furniture,Tables,Central,Matale,Corporate,5,44802.3,224011.5,176967.15,47044.35,Card
+ORD-0633,2025-05-22,CUST-093,Rashmi Wijesinghe,Laptop,Technology,Computers,Western,Gampaha,Corporate,2,193554.01,387108.02,300284.24,86823.78,Online
+ORD-0634,2025-09-20,CUST-149,Nimali Silva,Smartphone,Technology,Phones,Central,Nuwara Eliya,Corporate,4,87666.69,350666.76,241076.27,109590.49,Online
+ORD-0635,2025-03-25,CUST-092,Nimali Bandara,Printer,Technology,Accessories,Central,Nuwara Eliya,Corporate,1,50844.88,50844.88,39934.8,10910.08,Cash
+ORD-0636,2025-11-18,CUST-140,Ayesha Karunaratne,Binder,Office Supplies,Binders,Central,Kandy,Home Office,1,1122.15,1122.15,915.32,206.83,Bank Transfer
+ORD-0637,2025-12-24,CUST-037,Amal Silva,Desk,Furniture,Tables,Eastern,Batticaloa,Home Office,3,42090.0,126270.0,97330.45,28939.55,Bank Transfer
+ORD-0638,2025-09-06,CUST-056,Ravindu Jayasinghe,Storage Cabinet,Furniture,Storage,North Central,Anuradhapura,Consumer,2,40559.12,81118.24,53731.71,27386.53,Cash
+ORD-0639,2025-02-09,CUST-090,Dinuka Karunaratne,Notebook,Office Supplies,Paper,Southern,Matara,Consumer,1,611.65,611.65,381.99,229.66,Online
+ORD-0640,2025-06-25,CUST-031,Ishara Silva,Monitor,Technology,Computers,Southern,Hambantota,Home Office,1,65874.96,65874.96,53593.21,12281.75,Card
+ORD-0641,2025-03-06,CUST-029,Kavindu Perera,Office Chair,Furniture,Chairs,Central,Matale,Corporate,1,30155.37,30155.37,22026.97,8128.4,Online
+ORD-0642,2025-02-25,CUST-121,Sachini Bandara,Laptop,Technology,Computers,Central,Kandy,Consumer,1,184601.92,184601.92,142923.57,41678.35,Cash
+ORD-0643,2025-01-06,CUST-053,Nuwan Silva,Desk,Furniture,Tables,Eastern,Batticaloa,Home Office,4,47033.07,188132.28,161648.05,26484.23,Bank Transfer
+ORD-0644,2025-03-16,CUST-090,Sahan Silva,Laptop,Technology,Computers,Western,Gampaha,Home Office,5,192725.14,963625.7,835160.73,128464.97,Card
+ORD-0645,2025-02-04,CUST-056,Nuwan Bandara,Binder,Office Supplies,Binders,Northern,Jaffna,Consumer,1,1215.0,1215.0,757.72,457.28,Cash
+ORD-0646,2025-04-20,CUST-179,Tharushi Gunasekara,Smartphone,Technology,Phones,Sabaragamuwa,Ratnapura,Home Office,6,100339.71,602038.26,447570.91,154467.35,Cash
+ORD-0647,2025-07-01,CUST-105,Sachini Karunaratne,Printer,Technology,Accessories,Uva,Badulla,Consumer,10,51368.44,513684.4,387166.63,126517.77,Online
+ORD-0648,2025-03-11,CUST-011,Kavindu Karunaratne,Smartphone,Technology,Phones,Southern,Hambantota,Corporate,2,92891.01,185782.02,129109.31,56672.71,Cash
+ORD-0649,2025-08-22,CUST-114,Ishara Wijesinghe,Notebook,Office Supplies,Paper,Central,Matale,Corporate,3,630.45,1891.35,1652.67,238.68,Online
+ORD-0650,2025-02-05,CUST-095,Tharushi Perera,Office Chair,Furniture,Chairs,Uva,Badulla,Home Office,6,29354.92,176129.52,152204.32,23925.2,Online
+ORD-0651,2025-08-13,CUST-102,Chamari Fernando,Smartphone,Technology,Phones,Southern,Galle,Home Office,2,97683.08,195366.16,127182.71,68183.45,Card
+ORD-0652,2025-04-12,CUST-032,Ishara Wijesinghe,Smartphone,Technology,Phones,Central,Nuwara Eliya,Home Office,2,96443.4,192886.8,169272.04,23614.76,Online
+ORD-0653,2025-10-25,CUST-103,Sahan Gunasekara,Desk,Furniture,Tables,North Central,Anuradhapura,Home Office,3,46845.38,140536.14,116399.89,24136.25,Online
+ORD-0654,2025-05-23,CUST-126,Rashmi Jayasinghe,Pen Set,Office Supplies,Writing,Southern,Hambantota,Home Office,1,893.47,893.47,582.34,311.13,Card
+ORD-0655,2025-01-28,CUST-046,Chamari Karunaratne,Laptop,Technology,Computers,Western,Gampaha,Consumer,5,179946.29,899731.45,564090.87,335640.58,Bank Transfer
+ORD-0656,2025-02-19,CUST-127,Hasini Jayasinghe,Monitor,Technology,Computers,Northern,Jaffna,Corporate,4,69752.56,279010.24,210704.83,68305.41,Online
+ORD-0657,2025-05-14,CUST-005,Nimali Wijesinghe,Pen Set,Office Supplies,Writing,Southern,Hambantota,Consumer,2,944.57,1889.14,1436.76,452.38,Online
+ORD-0658,2025-07-12,CUST-169,Dinuka Silva,Pen Set,Office Supplies,Writing,Central,Nuwara Eliya,Corporate,2,833.18,1666.36,1109.77,556.59,Online
+ORD-0659,2025-07-19,CUST-169,Rashmi Gunasekara,Printer,Technology,Accessories,Central,Matale,Home Office,2,48750.06,97500.12,77561.97,19938.15,Card
+ORD-0660,2025-07-20,CUST-174,Sahan Bandara,Binder,Office Supplies,Binders,Western,Colombo,Corporate,1,1217.48,1217.48,874.43,343.05,Cash
+ORD-0661,2025-01-24,CUST-150,Amal Karunaratne,Laptop,Technology,Computers,Northern,Jaffna,Corporate,1,176152.61,176152.61,146291.9,29860.71,Cash
+ORD-0662,2025-07-02,CUST-061,Dinuka Fernando,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Home Office,2,603.87,1207.74,825.49,382.25,Cash
+ORD-0663,2025-06-22,CUST-169,Dilshan Wijesinghe,Desk,Furniture,Tables,Western,Gampaha,Corporate,1,45276.6,45276.6,28511.5,16765.1,Cash
+ORD-0664,2025-01-12,CUST-147,Sachini Gunasekara,Pen Set,Office Supplies,Writing,Northern,Jaffna,Consumer,10,882.39,8823.9,6366.25,2457.65,Card
+ORD-0665,2025-09-15,CUST-077,Sahan Wijesinghe,Storage Cabinet,Furniture,Storage,Southern,Matara,Consumer,5,39017.72,195088.6,129406.77,65681.83,Online
+ORD-0666,2025-10-02,CUST-147,Chamari Jayasinghe,Smartphone,Technology,Phones,Uva,Badulla,Home Office,1,91430.36,91430.36,63754.69,27675.67,Cash
+ORD-0667,2025-10-31,CUST-122,Dilshan Jayasinghe,Monitor,Technology,Computers,Western,Gampaha,Corporate,2,63291.9,126583.8,104850.41,21733.39,Cash
+ORD-0668,2025-06-03,CUST-103,Kasun Gunasekara,Desk,Furniture,Tables,Southern,Hambantota,Home Office,2,45287.62,90575.24,60868.37,29706.87,Card
+ORD-0669,2025-12-27,CUST-170,Hasini Bandara,Laptop,Technology,Computers,Eastern,Batticaloa,Home Office,2,170972.32,341944.64,256387.68,85556.96,Online
+ORD-0670,2025-11-17,CUST-062,Ravindu Bandara,Monitor,Technology,Computers,North Western,Kurunegala,Corporate,1,64743.05,64743.05,47925.82,16817.23,Online
+ORD-0671,2025-02-02,CUST-074,Tharushi Bandara,Storage Cabinet,Furniture,Storage,Uva,Badulla,Home Office,3,40103.48,120310.44,82942.38,37368.06,Card
+ORD-0672,2025-02-28,CUST-080,Hasini Gunasekara,Notebook,Office Supplies,Paper,Central,Kandy,Home Office,1,600.88,600.88,497.07,103.81,Online
+ORD-0673,2025-01-19,CUST-072,Tharushi Perera,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Home Office,1,626.36,626.36,393.09,233.27,Online
+ORD-0674,2025-02-12,CUST-105,Sahan Fernando,Laptop,Technology,Computers,Western,Colombo,Corporate,2,174181.8,348363.6,221744.31,126619.29,Card
+ORD-0675,2025-10-20,CUST-149,Kasun Gunasekara,Office Chair,Furniture,Chairs,Western,Gampaha,Consumer,4,29939.55,119758.2,90502.35,29255.85,Card
+ORD-0676,2025-06-10,CUST-061,Dilshan Jayasinghe,Monitor,Technology,Computers,Western,Gampaha,Consumer,2,68917.47,137834.94,99432.36,38402.58,Cash
+ORD-0677,2025-05-21,CUST-126,Sahan Fernando,Printer,Technology,Accessories,Central,Kandy,Corporate,2,49955.83,99911.66,77258.19,22653.47,Online
+ORD-0678,2025-05-07,CUST-093,Rashmi Karunaratne,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Corporate,8,954.64,7637.12,6595.51,1041.61,Cash
+ORD-0679,2025-12-06,CUST-172,Ishara Bandara,Monitor,Technology,Computers,Western,Colombo,Home Office,4,63154.84,252619.36,216883.55,35735.81,Online
+ORD-0680,2025-12-25,CUST-061,Hasini Wijesinghe,Desk,Furniture,Tables,Eastern,Batticaloa,Consumer,2,47248.2,94496.4,61586.51,32909.89,Online
+ORD-0681,2025-02-16,CUST-042,Hasini Karunaratne,Desk,Furniture,Tables,Central,Matale,Home Office,6,46848.01,281088.06,196011.12,85076.94,Online
+ORD-0682,2025-02-11,CUST-106,Ayesha Wijesinghe,Laptop,Technology,Computers,Central,Matale,Consumer,5,192686.27,963431.35,715332.11,248099.24,Card
+ORD-0683,2025-02-03,CUST-084,Hasini Perera,Desk,Furniture,Tables,Southern,Hambantota,Consumer,2,45735.23,91470.46,76056.89,15413.57,Card
+ORD-0684,2025-11-25,CUST-081,Kavindu Fernando,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Consumer,1,885.7,885.7,693.82,191.88,Card
+ORD-0685,2025-11-29,CUST-082,Hasini Gunasekara,Binder,Office Supplies,Binders,North Western,Kurunegala,Home Office,4,1266.62,5066.48,4044.55,1021.93,Card
+ORD-0686,2025-12-18,CUST-022,Dilshan Karunaratne,Desk,Furniture,Tables,Western,Kalutara,Consumer,3,43758.58,131275.74,91009.18,40266.56,Online
+ORD-0687,2025-10-20,CUST-166,Ishara Fernando,Notebook,Office Supplies,Paper,Uva,Badulla,Corporate,1,696.6,696.6,599.08,97.52,Card
+ORD-0688,2025-03-28,CUST-039,Kavindu Karunaratne,Desk,Furniture,Tables,North Western,Kurunegala,Consumer,1,45849.63,45849.63,35583.99,10265.64,Cash
+ORD-0689,2025-09-27,CUST-173,Rashmi Fernando,Laptop,Technology,Computers,North Western,Kurunegala,Consumer,2,192095.68,384191.36,283519.41,100671.95,Card
+ORD-0690,2025-05-17,CUST-053,Nuwan Bandara,Office Chair,Furniture,Chairs,Uva,Badulla,Home Office,1,27973.87,27973.87,18290.77,9683.1,Card
+ORD-0691,2025-07-29,CUST-061,Hasini Jayasinghe,Notebook,Office Supplies,Paper,Western,Kalutara,Corporate,4,600.99,2403.96,2100.56,303.4,Online
+ORD-0692,2025-08-29,CUST-176,Nuwan Wijesinghe,Smartphone,Technology,Phones,Western,Colombo,Home Office,1,92313.34,92313.34,73867.85,18445.49,Online
+ORD-0693,2025-02-07,CUST-061,Rashmi Karunaratne,Monitor,Technology,Computers,Central,Matale,Home Office,1,63199.23,63199.23,44653.05,18546.18,Cash
+ORD-0694,2025-09-16,CUST-095,Ravindu Perera,Laptop,Technology,Computers,Central,Matale,Home Office,3,174312.21,522936.63,377885.08,145051.55,Card
+ORD-0695,2025-09-15,CUST-023,Ayesha Wijesinghe,Desk,Furniture,Tables,Western,Kalutara,Consumer,2,43842.07,87684.14,65035.51,22648.63,Bank Transfer
+ORD-0696,2025-01-23,CUST-072,Sahan Wijesinghe,Smartphone,Technology,Phones,Central,Nuwara Eliya,Corporate,8,94988.0,759904.0,663454.39,96449.61,Bank Transfer
+ORD-0697,2025-05-16,CUST-126,Ravindu Gunasekara,Monitor,Technology,Computers,Uva,Badulla,Consumer,2,67301.24,134602.48,89227.42,45375.06,Card
+ORD-0698,2025-04-28,CUST-120,Dilshan Fernando,Printer,Technology,Accessories,Western,Colombo,Corporate,1,51752.46,51752.46,34287.26,17465.2,Cash
+ORD-0699,2025-12-30,CUST-038,Sachini Karunaratne,Pen Set,Office Supplies,Writing,Central,Nuwara Eliya,Consumer,3,893.92,2681.76,1741.13,940.63,Card
+ORD-0700,2025-03-28,CUST-170,Nuwan Perera,Desk,Furniture,Tables,Western,Kalutara,Home Office,4,47322.52,189290.08,145080.31,44209.77,Card
+ORD-0701,2025-02-09,CUST-085,Amal Bandara,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Home Office,1,649.8,649.8,418.81,230.99,Cash
+ORD-0702,2025-10-30,CUST-008,Kavindu Gunasekara,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Home Office,6,609.03,3654.18,2572.98,1081.2,Online
+ORD-0703,2025-05-18,CUST-168,Hasini Karunaratne,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Home Office,3,828.84,2486.52,2168.59,317.93,Card
+ORD-0704,2025-01-25,CUST-019,Chamari Fernando,Office Chair,Furniture,Chairs,Uva,Badulla,Corporate,4,27027.63,108110.52,89463.42,18647.1,Bank Transfer
+ORD-0705,2025-07-24,CUST-104,Dinuka Silva,Printer,Technology,Accessories,Central,Kandy,Consumer,1,54931.52,54931.52,36384.69,18546.83,Bank Transfer
+ORD-0706,2025-08-10,CUST-155,Ravindu Karunaratne,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Home Office,4,960.72,3842.88,3285.55,557.33,Cash
+ORD-0707,2025-04-13,CUST-145,Dilshan Fernando,Storage Cabinet,Furniture,Storage,Southern,Hambantota,Corporate,2,40343.31,80686.62,60020.7,20665.92,Bank Transfer
+ORD-0708,2025-08-11,CUST-119,Ishara Silva,Monitor,Technology,Computers,Western,Kalutara,Corporate,3,63571.27,190713.81,143696.9,47016.91,Cash
+ORD-0709,2025-08-12,CUST-033,Dinuka Jayasinghe,Desk,Furniture,Tables,Southern,Matara,Home Office,1,47171.12,47171.12,32930.26,14240.86,Online
+ORD-0710,2025-01-25,CUST-131,Dilshan Wijesinghe,Desk,Furniture,Tables,Northern,Jaffna,Consumer,3,48004.57,144013.71,108512.57,35501.14,Online
+ORD-0711,2025-05-10,CUST-005,Sachini Gunasekara,Monitor,Technology,Computers,Uva,Badulla,Consumer,2,68930.98,137861.96,113025.87,24836.09,Card
+ORD-0712,2025-02-12,CUST-117,Hasini Bandara,Notebook,Office Supplies,Paper,Western,Colombo,Corporate,2,671.26,1342.52,941.95,400.57,Card
+ORD-0713,2025-02-10,CUST-028,Dilshan Perera,Office Chair,Furniture,Chairs,Western,Kalutara,Consumer,4,28466.16,113864.64,96400.09,17464.55,Online
+ORD-0714,2025-03-29,CUST-169,Rashmi Bandara,Smartphone,Technology,Phones,Western,Colombo,Home Office,3,94394.48,283183.44,205399.69,77783.75,Bank Transfer
+ORD-0715,2025-06-04,CUST-005,Nuwan Perera,Notebook,Office Supplies,Paper,North Central,Anuradhapura,Consumer,1,612.05,612.05,409.83,202.22,Online
+ORD-0716,2025-05-04,CUST-049,Kavindu Bandara,Printer,Technology,Accessories,Eastern,Batticaloa,Corporate,2,53048.81,106097.62,87573.29,18524.33,Card
+ORD-0717,2025-01-12,CUST-114,Rashmi Gunasekara,Pen Set,Office Supplies,Writing,Southern,Galle,Consumer,1,957.95,957.95,777.94,180.01,Online
+ORD-0718,2025-04-14,CUST-086,Amal Fernando,Monitor,Technology,Computers,Central,Kandy,Home Office,1,71584.42,71584.42,51673.26,19911.16,Online
+ORD-0719,2025-09-11,CUST-075,Nimali Gunasekara,Notebook,Office Supplies,Paper,Uva,Badulla,Corporate,4,659.97,2639.88,2017.18,622.7,Online
+ORD-0720,2025-11-10,CUST-060,Nimali Perera,Binder,Office Supplies,Binders,Northern,Jaffna,Corporate,6,1277.77,7666.62,6482.78,1183.84,Bank Transfer
+ORD-0721,2025-05-18,CUST-127,Sahan Gunasekara,Binder,Office Supplies,Binders,Western,Gampaha,Home Office,6,1184.09,7104.54,5279.16,1825.38,Online
+ORD-0722,2025-05-28,CUST-130,Ishara Karunaratne,Laptop,Technology,Computers,Western,Kalutara,Home Office,4,179114.12,716456.48,525813.7,190642.78,Online
+ORD-0723,2025-05-31,CUST-173,Sahan Gunasekara,Printer,Technology,Accessories,Sabaragamuwa,Ratnapura,Consumer,4,51087.89,204351.56,148846.38,55505.18,Card
+ORD-0724,2025-02-14,CUST-156,Rashmi Fernando,Desk,Furniture,Tables,North Western,Kurunegala,Corporate,3,42329.5,126988.5,85319.24,41669.26,Online
+ORD-0725,2025-04-18,CUST-067,Sahan Silva,Desk,Furniture,Tables,Central,Kandy,Consumer,3,48594.68,145784.04,103985.5,41798.54,Cash
+ORD-0726,2025-08-09,CUST-125,Kasun Karunaratne,Smartphone,Technology,Phones,Central,Nuwara Eliya,Corporate,1,90845.69,90845.69,69598.26,21247.43,Cash
+ORD-0727,2025-03-19,CUST-027,Nimali Gunasekara,Binder,Office Supplies,Binders,Central,Matale,Corporate,5,1271.75,6358.75,4941.48,1417.27,Cash
+ORD-0728,2025-11-09,CUST-144,Nimali Fernando,Smartphone,Technology,Phones,North Central,Anuradhapura,Consumer,3,100447.49,301342.47,194813.59,106528.88,Cash
+ORD-0729,2025-07-05,CUST-130,Rashmi Fernando,Office Chair,Furniture,Chairs,Sabaragamuwa,Ratnapura,Consumer,1,27068.71,27068.71,19889.94,7178.77,Bank Transfer
+ORD-0730,2025-03-12,CUST-002,Ishara Gunasekara,Storage Cabinet,Furniture,Storage,Uva,Badulla,Corporate,1,36187.49,36187.49,31559.31,4628.18,Bank Transfer
+ORD-0731,2025-02-13,CUST-162,Ishara Silva,Binder,Office Supplies,Binders,Western,Kalutara,Home Office,1,1241.32,1241.32,903.56,337.76,Online
+ORD-0732,2025-08-08,CUST-133,Sahan Perera,Office Chair,Furniture,Chairs,Western,Kalutara,Corporate,2,27593.71,55187.42,40798.72,14388.7,Card
+ORD-0733,2025-09-22,CUST-043,Dilshan Perera,Laptop,Technology,Computers,North Western,Kurunegala,Corporate,8,168041.61,1344332.88,943518.94,400813.94,Cash
+ORD-0734,2025-10-22,CUST-170,Dinuka Wijesinghe,Printer,Technology,Accessories,Sabaragamuwa,Ratnapura,Corporate,1,53094.97,53094.97,42766.73,10328.24,Bank Transfer
+ORD-0735,2025-06-26,CUST-038,Chamari Gunasekara,Storage Cabinet,Furniture,Storage,Sabaragamuwa,Ratnapura,Home Office,1,36661.07,36661.07,27760.71,8900.36,Card
+ORD-0736,2025-11-13,CUST-167,Chamari Jayasinghe,Binder,Office Supplies,Binders,Northern,Jaffna,Corporate,3,1237.91,3713.73,3159.62,554.11,Cash
+ORD-0737,2025-06-21,CUST-134,Dinuka Jayasinghe,Laptop,Technology,Computers,Southern,Hambantota,Consumer,2,186303.76,372607.52,316257.21,56350.31,Bank Transfer
+ORD-0738,2025-11-22,CUST-152,Kasun Jayasinghe,Binder,Office Supplies,Binders,Central,Nuwara Eliya,Corporate,1,1109.36,1109.36,917.57,191.79,Online
+ORD-0739,2025-01-31,CUST-032,Nimali Fernando,Binder,Office Supplies,Binders,Western,Gampaha,Corporate,5,1153.87,5769.35,4338.26,1431.09,Bank Transfer
+ORD-0740,2025-01-03,CUST-149,Ishara Karunaratne,Monitor,Technology,Computers,North Western,Kurunegala,Corporate,2,73254.5,146509.0,121514.68,24994.32,Bank Transfer
+ORD-0741,2025-03-13,CUST-084,Nuwan Karunaratne,Monitor,Technology,Computers,Eastern,Batticaloa,Corporate,4,68213.97,272855.88,186738.38,86117.5,Cash
+ORD-0742,2025-08-06,CUST-034,Rashmi Jayasinghe,Printer,Technology,Accessories,North Western,Kurunegala,Corporate,5,48521.8,242609.0,154340.65,88268.35,Cash
+ORD-0743,2025-09-27,CUST-068,Rashmi Wijesinghe,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Corporate,2,38358.53,76717.06,63099.35,13617.71,Online
+ORD-0744,2025-03-25,CUST-034,Sachini Jayasinghe,Notebook,Office Supplies,Paper,Uva,Badulla,Corporate,1,611.22,611.22,491.97,119.25,Online
+ORD-0745,2025-03-22,CUST-155,Dilshan Fernando,Laptop,Technology,Computers,North Western,Kurunegala,Consumer,8,176236.76,1409894.08,1223045.97,186848.11,Bank Transfer
+ORD-0746,2025-01-21,CUST-096,Dinuka Bandara,Monitor,Technology,Computers,Central,Matale,Corporate,2,63841.04,127682.08,89285.58,38396.5,Cash
+ORD-0747,2025-10-29,CUST-073,Nuwan Silva,Printer,Technology,Accessories,Western,Kalutara,Home Office,2,55634.35,111268.7,77814.95,33453.75,Online
+ORD-0748,2025-10-08,CUST-147,Dinuka Gunasekara,Laptop,Technology,Computers,Western,Gampaha,Corporate,2,190668.28,381336.56,277830.2,103506.36,Online
+ORD-0749,2025-11-07,CUST-116,Hasini Silva,Pen Set,Office Supplies,Writing,Uva,Badulla,Home Office,1,847.95,847.95,666.05,181.9,Bank Transfer
+ORD-0750,2025-11-16,CUST-102,Ayesha Perera,Smartphone,Technology,Phones,North Central,Anuradhapura,Home Office,3,93626.35,280879.05,191147.69,89731.36,Online
+ORD-0751,2025-02-15,CUST-080,Sachini Fernando,Desk,Furniture,Tables,Eastern,Batticaloa,Consumer,5,46491.9,232459.5,178695.95,53763.55,Cash
+ORD-0752,2025-04-07,CUST-169,Tharushi Perera,Monitor,Technology,Computers,Southern,Hambantota,Corporate,4,68028.71,272114.84,170031.68,102083.16,Card
+ORD-0753,2025-12-28,CUST-137,Ayesha Wijesinghe,Office Chair,Furniture,Chairs,Uva,Badulla,Home Office,5,28356.4,141782.0,91025.24,50756.76,Cash
+ORD-0754,2025-01-12,CUST-136,Ayesha Wijesinghe,Pen Set,Office Supplies,Writing,Uva,Badulla,Corporate,2,853.99,1707.98,1069.63,638.35,Cash
+ORD-0755,2025-10-05,CUST-023,Ravindu Bandara,Smartphone,Technology,Phones,Western,Gampaha,Corporate,1,89589.32,89589.32,61498.07,28091.25,Card
+ORD-0756,2025-06-16,CUST-026,Ayesha Silva,Laptop,Technology,Computers,Northern,Jaffna,Corporate,1,186143.06,186143.06,129832.24,56310.82,Bank Transfer
+ORD-0757,2025-03-03,CUST-061,Rashmi Wijesinghe,Desk,Furniture,Tables,Southern,Galle,Consumer,1,43125.29,43125.29,33431.64,9693.65,Bank Transfer
+ORD-0758,2025-08-26,CUST-163,Ishara Perera,Laptop,Technology,Computers,Central,Nuwara Eliya,Corporate,3,167485.2,502455.6,315298.76,187156.84,Cash
+ORD-0759,2025-10-12,CUST-115,Kavindu Jayasinghe,Office Chair,Furniture,Chairs,North Central,Anuradhapura,Consumer,3,26322.56,78967.68,60626.95,18340.73,Bank Transfer
+ORD-0760,2025-05-06,CUST-116,Nimali Perera,Binder,Office Supplies,Binders,Western,Kalutara,Corporate,2,1185.36,2370.72,2031.68,339.04,Bank Transfer
+ORD-0761,2025-01-31,CUST-175,Chamari Karunaratne,Printer,Technology,Accessories,Western,Colombo,Home Office,6,51851.79,311110.74,241249.46,69861.28,Card
+ORD-0762,2025-09-19,CUST-018,Dinuka Fernando,Monitor,Technology,Computers,Uva,Badulla,Corporate,1,64316.21,64316.21,48807.21,15509.0,Cash
+ORD-0763,2025-10-12,CUST-130,Ayesha Karunaratne,Printer,Technology,Accessories,North Western,Kurunegala,Home Office,10,55147.28,551472.8,372145.45,179327.35,Bank Transfer
+ORD-0764,2025-05-06,CUST-154,Ayesha Perera,Pen Set,Office Supplies,Writing,Central,Matale,Home Office,3,874.32,2622.96,1769.87,853.09,Card
+ORD-0765,2025-09-01,CUST-143,Rashmi Wijesinghe,Laptop,Technology,Computers,Northern,Jaffna,Home Office,1,165875.86,165875.86,110327.25,55548.61,Cash
+ORD-0766,2025-01-16,CUST-032,Sahan Wijesinghe,Smartphone,Technology,Phones,Southern,Hambantota,Home Office,6,99804.06,598824.36,440582.6,158241.76,Bank Transfer
+ORD-0767,2025-12-23,CUST-050,Hasini Perera,Notebook,Office Supplies,Paper,Western,Kalutara,Consumer,10,610.98,6109.8,4376.6,1733.2,Cash
+ORD-0768,2025-12-30,CUST-078,Ishara Jayasinghe,Desk,Furniture,Tables,Eastern,Batticaloa,Corporate,2,42047.76,84095.52,65552.05,18543.47,Bank Transfer
+ORD-0769,2025-09-10,CUST-051,Chamari Fernando,Laptop,Technology,Computers,Central,Matale,Corporate,6,185960.68,1115764.08,752429.39,363334.69,Online
+ORD-0770,2025-04-10,CUST-145,Tharushi Fernando,Printer,Technology,Accessories,Southern,Hambantota,Home Office,3,52546.68,157640.04,125705.28,31934.76,Card
+ORD-0771,2025-05-13,CUST-071,Nuwan Perera,Smartphone,Technology,Phones,Western,Kalutara,Home Office,6,100403.28,602419.68,511490.94,90928.74,Bank Transfer
+ORD-0772,2025-08-21,CUST-167,Nimali Karunaratne,Binder,Office Supplies,Binders,Sabaragamuwa,Ratnapura,Corporate,1,1186.01,1186.01,942.88,243.13,Online
+ORD-0773,2025-12-15,CUST-012,Ishara Perera,Desk,Furniture,Tables,Western,Gampaha,Corporate,2,44968.14,89936.28,67855.74,22080.54,Online
+ORD-0774,2025-06-11,CUST-147,Amal Jayasinghe,Binder,Office Supplies,Binders,Southern,Matara,Home Office,1,1141.36,1141.36,731.92,409.44,Online
+ORD-0775,2025-05-08,CUST-161,Sachini Perera,Smartphone,Technology,Phones,Sabaragamuwa,Ratnapura,Corporate,1,92404.21,92404.21,58800.45,33603.76,Online
+ORD-0776,2025-11-17,CUST-122,Ishara Karunaratne,Laptop,Technology,Computers,Northern,Jaffna,Consumer,6,189806.62,1138839.72,779262.38,359577.34,Bank Transfer
+ORD-0777,2025-05-02,CUST-025,Hasini Fernando,Binder,Office Supplies,Binders,North Central,Anuradhapura,Consumer,8,1252.94,10023.52,7829.24,2194.28,Cash
+ORD-0778,2025-06-10,CUST-016,Hasini Perera,Laptop,Technology,Computers,Southern,Galle,Corporate,6,185568.87,1113413.22,916882.45,196530.77,Online
+ORD-0779,2025-12-13,CUST-103,Sachini Wijesinghe,Smartphone,Technology,Phones,Western,Gampaha,Consumer,1,88193.49,88193.49,74169.1,14024.39,Cash
+ORD-0780,2025-08-26,CUST-087,Amal Gunasekara,Pen Set,Office Supplies,Writing,Southern,Galle,Home Office,4,954.71,3818.84,2982.51,836.33,Bank Transfer
+ORD-0781,2025-02-25,CUST-050,Ravindu Bandara,Monitor,Technology,Computers,Central,Kandy,Corporate,1,69035.51,69035.51,44014.39,25021.12,Online
+ORD-0782,2025-11-14,CUST-016,Ravindu Bandara,Pen Set,Office Supplies,Writing,North Western,Kurunegala,Home Office,2,863.01,1726.02,1427.81,298.21,Online
+ORD-0783,2025-07-03,CUST-038,Rashmi Bandara,Binder,Office Supplies,Binders,Eastern,Batticaloa,Home Office,2,1273.96,2547.92,2093.44,454.48,Bank Transfer
+ORD-0784,2025-01-05,CUST-061,Nimali Wijesinghe,Desk,Furniture,Tables,Central,Nuwara Eliya,Corporate,2,46135.27,92270.54,60676.75,31593.79,Card
+ORD-0785,2025-04-14,CUST-178,Hasini Karunaratne,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Home Office,4,27290.15,109160.6,86634.62,22525.98,Bank Transfer
+ORD-0786,2025-08-03,CUST-011,Rashmi Jayasinghe,Monitor,Technology,Computers,Central,Matale,Consumer,2,63700.75,127401.5,108009.39,19392.11,Card
+ORD-0787,2025-11-16,CUST-085,Chamari Jayasinghe,Office Chair,Furniture,Chairs,Southern,Matara,Corporate,1,27913.74,27913.74,22882.86,5030.88,Card
+ORD-0788,2025-01-06,CUST-075,Hasini Jayasinghe,Laptop,Technology,Computers,Central,Nuwara Eliya,Home Office,1,166464.51,166464.51,108193.48,58271.03,Bank Transfer
+ORD-0789,2025-04-12,CUST-045,Ayesha Jayasinghe,Laptop,Technology,Computers,Western,Colombo,Consumer,1,170615.42,170615.42,145057.12,25558.3,Card
+ORD-0790,2025-05-15,CUST-098,Sachini Karunaratne,Laptop,Technology,Computers,Western,Kalutara,Consumer,6,166204.62,997227.72,793930.5,203297.22,Bank Transfer
+ORD-0791,2025-07-09,CUST-160,Dilshan Fernando,Pen Set,Office Supplies,Writing,Central,Kandy,Consumer,4,923.17,3692.68,3193.07,499.61,Card
+ORD-0792,2025-04-08,CUST-154,Dilshan Jayasinghe,Printer,Technology,Accessories,North Central,Anuradhapura,Consumer,1,50986.59,50986.59,36573.01,14413.58,Card
+ORD-0793,2025-03-18,CUST-033,Rashmi Jayasinghe,Binder,Office Supplies,Binders,Central,Matale,Home Office,2,1114.23,2228.46,1842.62,385.84,Cash
+ORD-0794,2025-12-06,CUST-166,Sahan Gunasekara,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Home Office,3,852.11,2556.33,1842.88,713.45,Online
+ORD-0795,2025-12-31,CUST-127,Rashmi Bandara,Printer,Technology,Accessories,Central,Nuwara Eliya,Home Office,2,53618.32,107236.64,86440.13,20796.51,Online
+ORD-0796,2025-01-19,CUST-061,Chamari Jayasinghe,Monitor,Technology,Computers,Eastern,Batticaloa,Corporate,1,72296.34,72296.34,53321.5,18974.84,Online
+ORD-0797,2025-03-22,CUST-035,Kavindu Bandara,Notebook,Office Supplies,Paper,Northern,Jaffna,Corporate,6,636.91,3821.46,2916.32,905.14,Bank Transfer
+ORD-0798,2025-01-22,CUST-120,Dilshan Wijesinghe,Office Chair,Furniture,Chairs,Northern,Jaffna,Corporate,2,28542.64,57085.28,41717.16,15368.12,Online
+ORD-0799,2025-07-15,CUST-020,Sahan Fernando,Storage Cabinet,Furniture,Storage,Central,Matale,Corporate,1,37645.47,37645.47,25940.08,11705.39,Cash
+ORD-0800,2025-04-27,CUST-052,Ayesha Jayasinghe,Desk,Furniture,Tables,Sabaragamuwa,Ratnapura,Home Office,1,41913.71,41913.71,26403.67,15510.04,Bank Transfer
+ORD-0801,2025-12-16,CUST-036,Kasun Perera,Desk,Furniture,Tables,Central,Matale,Corporate,5,42772.63,213863.15,166182.12,47681.03,Bank Transfer
+ORD-0802,2025-07-26,CUST-004,Rashmi Silva,Storage Cabinet,Furniture,Storage,North Central,Anuradhapura,Corporate,8,39956.92,319655.36,261167.88,58487.48,Card
+ORD-0803,2025-04-18,CUST-120,Hasini Karunaratne,Office Chair,Furniture,Chairs,North Western,Kurunegala,Consumer,2,28070.9,56141.8,46280.68,9861.12,Bank Transfer
+ORD-0804,2025-12-24,CUST-008,Sahan Silva,Office Chair,Furniture,Chairs,Southern,Galle,Home Office,2,27725.29,55450.58,46676.38,8774.2,Card
+ORD-0805,2025-01-05,CUST-058,Dilshan Wijesinghe,Desk,Furniture,Tables,North Western,Kurunegala,Home Office,2,46143.71,92287.42,65728.23,26559.19,Online
+ORD-0806,2025-06-16,CUST-036,Ravindu Karunaratne,Binder,Office Supplies,Binders,Central,Matale,Home Office,3,1212.97,3638.91,2286.6,1352.31,Online
+ORD-0807,2025-07-20,CUST-085,Hasini Bandara,Notebook,Office Supplies,Paper,Central,Kandy,Consumer,1,638.19,638.19,474.46,163.73,Card
+ORD-0808,2025-10-11,CUST-007,Tharushi Jayasinghe,Smartphone,Technology,Phones,Eastern,Batticaloa,Consumer,1,99962.42,99962.42,77658.27,22304.15,Online
+ORD-0809,2025-04-30,CUST-095,Amal Silva,Desk,Furniture,Tables,Central,Kandy,Corporate,1,45175.65,45175.65,33349.23,11826.42,Online
+ORD-0810,2025-02-26,CUST-100,Nuwan Silva,Notebook,Office Supplies,Paper,Western,Kalutara,Consumer,1,641.51,641.51,521.69,119.82,Bank Transfer
+ORD-0811,2025-12-30,CUST-080,Nuwan Gunasekara,Notebook,Office Supplies,Paper,Uva,Badulla,Corporate,3,614.51,1843.53,1418.64,424.89,Card
+ORD-0812,2025-08-17,CUST-135,Ayesha Gunasekara,Laptop,Technology,Computers,Western,Kalutara,Corporate,1,177098.02,177098.02,146985.53,30112.49,Online
+ORD-0813,2025-02-16,CUST-180,Dinuka Wijesinghe,Monitor,Technology,Computers,Western,Colombo,Home Office,1,72145.22,72145.22,53289.33,18855.89,Card
+ORD-0814,2025-04-02,CUST-169,Tharushi Fernando,Notebook,Office Supplies,Paper,Central,Kandy,Corporate,6,674.26,4045.56,2989.81,1055.75,Cash
+ORD-0815,2025-03-22,CUST-018,Nuwan Gunasekara,Office Chair,Furniture,Chairs,Sabaragamuwa,Ratnapura,Corporate,1,28573.81,28573.81,19884.27,8689.54,Cash
+ORD-0816,2025-02-23,CUST-043,Kasun Jayasinghe,Storage Cabinet,Furniture,Storage,Western,Gampaha,Home Office,2,39699.42,79398.84,57693.18,21705.66,Cash
+ORD-0817,2025-02-07,CUST-088,Chamari Jayasinghe,Pen Set,Office Supplies,Writing,Western,Colombo,Corporate,3,925.29,2775.87,2054.41,721.46,Cash
+ORD-0818,2025-02-28,CUST-119,Rashmi Gunasekara,Laptop,Technology,Computers,Central,Matale,Consumer,3,169530.64,508591.92,403962.79,104629.13,Cash
+ORD-0819,2025-05-05,CUST-072,Tharushi Silva,Binder,Office Supplies,Binders,Eastern,Batticaloa,Consumer,4,1188.04,4752.16,3528.03,1224.13,Cash
+ORD-0820,2025-03-05,CUST-003,Kasun Silva,Printer,Technology,Accessories,Central,Matale,Corporate,2,51091.87,102183.74,65415.19,36768.55,Bank Transfer
+ORD-0821,2025-01-18,CUST-013,Sachini Wijesinghe,Printer,Technology,Accessories,Central,Kandy,Home Office,6,52268.73,313612.38,230484.75,83127.63,Bank Transfer
+ORD-0822,2025-11-03,CUST-064,Sahan Jayasinghe,Pen Set,Office Supplies,Writing,Western,Colombo,Consumer,1,939.23,939.23,769.65,169.58,Cash
+ORD-0823,2025-01-15,CUST-172,Kavindu Jayasinghe,Laptop,Technology,Computers,Southern,Galle,Consumer,10,175308.96,1753089.6,1174498.98,578590.62,Card
+ORD-0824,2025-08-01,CUST-161,Nuwan Jayasinghe,Printer,Technology,Accessories,Western,Colombo,Home Office,2,54625.99,109251.98,76902.11,32349.87,Online
+ORD-0825,2025-04-29,CUST-103,Ayesha Perera,Notebook,Office Supplies,Paper,Western,Gampaha,Corporate,1,635.08,635.08,422.42,212.66,Card
+ORD-0826,2025-02-03,CUST-012,Kavindu Jayasinghe,Pen Set,Office Supplies,Writing,Central,Kandy,Corporate,3,868.1,2604.3,2037.13,567.17,Bank Transfer
+ORD-0827,2025-02-22,CUST-146,Tharushi Bandara,Monitor,Technology,Computers,Southern,Matara,Consumer,4,71168.91,284675.64,244757.91,39917.73,Bank Transfer
+ORD-0828,2025-12-22,CUST-177,Ayesha Gunasekara,Notebook,Office Supplies,Paper,Eastern,Batticaloa,Consumer,1,616.23,616.23,504.1,112.13,Bank Transfer
+ORD-0829,2025-10-27,CUST-129,Amal Jayasinghe,Laptop,Technology,Computers,Northern,Jaffna,Consumer,2,180317.55,360635.1,293150.04,67485.06,Cash
+ORD-0830,2025-08-08,CUST-096,Rashmi Bandara,Desk,Furniture,Tables,Central,Kandy,Consumer,4,45862.32,183449.28,116596.69,66852.59,Card
+ORD-0831,2025-11-25,CUST-114,Ayesha Silva,Notebook,Office Supplies,Paper,Central,Kandy,Corporate,1,694.03,694.03,538.22,155.81,Bank Transfer
+ORD-0832,2025-08-01,CUST-085,Ayesha Jayasinghe,Laptop,Technology,Computers,Southern,Hambantota,Consumer,3,173907.51,521722.53,326681.92,195040.61,Cash
+ORD-0833,2025-12-18,CUST-134,Ayesha Silva,Office Chair,Furniture,Chairs,North Central,Anuradhapura,Corporate,3,26756.55,80269.65,67980.65,12289.0,Cash
+ORD-0834,2025-09-09,CUST-037,Nuwan Silva,Smartphone,Technology,Phones,Uva,Badulla,Consumer,1,90325.47,90325.47,70899.66,19425.81,Card
+ORD-0835,2025-04-15,CUST-080,Tharushi Jayasinghe,Monitor,Technology,Computers,Southern,Hambantota,Consumer,1,63410.43,63410.43,51267.15,12143.28,Online
+ORD-0836,2025-05-08,CUST-052,Kasun Gunasekara,Printer,Technology,Accessories,Northern,Jaffna,Consumer,2,52635.83,105271.66,91755.7,13515.96,Bank Transfer
+ORD-0837,2025-03-27,CUST-111,Ravindu Gunasekara,Notebook,Office Supplies,Paper,Southern,Galle,Consumer,2,641.96,1283.92,999.46,284.46,Online
+ORD-0838,2025-02-12,CUST-040,Tharushi Bandara,Notebook,Office Supplies,Paper,Uva,Badulla,Corporate,4,693.84,2775.36,2150.2,625.16,Online
+ORD-0839,2025-05-26,CUST-035,Rashmi Jayasinghe,Desk,Furniture,Tables,Southern,Matara,Consumer,2,45763.38,91526.76,58458.54,33068.22,Card
+ORD-0840,2025-09-14,CUST-107,Chamari Karunaratne,Laptop,Technology,Computers,Western,Colombo,Corporate,4,176378.63,705514.52,511628.1,193886.42,Online
+ORD-0841,2025-10-29,CUST-032,Chamari Silva,Desk,Furniture,Tables,Eastern,Batticaloa,Consumer,1,47772.0,47772.0,41945.86,5826.14,Online
+ORD-0842,2025-06-28,CUST-179,Nimali Wijesinghe,Desk,Furniture,Tables,North Central,Anuradhapura,Corporate,2,44918.08,89836.16,71779.74,18056.42,Card
+ORD-0843,2025-01-18,CUST-008,Ravindu Bandara,Office Chair,Furniture,Chairs,Southern,Matara,Home Office,6,27379.14,164274.84,132028.56,32246.28,Online
+ORD-0844,2025-05-07,CUST-004,Sachini Fernando,Printer,Technology,Accessories,Central,Matale,Home Office,3,55758.8,167276.4,140310.46,26965.94,Online
+ORD-0845,2025-10-28,CUST-109,Tharushi Wijesinghe,Notebook,Office Supplies,Paper,North Western,Kurunegala,Corporate,8,606.36,4850.88,4155.2,695.68,Bank Transfer
+ORD-0846,2025-12-04,CUST-023,Sachini Karunaratne,Binder,Office Supplies,Binders,Southern,Hambantota,Consumer,5,1216.53,6082.65,4931.95,1150.7,Bank Transfer
+ORD-0847,2025-07-23,CUST-126,Amal Fernando,Office Chair,Furniture,Chairs,Sabaragamuwa,Ratnapura,Consumer,3,25788.76,77366.28,51354.47,26011.81,Online
+ORD-0848,2025-12-02,CUST-048,Ravindu Jayasinghe,Binder,Office Supplies,Binders,Southern,Galle,Corporate,1,1186.74,1186.74,790.21,396.53,Card
+ORD-0849,2025-08-19,CUST-047,Nuwan Bandara,Binder,Office Supplies,Binders,Western,Gampaha,Corporate,3,1144.81,3434.43,2308.78,1125.65,Online
+ORD-0850,2025-11-22,CUST-071,Kavindu Karunaratne,Monitor,Technology,Computers,Western,Gampaha,Consumer,1,65749.21,65749.21,47221.7,18527.51,Card
+ORD-0851,2025-12-11,CUST-002,Nimali Fernando,Pen Set,Office Supplies,Writing,Southern,Matara,Consumer,4,829.37,3317.48,2286.34,1031.14,Cash
+ORD-0852,2025-09-24,CUST-122,Ayesha Wijesinghe,Notebook,Office Supplies,Paper,Northern,Jaffna,Corporate,10,677.18,6771.8,5839.68,932.12,Bank Transfer
+ORD-0853,2025-05-03,CUST-015,Sahan Karunaratne,Storage Cabinet,Furniture,Storage,Central,Nuwara Eliya,Consumer,8,39003.68,312029.44,224159.85,87869.59,Cash
+ORD-0854,2025-12-24,CUST-007,Sachini Bandara,Pen Set,Office Supplies,Writing,Uva,Badulla,Home Office,2,948.3,1896.6,1632.04,264.56,Card
+ORD-0855,2025-11-13,CUST-170,Nuwan Perera,Storage Cabinet,Furniture,Storage,Southern,Matara,Home Office,3,40248.71,120746.13,91027.81,29718.32,Bank Transfer
+ORD-0856,2025-07-04,CUST-174,Hasini Jayasinghe,Laptop,Technology,Computers,Eastern,Batticaloa,Home Office,5,193524.41,967622.05,785042.79,182579.26,Online
+ORD-0857,2025-11-10,CUST-122,Sachini Wijesinghe,Notebook,Office Supplies,Paper,North Western,Kurunegala,Corporate,4,634.23,2536.92,2192.31,344.61,Card
+ORD-0858,2025-09-24,CUST-009,Ravindu Gunasekara,Printer,Technology,Accessories,Uva,Badulla,Consumer,5,54370.05,271850.25,219201.84,52648.41,Bank Transfer
+ORD-0859,2025-08-28,CUST-170,Ishara Jayasinghe,Binder,Office Supplies,Binders,Uva,Badulla,Consumer,1,1189.69,1189.69,773.39,416.3,Card
+ORD-0860,2025-08-11,CUST-084,Chamari Bandara,Smartphone,Technology,Phones,Western,Gampaha,Consumer,10,87844.17,878441.7,756813.46,121628.24,Bank Transfer
+ORD-0861,2025-12-10,CUST-126,Kavindu Karunaratne,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Consumer,1,847.55,847.55,643.27,204.28,Cash
+ORD-0862,2025-07-15,CUST-112,Ishara Jayasinghe,Storage Cabinet,Furniture,Storage,Southern,Galle,Corporate,3,39733.3,119199.9,103849.87,15350.03,Cash
+ORD-0863,2025-02-27,CUST-030,Sahan Silva,Desk,Furniture,Tables,Western,Gampaha,Corporate,1,46732.18,46732.18,40361.4,6370.78,Online
+ORD-0864,2025-01-01,CUST-100,Dilshan Karunaratne,Monitor,Technology,Computers,North Western,Kurunegala,Corporate,2,68979.85,137959.7,92345.12,45614.58,Card
+ORD-0865,2025-11-05,CUST-118,Ayesha Silva,Binder,Office Supplies,Binders,Eastern,Batticaloa,Corporate,3,1124.46,3373.38,2099.55,1273.83,Card
+ORD-0866,2025-08-22,CUST-180,Nimali Karunaratne,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Corporate,1,868.81,868.81,707.42,161.39,Cash
+ORD-0867,2025-12-28,CUST-075,Chamari Perera,Desk,Furniture,Tables,Uva,Badulla,Corporate,3,45943.75,137831.25,93185.41,44645.84,Card
+ORD-0868,2025-04-26,CUST-046,Rashmi Wijesinghe,Office Chair,Furniture,Chairs,Uva,Badulla,Corporate,3,25995.5,77986.5,65899.55,12086.95,Card
+ORD-0869,2025-07-20,CUST-101,Chamari Fernando,Laptop,Technology,Computers,Southern,Hambantota,Home Office,2,185123.48,370246.96,324884.94,45362.02,Bank Transfer
+ORD-0870,2025-04-10,CUST-083,Nimali Bandara,Desk,Furniture,Tables,North Western,Kurunegala,Corporate,3,45345.67,136037.01,87785.1,48251.91,Card
+ORD-0871,2025-08-15,CUST-056,Nuwan Perera,Monitor,Technology,Computers,Western,Kalutara,Corporate,3,65726.97,197180.91,129676.8,67504.11,Cash
+ORD-0872,2025-08-07,CUST-092,Rashmi Silva,Printer,Technology,Accessories,Southern,Galle,Consumer,3,49239.61,147718.83,93749.19,53969.64,Cash
+ORD-0873,2025-06-23,CUST-104,Ishara Perera,Binder,Office Supplies,Binders,Eastern,Batticaloa,Consumer,3,1290.19,3870.57,3030.71,839.86,Card
+ORD-0874,2025-06-04,CUST-097,Kavindu Gunasekara,Notebook,Office Supplies,Paper,Southern,Matara,Home Office,3,697.27,2091.81,1651.96,439.85,Online
+ORD-0875,2025-12-01,CUST-032,Rashmi Jayasinghe,Desk,Furniture,Tables,Eastern,Batticaloa,Consumer,2,41483.54,82967.08,53955.42,29011.66,Online
+ORD-0876,2025-02-18,CUST-166,Dilshan Bandara,Desk,Furniture,Tables,North Western,Kurunegala,Home Office,4,42703.9,170815.6,127409.61,43405.99,Card
+ORD-0877,2025-02-02,CUST-104,Amal Wijesinghe,Smartphone,Technology,Phones,Central,Nuwara Eliya,Home Office,4,100505.6,402022.4,305437.68,96584.72,Online
+ORD-0878,2025-10-27,CUST-054,Sachini Silva,Smartphone,Technology,Phones,Southern,Hambantota,Home Office,2,99846.18,199692.36,157645.57,42046.79,Card
+ORD-0879,2025-08-17,CUST-053,Tharushi Fernando,Laptop,Technology,Computers,Southern,Hambantota,Home Office,4,169143.7,676574.8,442136.33,234438.47,Bank Transfer
+ORD-0880,2025-03-05,CUST-109,Amal Jayasinghe,Laptop,Technology,Computers,Western,Gampaha,Corporate,2,176070.52,352141.04,268173.38,83967.66,Cash
+ORD-0881,2025-05-31,CUST-178,Ayesha Karunaratne,Binder,Office Supplies,Binders,Sabaragamuwa,Ratnapura,Home Office,3,1189.42,3568.26,2747.7,820.56,Card
+ORD-0882,2025-01-23,CUST-056,Ravindu Jayasinghe,Smartphone,Technology,Phones,Eastern,Batticaloa,Home Office,1,90258.72,90258.72,62993.76,27264.96,Bank Transfer
+ORD-0883,2025-11-15,CUST-167,Tharushi Wijesinghe,Desk,Furniture,Tables,Western,Kalutara,Corporate,2,45358.91,90717.82,62393.48,28324.34,Cash
+ORD-0884,2025-08-06,CUST-162,Kasun Jayasinghe,Desk,Furniture,Tables,Eastern,Batticaloa,Home Office,8,42431.36,339450.88,228443.09,111007.79,Bank Transfer
+ORD-0885,2025-11-28,CUST-040,Ayesha Wijesinghe,Monitor,Technology,Computers,Eastern,Batticaloa,Corporate,5,69141.8,345709.0,252062.82,93646.18,Cash
+ORD-0886,2025-02-09,CUST-105,Kavindu Karunaratne,Monitor,Technology,Computers,Central,Kandy,Home Office,1,68342.4,68342.4,54525.93,13816.47,Cash
+ORD-0887,2025-06-20,CUST-071,Amal Fernando,Storage Cabinet,Furniture,Storage,Sabaragamuwa,Ratnapura,Corporate,4,35849.68,143398.72,118663.2,24735.52,Card
+ORD-0888,2025-03-05,CUST-126,Sachini Karunaratne,Notebook,Office Supplies,Paper,Western,Gampaha,Home Office,1,673.75,673.75,471.42,202.33,Bank Transfer
+ORD-0889,2025-11-08,CUST-100,Tharushi Karunaratne,Binder,Office Supplies,Binders,Central,Matale,Home Office,1,1113.21,1113.21,782.23,330.98,Online
+ORD-0890,2025-03-07,CUST-169,Ravindu Silva,Pen Set,Office Supplies,Writing,Northern,Jaffna,Corporate,1,926.88,926.88,746.54,180.34,Bank Transfer
+ORD-0891,2025-11-24,CUST-156,Dilshan Gunasekara,Laptop,Technology,Computers,Sabaragamuwa,Ratnapura,Consumer,8,185976.07,1487808.56,1018805.21,469003.35,Online
+ORD-0892,2025-08-28,CUST-059,Dinuka Fernando,Storage Cabinet,Furniture,Storage,North Central,Anuradhapura,Corporate,2,36637.0,73274.0,53579.34,19694.66,Online
+ORD-0893,2025-02-16,CUST-024,Tharushi Perera,Storage Cabinet,Furniture,Storage,Uva,Badulla,Consumer,3,35426.29,106278.87,72525.72,33753.15,Bank Transfer
+ORD-0894,2025-09-10,CUST-174,Ravindu Gunasekara,Binder,Office Supplies,Binders,Sabaragamuwa,Ratnapura,Corporate,4,1106.05,4424.2,3833.94,590.26,Cash
+ORD-0895,2025-11-12,CUST-109,Sahan Jayasinghe,Notebook,Office Supplies,Paper,Western,Colombo,Home Office,1,684.47,684.47,425.67,258.8,Cash
+ORD-0896,2025-03-28,CUST-058,Tharushi Fernando,Monitor,Technology,Computers,Southern,Matara,Corporate,3,72155.4,216466.2,163673.18,52793.02,Card
+ORD-0897,2025-01-27,CUST-029,Ayesha Jayasinghe,Binder,Office Supplies,Binders,Central,Nuwara Eliya,Home Office,2,1176.79,2353.58,1687.64,665.94,Cash
+ORD-0898,2025-09-05,CUST-146,Chamari Jayasinghe,Desk,Furniture,Tables,Central,Matale,Corporate,1,42934.07,42934.07,34857.6,8076.47,Cash
+ORD-0899,2025-11-13,CUST-118,Ayesha Bandara,Pen Set,Office Supplies,Writing,Sabaragamuwa,Ratnapura,Corporate,5,836.28,4181.4,2598.87,1582.53,Cash
+ORD-0900,2025-04-06,CUST-051,Kavindu Silva,Laptop,Technology,Computers,Central,Nuwara Eliya,Corporate,2,165855.28,331710.56,242815.11,88895.45,Cash
+ORD-0901,2025-03-21,CUST-096,Dinuka Karunaratne,Pen Set,Office Supplies,Writing,Western,Colombo,Corporate,4,864.02,3456.08,2565.73,890.35,Card
+ORD-0902,2025-05-18,CUST-042,Ravindu Karunaratne,Binder,Office Supplies,Binders,North Central,Anuradhapura,Home Office,1,1188.21,1188.21,996.0,192.21,Online
+ORD-0903,2025-12-30,CUST-102,Dilshan Karunaratne,Laptop,Technology,Computers,Central,Nuwara Eliya,Consumer,1,171059.53,171059.53,107847.33,63212.2,Card
+ORD-0904,2025-12-07,CUST-127,Ravindu Karunaratne,Office Chair,Furniture,Chairs,Southern,Matara,Corporate,10,26292.19,262921.9,196444.11,66477.79,Online
+ORD-0905,2025-02-25,CUST-004,Ishara Perera,Printer,Technology,Accessories,Western,Gampaha,Home Office,4,48889.35,195557.4,138742.37,56815.03,Bank Transfer
+ORD-0906,2025-01-05,CUST-110,Ishara Silva,Notebook,Office Supplies,Paper,Northern,Jaffna,Home Office,2,628.1,1256.2,937.55,318.65,Card
+ORD-0907,2025-02-28,CUST-110,Nuwan Gunasekara,Office Chair,Furniture,Chairs,Central,Matale,Home Office,5,30214.27,151071.35,103379.96,47691.39,Cash
+ORD-0908,2025-04-03,CUST-039,Ishara Fernando,Binder,Office Supplies,Binders,Northern,Jaffna,Consumer,1,1268.14,1268.14,993.61,274.53,Online
+ORD-0909,2025-04-09,CUST-024,Nimali Wijesinghe,Laptop,Technology,Computers,Central,Matale,Corporate,6,177877.53,1067265.18,832767.29,234497.89,Bank Transfer
+ORD-0910,2025-06-22,CUST-014,Dinuka Fernando,Office Chair,Furniture,Chairs,Central,Kandy,Corporate,2,26034.85,52069.7,38064.98,14004.72,Bank Transfer
+ORD-0911,2025-12-31,CUST-011,Amal Perera,Desk,Furniture,Tables,Central,Nuwara Eliya,Home Office,2,43702.85,87405.7,55272.28,32133.42,Bank Transfer
+ORD-0912,2025-08-30,CUST-065,Rashmi Karunaratne,Office Chair,Furniture,Chairs,Central,Matale,Corporate,1,28477.22,28477.22,20846.35,7630.87,Bank Transfer
+ORD-0913,2025-12-09,CUST-085,Sahan Karunaratne,Smartphone,Technology,Phones,Western,Gampaha,Home Office,1,95786.88,95786.88,80854.98,14931.9,Bank Transfer
+ORD-0914,2025-05-22,CUST-034,Sachini Perera,Office Chair,Furniture,Chairs,Eastern,Batticaloa,Home Office,1,27480.54,27480.54,23376.88,4103.66,Card
+ORD-0915,2025-08-17,CUST-088,Dinuka Gunasekara,Office Chair,Furniture,Chairs,North Western,Kurunegala,Consumer,6,26095.46,156572.76,119325.75,37247.01,Card
+ORD-0916,2025-04-09,CUST-144,Sahan Karunaratne,Laptop,Technology,Computers,Western,Kalutara,Corporate,2,186094.17,372188.34,317034.69,55153.65,Cash
+ORD-0917,2025-09-05,CUST-006,Tharushi Bandara,Notebook,Office Supplies,Paper,Western,Gampaha,Home Office,2,694.86,1389.72,1043.69,346.03,Card
+ORD-0918,2025-10-17,CUST-102,Rashmi Fernando,Desk,Furniture,Tables,Western,Colombo,Consumer,1,48401.81,48401.81,32402.57,15999.24,Online
+ORD-0919,2025-10-15,CUST-048,Amal Silva,Binder,Office Supplies,Binders,Southern,Galle,Home Office,4,1180.96,4723.84,3262.23,1461.61,Card
+ORD-0920,2025-01-05,CUST-135,Kasun Bandara,Monitor,Technology,Computers,North Western,Kurunegala,Consumer,5,71162.24,355811.2,262736.21,93074.99,Bank Transfer
+ORD-0921,2025-03-02,CUST-011,Ravindu Bandara,Desk,Furniture,Tables,Southern,Hambantota,Consumer,1,41728.41,41728.41,28456.12,13272.29,Bank Transfer
+ORD-0922,2025-05-08,CUST-167,Sahan Karunaratne,Laptop,Technology,Computers,Eastern,Batticaloa,Corporate,10,171647.2,1716472.0,1116063.93,600408.07,Cash
+ORD-0923,2025-03-10,CUST-015,Amal Karunaratne,Binder,Office Supplies,Binders,Central,Matale,Consumer,2,1221.4,2442.8,1720.72,722.08,Bank Transfer
+ORD-0924,2025-01-09,CUST-150,Sachini Wijesinghe,Printer,Technology,Accessories,Central,Matale,Home Office,2,55983.3,111966.6,92073.31,19893.29,Bank Transfer
+ORD-0925,2025-04-16,CUST-149,Chamari Silva,Monitor,Technology,Computers,Southern,Hambantota,Corporate,5,64960.55,324802.75,224076.97,100725.78,Card
+ORD-0926,2025-03-17,CUST-048,Tharushi Jayasinghe,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Home Office,6,607.74,3646.44,2432.88,1213.56,Online
+ORD-0927,2025-05-25,CUST-101,Nuwan Fernando,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,1,49195.48,49195.48,32774.57,16420.91,Cash
+ORD-0928,2025-08-21,CUST-135,Ravindu Perera,Notebook,Office Supplies,Paper,Central,Kandy,Home Office,6,698.92,4193.52,2709.27,1484.25,Cash
+ORD-0929,2025-01-11,CUST-012,Ravindu Jayasinghe,Notebook,Office Supplies,Paper,Southern,Galle,Consumer,1,599.41,599.41,501.07,98.34,Bank Transfer
+ORD-0930,2025-11-04,CUST-028,Ayesha Fernando,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,1,55880.12,55880.12,48558.74,7321.38,Card
+ORD-0931,2025-10-16,CUST-123,Ravindu Jayasinghe,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Consumer,6,945.43,5672.58,3970.35,1702.23,Bank Transfer
+ORD-0932,2025-01-11,CUST-131,Dilshan Silva,Binder,Office Supplies,Binders,Western,Gampaha,Consumer,5,1123.74,5618.7,3917.09,1701.61,Card
+ORD-0933,2025-08-07,CUST-176,Chamari Fernando,Laptop,Technology,Computers,Central,Kandy,Corporate,2,175775.33,351550.66,244180.06,107370.6,Card
+ORD-0934,2025-02-22,CUST-086,Sachini Karunaratne,Smartphone,Technology,Phones,Central,Kandy,Consumer,8,91683.58,733468.64,469299.19,264169.45,Cash
+ORD-0935,2025-04-02,CUST-109,Ravindu Bandara,Monitor,Technology,Computers,Western,Kalutara,Home Office,2,66203.1,132406.2,88335.46,44070.74,Bank Transfer
+ORD-0936,2025-02-23,CUST-068,Kavindu Perera,Storage Cabinet,Furniture,Storage,Sabaragamuwa,Ratnapura,Consumer,1,37995.44,37995.44,27203.57,10791.87,Card
+ORD-0937,2025-07-19,CUST-018,Sachini Wijesinghe,Storage Cabinet,Furniture,Storage,Western,Kalutara,Home Office,2,39804.85,79609.7,69566.79,10042.91,Bank Transfer
+ORD-0938,2025-06-15,CUST-082,Rashmi Wijesinghe,Printer,Technology,Accessories,Western,Gampaha,Corporate,10,49353.18,493531.8,355394.48,138137.32,Online
+ORD-0939,2025-11-22,CUST-063,Chamari Wijesinghe,Monitor,Technology,Computers,North Central,Anuradhapura,Home Office,2,71287.29,142574.58,112637.92,29936.66,Online
+ORD-0940,2025-09-10,CUST-149,Dilshan Jayasinghe,Binder,Office Supplies,Binders,Southern,Hambantota,Home Office,2,1261.71,2523.42,1816.87,706.55,Cash
+ORD-0941,2025-01-02,CUST-122,Ravindu Fernando,Office Chair,Furniture,Chairs,Central,Nuwara Eliya,Consumer,1,29570.67,29570.67,21120.07,8450.6,Bank Transfer
+ORD-0942,2025-03-13,CUST-108,Ishara Jayasinghe,Storage Cabinet,Furniture,Storage,Uva,Badulla,Consumer,1,35836.37,35836.37,30169.25,5667.12,Cash
+ORD-0943,2025-12-23,CUST-109,Sahan Perera,Printer,Technology,Accessories,Western,Gampaha,Home Office,3,50980.47,152941.41,95871.35,57070.06,Cash
+ORD-0944,2025-09-02,CUST-094,Ravindu Fernando,Monitor,Technology,Computers,Western,Gampaha,Consumer,5,72030.79,360153.95,226122.04,134031.91,Cash
+ORD-0945,2025-08-02,CUST-136,Dinuka Gunasekara,Laptop,Technology,Computers,Northern,Jaffna,Corporate,1,170853.83,170853.83,138959.7,31894.13,Bank Transfer
+ORD-0946,2025-11-27,CUST-165,Nimali Silva,Pen Set,Office Supplies,Writing,North Central,Anuradhapura,Home Office,3,869.29,2607.87,1722.58,885.29,Card
+ORD-0947,2025-08-05,CUST-067,Dinuka Jayasinghe,Laptop,Technology,Computers,Southern,Galle,Corporate,3,190828.12,572484.36,437424.16,135060.2,Card
+ORD-0948,2025-09-25,CUST-103,Nimali Jayasinghe,Desk,Furniture,Tables,Western,Gampaha,Corporate,2,48247.73,96495.46,78471.56,18023.9,Card
+ORD-0949,2025-02-09,CUST-165,Chamari Wijesinghe,Binder,Office Supplies,Binders,Northern,Jaffna,Consumer,5,1193.94,5969.7,4187.32,1782.38,Cash
+ORD-0950,2025-08-06,CUST-155,Ayesha Perera,Storage Cabinet,Furniture,Storage,Eastern,Batticaloa,Consumer,1,35619.08,35619.08,22804.41,12814.67,Bank Transfer
+ORD-0951,2025-02-24,CUST-080,Nuwan Jayasinghe,Printer,Technology,Accessories,Southern,Hambantota,Home Office,1,52807.96,52807.96,43128.03,9679.93,Cash
+ORD-0952,2025-02-13,CUST-124,Nimali Perera,Office Chair,Furniture,Chairs,Central,Matale,Corporate,8,28290.29,226322.32,173492.4,52829.92,Cash
+ORD-0953,2025-07-02,CUST-081,Chamari Karunaratne,Desk,Furniture,Tables,Western,Colombo,Consumer,4,48302.92,193211.68,144919.61,48292.07,Cash
+ORD-0954,2025-09-15,CUST-151,Chamari Gunasekara,Storage Cabinet,Furniture,Storage,Southern,Galle,Home Office,1,39869.57,39869.57,26275.98,13593.59,Cash
+ORD-0955,2025-03-19,CUST-060,Nuwan Silva,Desk,Furniture,Tables,Western,Kalutara,Home Office,3,41967.02,125901.06,98548.77,27352.29,Card
+ORD-0956,2025-11-08,CUST-034,Ayesha Bandara,Binder,Office Supplies,Binders,Southern,Hambantota,Corporate,3,1282.6,3847.8,2727.2,1120.6,Online
+ORD-0957,2025-12-31,CUST-157,Kavindu Silva,Laptop,Technology,Computers,Sabaragamuwa,Ratnapura,Home Office,4,176763.87,707055.48,476762.82,230292.66,Online
+ORD-0958,2025-01-08,CUST-023,Rashmi Fernando,Smartphone,Technology,Phones,North Central,Anuradhapura,Corporate,1,100630.95,100630.95,76706.48,23924.47,Bank Transfer
+ORD-0959,2025-06-01,CUST-023,Kavindu Silva,Printer,Technology,Accessories,Sabaragamuwa,Ratnapura,Home Office,1,50170.58,50170.58,35845.14,14325.44,Online
+ORD-0960,2025-05-12,CUST-032,Rashmi Perera,Desk,Furniture,Tables,Southern,Matara,Corporate,4,44582.73,178330.92,153414.84,24916.08,Bank Transfer
+ORD-0961,2025-11-14,CUST-160,Ayesha Karunaratne,Notebook,Office Supplies,Paper,Southern,Galle,Consumer,6,611.41,3668.46,2624.23,1044.23,Online
+ORD-0962,2025-05-15,CUST-165,Nimali Jayasinghe,Binder,Office Supplies,Binders,Southern,Matara,Home Office,5,1294.32,6471.6,4084.2,2387.4,Cash
+ORD-0963,2025-02-23,CUST-019,Ishara Wijesinghe,Printer,Technology,Accessories,Uva,Badulla,Corporate,1,49156.27,49156.27,35579.94,13576.33,Cash
+ORD-0964,2025-08-28,CUST-022,Tharushi Fernando,Storage Cabinet,Furniture,Storage,Southern,Matara,Corporate,3,40432.77,121298.31,89865.28,31433.03,Online
+ORD-0965,2025-06-18,CUST-055,Rashmi Fernando,Office Chair,Furniture,Chairs,Southern,Galle,Corporate,1,27294.06,27294.06,21211.2,6082.86,Online
+ORD-0966,2025-03-21,CUST-146,Nimali Wijesinghe,Laptop,Technology,Computers,Southern,Hambantota,Consumer,8,169790.8,1358326.4,917552.52,440773.88,Bank Transfer
+ORD-0967,2025-04-20,CUST-176,Dilshan Bandara,Notebook,Office Supplies,Paper,Southern,Matara,Corporate,1,688.27,688.27,597.2,91.07,Card
+ORD-0968,2025-02-05,CUST-116,Dilshan Jayasinghe,Smartphone,Technology,Phones,Western,Kalutara,Home Office,1,88641.98,88641.98,75095.87,13546.11,Bank Transfer
+ORD-0969,2025-01-28,CUST-077,Tharushi Jayasinghe,Printer,Technology,Accessories,Uva,Badulla,Corporate,1,55341.66,55341.66,39233.09,16108.57,Online
+ORD-0970,2025-10-02,CUST-091,Chamari Perera,Pen Set,Office Supplies,Writing,Southern,Matara,Home Office,3,851.14,2553.42,2045.65,507.77,Card
+ORD-0971,2025-12-08,CUST-082,Amal Silva,Smartphone,Technology,Phones,North Western,Kurunegala,Corporate,3,89598.18,268794.54,213061.7,55732.84,Card
+ORD-0972,2025-06-12,CUST-134,Amal Gunasekara,Pen Set,Office Supplies,Writing,Uva,Badulla,Consumer,1,967.68,967.68,702.21,265.47,Online
+ORD-0973,2025-01-19,CUST-140,Tharushi Wijesinghe,Monitor,Technology,Computers,Western,Gampaha,Consumer,1,73211.87,73211.87,53389.45,19822.42,Bank Transfer
+ORD-0974,2025-12-14,CUST-005,Dinuka Bandara,Office Chair,Furniture,Chairs,Central,Kandy,Home Office,3,25824.38,77473.14,64425.32,13047.82,Cash
+ORD-0975,2025-08-22,CUST-110,Ayesha Fernando,Pen Set,Office Supplies,Writing,Eastern,Batticaloa,Consumer,2,878.65,1757.3,1467.92,289.38,Online
+ORD-0976,2025-04-01,CUST-073,Dilshan Bandara,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Home Office,3,614.92,1844.76,1352.81,491.95,Cash
+ORD-0977,2025-02-23,CUST-027,Rashmi Fernando,Smartphone,Technology,Phones,North Central,Anuradhapura,Home Office,1,87649.68,87649.68,75593.39,12056.29,Online
+ORD-0978,2025-01-17,CUST-117,Chamari Fernando,Binder,Office Supplies,Binders,Northern,Jaffna,Consumer,3,1267.53,3802.59,2567.08,1235.51,Online
+ORD-0979,2025-08-26,CUST-102,Amal Karunaratne,Smartphone,Technology,Phones,Central,Nuwara Eliya,Consumer,2,99870.35,199740.7,160391.2,39349.5,Bank Transfer
+ORD-0980,2025-12-04,CUST-107,Ishara Perera,Desk,Furniture,Tables,Sabaragamuwa,Ratnapura,Corporate,1,47437.09,47437.09,39217.95,8219.14,Cash
+ORD-0981,2025-03-20,CUST-154,Ayesha Karunaratne,Laptop,Technology,Computers,Western,Colombo,Consumer,4,189814.17,759256.68,573185.98,186070.7,Online
+ORD-0982,2025-07-20,CUST-148,Dilshan Silva,Office Chair,Furniture,Chairs,Southern,Hambantota,Home Office,1,28647.07,28647.07,23932.42,4714.65,Online
+ORD-0983,2025-06-12,CUST-033,Sachini Wijesinghe,Printer,Technology,Accessories,Southern,Galle,Home Office,2,51479.18,102958.36,66499.8,36458.56,Bank Transfer
+ORD-0984,2025-06-15,CUST-161,Ravindu Perera,Binder,Office Supplies,Binders,Western,Kalutara,Home Office,1,1121.91,1121.91,823.18,298.73,Cash
+ORD-0985,2025-01-13,CUST-162,Sahan Silva,Monitor,Technology,Computers,Southern,Galle,Consumer,4,63980.36,255921.44,188860.71,67060.73,Card
+ORD-0986,2025-10-02,CUST-097,Kasun Perera,Desk,Furniture,Tables,Central,Kandy,Corporate,5,46629.45,233147.25,193476.15,39671.1,Cash
+ORD-0987,2025-01-12,CUST-118,Sachini Fernando,Printer,Technology,Accessories,Eastern,Batticaloa,Consumer,3,52660.23,157980.69,102195.97,55784.72,Bank Transfer
+ORD-0988,2025-04-03,CUST-054,Chamari Fernando,Desk,Furniture,Tables,Sabaragamuwa,Ratnapura,Corporate,1,44958.56,44958.56,32098.76,12859.8,Cash
+ORD-0989,2025-09-07,CUST-097,Ayesha Gunasekara,Notebook,Office Supplies,Paper,Western,Gampaha,Consumer,8,605.94,4847.52,3871.75,975.77,Card
+ORD-0990,2025-04-02,CUST-031,Ayesha Karunaratne,Desk,Furniture,Tables,Western,Colombo,Corporate,3,45944.74,137834.22,116090.92,21743.3,Cash
+ORD-0991,2025-05-11,CUST-006,Ravindu Jayasinghe,Printer,Technology,Accessories,Southern,Hambantota,Corporate,6,49444.47,296666.82,186213.12,110453.7,Cash
+ORD-0992,2025-06-17,CUST-033,Kasun Bandara,Office Chair,Furniture,Chairs,Western,Colombo,Corporate,1,26133.82,26133.82,20902.26,5231.56,Card
+ORD-0993,2025-12-29,CUST-127,Dilshan Wijesinghe,Smartphone,Technology,Phones,Central,Nuwara Eliya,Consumer,3,91873.68,275621.04,224286.78,51334.26,Bank Transfer
+ORD-0994,2025-12-18,CUST-027,Dinuka Silva,Printer,Technology,Accessories,Central,Kandy,Consumer,5,53808.74,269043.7,234091.3,34952.4,Online
+ORD-0995,2025-08-17,CUST-160,Sachini Wijesinghe,Notebook,Office Supplies,Paper,Sabaragamuwa,Ratnapura,Corporate,2,675.7,1351.4,1124.54,226.86,Card
+ORD-0996,2025-07-11,CUST-009,Kasun Wijesinghe,Monitor,Technology,Computers,Central,Nuwara Eliya,Corporate,6,71474.44,428846.64,315993.45,112853.19,Bank Transfer
+ORD-0997,2025-02-28,CUST-092,Ishara Fernando,Notebook,Office Supplies,Paper,Western,Colombo,Consumer,1,631.56,631.56,521.44,110.12,Bank Transfer
+ORD-0998,2025-06-10,CUST-085,Nuwan Gunasekara,Storage Cabinet,Furniture,Storage,Western,Kalutara,Home Office,1,36897.02,36897.02,22980.73,13916.29,Bank Transfer
+ORD-0999,2025-02-03,CUST-027,Kasun Fernando,Office Chair,Furniture,Chairs,Southern,Hambantota,Home Office,2,28456.07,56912.14,43087.51,13824.63,Online
+ORD-1000,2025-06-13,CUST-012,Kasun Wijesinghe,Notebook,Office Supplies,Paper,Central,Nuwara Eliya,Consumer,1,603.16,603.16,451.42,151.74,Cash
