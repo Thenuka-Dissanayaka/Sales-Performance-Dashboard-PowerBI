@@ -79,3 +79,8 @@ Core business metrics were calculated using the following DAX formulas:
 
 ```dax
 Total Sales = SUM(SalesData[Sales])
+Total Profit = SUM(SalesData[Profit])
+Total Orders = DISTINCTCOUNT(SalesData[Order ID])
+Total Customers = DISTINCTCOUNT(SalesData[Customer ID])
+Avg Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+Year = YEAR(SalesData[Order Date])
